@@ -7,4 +7,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 202061,諏訪市すわなび,3,都市計画,https://webgis.alandis.jp/suwa20/webgis_v191/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest_city&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2024-10-30T02:48:18.256Z,2024-10-30T02:48:18.256Z
 400009,土砂災害警戒区域等マップ,7,全レイヤー,https://www2.sabomap.jp/00common/map.php?PREF_KBN=fukuoka&extent={sabomapExtent1}%2C{sabomapExtent2}%2C{sabomapExtent3}%2C{sabomapExtent4},2024-10-29T11:08:22.115Z,2024-10-29T11:08:22.115Z
 401307,福岡市Ｗｅｂまっぷ,6,字図（地番現況図）情報,https://webmap.city.fukuoka.lg.jp/fukuoka/Map?mid=66&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=wh&gprj=3,2024-10-30T02:54:06.755Z,2024-10-30T02:54:06.755Z
-372021,まるがめマップ,4,現況平面図・道路台帳図・路線網図,https://www.sonicweb-asp.jp/marugame/map?theme=th_4&pos={lng}%2C{lat}#scale={sonicwebZL},2024-10-29T14:49:42.436Z,2024-10-29T14:49:42.436Z
+372021,まるがめマップ,4,現況平面図・道路台帳図・路線網図,https://www.sonicweb-asp.jp/marugame/map?theme=th_4&pos={lng}%2C{lat}#scale={sonicwebZ},2024-10-30T02:59:16.798Z,2024-10-30T02:59:16.798Z
