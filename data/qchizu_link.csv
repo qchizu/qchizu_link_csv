@@ -3,7 +3,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 372013,高松市スマートマップ,3,都市計画,https://maps.takamatsu-fact.com/?baseMap=gsi-base#layers=7rinFFmcVp9iEJemArGKGv2NyvqLye8BqnSo&map={mapLibreZ}/{lat}/{lng},2024-10-29T12:39:33.954Z,2024-10-29T12:39:33.954Z
 400009,ふくおか森林オープンデータ,8,林班・小班等,https://www.arcgis.com/apps/webappviewer/index.html?id=49d2cf9c5fa74321ac40857fa6e5f0bb&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2024-10-29T13:47:48.542Z,2024-10-29T13:47:48.542Z
 130001,都市計画情報等インターネット提供サービス,3,都市計画情報（用途地域・都市計画道路・注記）,https://www2.wagmap.jp/tokyo_tokeizu/Map?mid=1&bsw=1903&bsh=959&mpx={lng}&mpy={lat}&mps={wagmapZL},2024-10-29T11:30:11.563Z,2024-10-29T11:30:11.563Z
-402206,宗像市地図情報サービス「むなかたマップ」,2,背景（航空写真）,https://www.sonicweb-asp.jp/munakata/map?theme=th_27&layers=ortho%2Cth_27&&pos={lng}%2C{lat}#scale={sonicwebZL},2024-10-29T13:33:57.577Z,2024-10-29T13:33:57.577Z
+402206,宗像市地図情報サービス「むなかたマップ」,2,背景（航空写真）,https://www.sonicweb-asp.jp/munakata/map?theme=th_27&layers=ortho%2Cth_27&&pos={lng}%2C{lat}#scale={sonicwebZ},2024-10-30T02:34:45.616Z,2024-10-30T02:34:45.616Z
 202061,諏訪市すわなび,3,都市計画,https://webgis.alandis.jp/suwa20/webgis_v191/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest_city&x={webMercatorX}&y={webMercatorY}&s={alandisZL}&rs=3857&li=1&si=0,2024-10-29T11:35:18.203Z,2024-10-29T11:35:18.203Z
 400009,土砂災害警戒区域等マップ,7,全レイヤー,https://www2.sabomap.jp/00common/map.php?PREF_KBN=fukuoka&extent={sabomapExtent1}%2C{sabomapExtent2}%2C{sabomapExtent3}%2C{sabomapExtent4},2024-10-29T11:08:22.115Z,2024-10-29T11:08:22.115Z
 401307,福岡市Ｗｅｂまっぷ,6,字図（地番現況図）情報,https://webmap.city.fukuoka.lg.jp/fukuoka/Map?mid=66&mpx={lng}&mpy={lat}&mps={wagmapZL}&mtp=wh&gprj=3,2024-10-29T13:50:29.100Z,2024-10-29T13:50:29.100Z
