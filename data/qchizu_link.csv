@@ -11,3 +11,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 402036,久留米市市道路線網図,4,久留米市路線網図,https://kurume-koukai.maps.arcgis.com/apps/webappviewer/index.html?id=bb469f8bcc4e465ca98adc41416e17b0&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2024-10-30T03:03:05.834Z,2024-10-30T03:03:05.834Z
 431001,熊本市地図情報サービス,3,都市計画,https://www.sonicweb-asp.jp/kumamoto/map?theme=th_17#&pos={lng}%2C{lat}#scale={sonicwebZ},2024-10-31T07:26:33.469Z,2024-10-31T07:26:33.469Z
 10006,ほっかいどう森まっぷ,8,林班・小班,https://hokkaido-forest.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&t=gsi&mp=10&op=80&vlf=000005,2024-10-31T11:41:30.313Z,2024-10-31T11:41:30.313Z
+142051,ふじさわキュンマップ,4,市道認定路線網図,https://webgis.alandis.jp/fujisawa14/alandis/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=6677&li=4&si=0,2024-10-31T12:47:53.358Z,2024-10-31T12:47:53.358Z
