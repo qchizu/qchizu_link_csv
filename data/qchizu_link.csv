@@ -14,3 +14,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142051,ふじさわキュンマップ,4,市道認定路線網図,https://webgis.alandis.jp/fujisawa14/alandis/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=4&si=0,2024-10-31T13:01:55.685Z,2024-10-31T13:01:55.685Z
 282022,地図情報あまがさき,3,都市計画図,https://amagasaki.geocloud.jp/webgis/?z={z} &ll={lat}%2C{lng}&t=none&mp=1&op=100&vlf=-1,2024-11-01T07:39:38.952Z,2024-11-01T07:39:38.952Z
 122271,浦安市地理情報システム,3,https://www.sonicweb-asp.jp/urayasu/map?theme=toshikeikaku&pos={lng}%2C{lat}#scale={sonicwebZ},2024-11-01T07:43:52.376Z,2024-11-01T07:43:52.376Z
+131211,あだち地図情報提供サービス,4,道路台帳現況平面図,https://www.sonicweb-asp.jp/adachi/map?theme=th_4&pos={lng}%2C{lat}#scale={sonicwebZ},2024-11-01T08:01:33.286Z,2024-11-01T08:01:33.286Z
