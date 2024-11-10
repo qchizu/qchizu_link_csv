@@ -26,6 +26,6 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 382019,ｅ〜よまちナビ,4,市道路線情報地図,https://www2.wagmap.jp/matsuyamacity/Map?mpx={lng}&mpy={lat}&mid=2&mps={wagmapZ},2024-11-10T05:50:52.158Z,2024-11-10T05:50:52.158Z
 401307,福岡市Ｗｅｂまっぷ,3,都市計画情報マップ,https://webmap.city.fukuoka.lg.jp/fukuoka/Map?mid=7&mpx={lng}&mpy={lat}&mps={z}&mtp=dm&gprj=3,2024-11-10T06:01:50.969Z,2024-11-10T06:01:50.969Z
 384011,都市計画情報提供サービス,3,用途地域,https://www.town.masaki.ehime.jp/gsimaps-gh-pages/#{z}/{lat}/{lng}/&base=std&ls=std%7Cyoutotiiki&disp=11&lcd=youtotiiki&vs=c1j0h0k0l0u0t0z0r0s0m0f1&d=m,2024-11-10T06:11:45.396Z,2024-11-10T06:11:45.396Z
-382027,いまバリィまっぷ,4,道路,https://www.sonicweb-asp.jp/imabari/map?pos={lng}%2C{lat}&scale={z}&theme=th_31,2024-11-10T06:20:59.554Z,2024-11-10T06:20:59.554Z
+382027,いまバリィまっぷ,4,道路,https://www.sonicweb-asp.jp/imabari/map?pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_31,2024-11-10T07:02:33.847Z,2024-11-10T07:02:33.847Z
 380008,愛媛県都市計画情報,3,都市計画情報,https://www.pref.ehime.jp/h40800/johomap/index.html#{z}/{lat}/{lng}/&base=std&ls=std&disp=1&vs=c1j0h0k0l0u0t0z0r0s0m0f1&d=m,2024-11-10T06:34:55.333Z,2024-11-10T06:34:55.333Z
 412023,唐津デジタルマップ,6,地番参考図,https://www.sonicweb-asp.jp/karatsu/map?pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_2,2024-11-10T07:00:46.984Z,2024-11-10T07:00:46.984Z
