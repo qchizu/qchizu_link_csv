@@ -23,3 +23,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142042,かまくらわが街マップ,4,路線位置マップ,https://www2.wagmap.jp/kamakura-hazard/Map?mid=221&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=dm&gprj=3,2024-11-09T11:16:23.052Z,2024-11-09T11:16:23.052Z
 140007,ｅ－かなマップ,4,道路台帳・道路図郭,https://www2.wagmap.jp/pref-kanagawa/Map?mid=27&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=pfm&gprj=3,2024-11-09T11:21:19.975Z,2024-11-09T11:21:19.975Z
 382019,ｅ〜よまちナビ,3,都市計画情報,https://www2.wagmap.jp/matsuyamacity/Map?mpx={lng}&mpy={lat}&mid=3&mps={wagmapZ},2024-11-10T05:47:17.480Z,2024-11-10T05:47:17.480Z
+382019,ｅ〜よまちナビ,4,市道路線情報地図,https://www2.wagmap.jp/matsuyamacity/Map?mpx={lng}&mpy={lat}&mid=2&mps={wagmapZ},2024-11-10T05:50:52.158Z,2024-11-10T05:50:52.158Z
