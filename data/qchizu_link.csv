@@ -29,3 +29,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 382027,いまバリィまっぷ,4,道路,https://www.sonicweb-asp.jp/imabari/map?pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_31,2024-11-10T07:02:33.847Z,2024-11-10T07:02:33.847Z
 380008,愛媛県都市計画情報,3,都市計画情報,https://www.pref.ehime.jp/h40800/johomap/index.html#{z}/{lat}/{lng}/&base=std&ls=std&disp=1&vs=c1j0h0k0l0u0t0z0r0s0m0f1&d=m,2024-11-10T06:34:55.333Z,2024-11-10T06:34:55.333Z
 412023,唐津デジタルマップ,6,地番参考図,https://www.sonicweb-asp.jp/karatsu/map?pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_2,2024-11-10T07:00:46.984Z,2024-11-10T07:00:46.984Z
+442046,日田市Ｗｅｂマップ,4,道路情報マップ,https://www2.wagmap.jp/hita/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=doro&gprj=3,2024-11-17T12:29:19.031Z,2024-11-17T12:29:19.031Z
