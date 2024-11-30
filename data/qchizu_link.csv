@@ -31,3 +31,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 412023,唐津デジタルマップ,6,地番参考図,https://www.sonicweb-asp.jp/karatsu/map?pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_2,2024-11-10T07:00:46.984Z,2024-11-10T07:00:46.984Z
 442046,日田市Ｗｅｂマップ,4,道路情報マップ,https://www2.wagmap.jp/hita/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=doro&gprj=3,2024-11-17T12:29:19.031Z,2024-11-17T12:29:19.031Z
 32018,もりおか便利マップ,4,道路情報,https://www2.wagmap.jp/morioka/Map?mid=4&&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=dm&gprj=3,2024-11-30T12:41:21.654Z,2024-11-30T12:41:21.654Z
+402249,福津市地図サービス,5,下水道,https://www.sonicweb-asp.jp/fukutsu2/map?theme=th_20&&pos={lng}%2C{lat}#scale={sonicwebZ},2024-11-30T13:18:27.311Z,2024-11-30T13:18:27.311Z
