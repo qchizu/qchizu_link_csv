@@ -32,3 +32,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 442046,日田市Ｗｅｂマップ,4,道路情報マップ,https://www2.wagmap.jp/hita/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=doro&gprj=3,2024-11-17T12:29:19.031Z,2024-11-17T12:29:19.031Z
 32018,もりおか便利マップ,4,道路情報,https://www2.wagmap.jp/morioka/Map?mid=4&&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=dm&gprj=3,2024-11-30T12:41:21.654Z,2024-11-30T12:41:21.654Z
 402249,福津市地図サービス,5,下水道,https://www.sonicweb-asp.jp/fukutsu2/map?theme=th_20&&pos={lng}%2C{lat}#scale={sonicwebZ},2024-11-30T13:18:27.311Z,2024-11-30T13:18:27.311Z
+82163,笠間市地理情報システム,3,都市計画用途地域図,https://www2.wagmap.jp/kasamacity/Map?mid=104&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=dm_kasama&gprj=3&fid=1-25023&ffid=1-25023,2024-12-27T11:41:39.007Z,2024-12-27T11:41:39.007Z
