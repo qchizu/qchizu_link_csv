@@ -36,4 +36,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 80004,いばらきデジタルまっぷ,8,森林計画図（茨城県）,https://www2.wagmap.jp/ibaraki/Map?mpx={lng}&mpy={lat}&mid=87&mps={wagmapZ}&mtp=pfm,2024-12-27T11:49:53.187Z,2024-12-27T11:49:53.187Z
 402176,筑紫野市公開型ＧＩＳ「ちくしのデジタルマップ」,5,下水道台帳図,https://experience.arcgis.com/experience/e0ab7181654e4d6e84d1052cd2ec9215/&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2025-01-08T14:36:53.451Z,2025-01-08T14:36:53.451Z
 402214,だざいふマップ,4,道路台帳図マップ,https://dazaifu.maps.arcgis.com/apps/webappviewer/index.html?id=9457a348df214ea8858d6fb3a56c6e3d&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2025-01-09T12:19:07.498Z,2025-01-09T12:19:07.498Z
-462012,かごしまｉマップ,3,都市計画マップ,https://www2.wagmap.jp/kagoshima/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2025-01-18T07:13:08.396Z,2025-01-18T07:13:08.396Z
+462012,かごしまｉマップ,3,都市計画マップ,https://www2.wagmap.jp/kagoshima/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2025-01-18T07:16:38.525Z,2025-01-18T07:16:38.525Z
