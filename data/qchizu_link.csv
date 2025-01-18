@@ -13,7 +13,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 10006,ほっかいどう森まっぷ,8,林班・小班,https://hokkaido-forest.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&t=gsi&mp=10&op=80&vlf=000005,2024-10-31T11:41:30.313Z,2024-10-31T11:41:30.313Z
 142051,ふじさわキュンマップ,4,市道認定路線網図,https://webgis.alandis.jp/fujisawa14/alandis/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=4&si=0,2024-10-31T13:01:55.685Z,2024-10-31T13:01:55.685Z
 282022,地図情報あまがさき,3,都市計画図,https://amagasaki.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&t=none&mp=1&op=100&vlf=-1,2024-11-05T22:58:20.789Z,2024-11-05T22:58:20.789Z
-122271,浦安市地理情報システム,3,https://www.sonicweb-asp.jp/urayasu/map?theme=toshikeikaku&pos={lng}%2C{lat}#scale={sonicwebZ},2024-11-01T07:43:52.376Z,2024-11-01T07:43:52.376Z
+122271,浦安市地理情報システム,3,都市計画図,https://www.sonicweb-asp.jp/urayasu/map?theme=toshikeikaku&pos={lng}%2C{lat}#scale={sonicwebZ},2025-01-18T06:14:36.374Z,2025-01-18T06:14:36.374Z
 131211,あだち地図情報提供サービス,4,道路台帳現況平面図,https://www.sonicweb-asp.jp/adachi/map?theme=th_4&pos={lng}%2C{lat}#scale={sonicwebZ},2024-11-01T08:01:33.286Z,2024-11-01T08:01:33.286Z
 252069,くさつまっぷ,6,地番参考図,https://webgis.alandis.jp/kusatsu25/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=chibansankou&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2024-11-02T01:59:58.625Z,2024-11-02T01:59:58.625Z
 130001,土砂災害警戒区域等マップ,7,全レイヤー,https://www2.sabomap.jp/00common/map.php?PREF_KBN=tokyo&extent={sabomapExtent1}%2C{sabomapExtent2}%2C{sabomapExtent3}%2C{sabomapExtent4},2024-11-02T12:11:10.206Z,2024-11-02T12:11:10.206Z
