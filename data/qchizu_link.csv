@@ -40,3 +40,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232050,はんだマップ,6,地番図,https://www.sonicweb-asp.jp/handa/map?theme=th_73&pos={lng}%2C{lat}#scale={sonicwebZ},2025-01-18T08:57:38.828Z,2025-01-18T08:57:38.828Z
 40002,宮城県森林情報提供システム,8,森林基本図,https://fgis-pref-miyagi.jp/map.html#{z}/{lat}/{lng},2025-01-18T09:02:44.511Z,2025-01-18T09:02:44.511Z
 100005,群馬県統合型地理情報システム「マッピングぐんま」,7,土砂災害警戒区域等,https://mapping-gunma.pref.gunma.jp/pref-gunma/Map?mid=135&mpx={lng}&mpy={lat}&mps={wagmapZ}&bsw=1903&bsh=911,2025-01-26T09:07:13.388Z,2025-01-26T09:07:13.388Z
+300004,わかやま土砂災害マップ,7,ー,https://sabomap.pref.wakayama.jp/MapForm.aspx?x={lng}&y={lat}&z={z},2025-01-26T09:12:23.906Z,2025-01-26T09:12:23.906Z
