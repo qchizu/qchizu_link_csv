@@ -43,3 +43,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 300004,わかやま土砂災害マップ,7,ー,https://sabomap.pref.wakayama.jp/MapForm.aspx?x={lng}&y={lat}&z={z},2025-01-26T09:12:23.906Z,2025-01-26T09:12:23.906Z
 300004,和歌山県地理情報システム,8,地域森林計画対象民有林区域,https://wakayamaken.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&t=gsi&mp=6&op=70&vlf=-1,2025-01-26T09:22:01.162Z,2025-01-26T09:22:01.162Z
 403458,新宮町Ｗｅｂマップ,3,都市計画情報マップ,https://www2.wagmap.jp/shingu/Map?mid=6&&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=dm&gprj=3,2025-01-26T09:24:51.477Z,2025-01-26T09:24:51.477Z
+372030,さかいでオンラインＭＡＰ,3,都市計画基本図,https://www.city.sakaide.lg.jp/opendata/#{z}/{lat}/{lng},2025-01-28T13:05:10.054Z,2025-01-28T13:05:10.054Z
