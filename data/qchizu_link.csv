@@ -47,3 +47,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 372056,かんおんじマップ,3,地域地区,https://webgis.alandis.jp/kanonji37/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2025-01-28T13:12:26.321Z,2025-01-28T13:12:26.321Z
 220001,静岡県地理情報システム,3,都市計画情報,https://www.gis.pref.shizuoka.jp/?z={z}&ll={lat}%2C{lng}&t=gsi&mp=301&op=70&vlf=00000f,2025-02-05T08:02:38.858Z,2025-02-05T08:02:38.858Z
 382027,いまバリィまっぷ,3,都市計画情報,https://www.sonicweb-asp.jp/imabari/map?pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_2,2025-06-07T06:00:40.912Z,2025-06-07T06:00:40.912Z
+382027,いまバリィまっぷ,5,下水道,https://www.sonicweb-asp.jp/imabari/map?pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_27,2025-06-07T06:02:16.187Z,2025-06-07T06:02:16.187Z
