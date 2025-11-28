@@ -19,7 +19,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 130001,土砂災害警戒区域等マップ,7,全レイヤー,https://www2.sabomap.jp/00common/map.php?PREF_KBN=tokyo&extent={sabomapExtent1}%2C{sabomapExtent2}%2C{sabomapExtent3}%2C{sabomapExtent4},2024-11-02T12:11:10.206Z,2024-11-02T12:11:10.206Z
 220001,静岡県ＧＩＳ,4,道路台帳図,https://www.gis.pref.shizuoka.jp/?z={z}&ll={lat}%2C{lng}&t=gsi&mp=601&op=70&vlf=-1,2024-11-02T12:49:44.772Z,2024-11-02T12:49:44.772Z
 90000,とちもりマップ,8,森林計画図,https://www2.wagmap.jp/tochigi-shinrin/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=shinrin&gprj=3,2024-11-04T07:15:17.364Z,2024-11-04T07:15:17.364Z
-250007,滋賀県防災情報マップ,7,土砂災害警戒区域等マップ,https://shiga-bousai.jp/dmap/map/index?l=M_d_risk_map&z={z}&lon={lng}&lat={lat},2024-11-04T11:27:01.068Z,2024-11-04T11:27:01.068Z
+250007,滋賀県防災情報マップ,7,土砂災害警戒区域等マップ,https://shiga-bousai.jp/dmap/map/index?l=M_d_risk_map&z={z}&lon={lng}&lat={lat},2025-11-28T03:31:23.819Z,2025-11-28T03:31:23.819Z
 142042,かまくらわが街マップ,4,路線位置マップ,https://www2.wagmap.jp/kamakura-hazard/Map?mid=221&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=dm&gprj=3,2024-11-09T11:16:23.052Z,2024-11-09T11:16:23.052Z
 140007,ｅ－かなマップ,4,道路台帳・道路図郭,https://www2.wagmap.jp/pref-kanagawa/Map?mid=27&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=pfm&gprj=3,2024-11-09T11:21:19.975Z,2024-11-09T11:21:19.975Z
 382019,ｅ〜よまちナビ,3,都市計画情報,https://www2.wagmap.jp/matsuyamacity/Map?mpx={lng}&mpy={lat}&mid=3&mps={wagmapZ}&mtp=dm&gprj=3,2025-06-07T05:55:56.093Z,2025-06-07T05:55:56.093Z
