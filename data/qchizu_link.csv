@@ -53,3 +53,5 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 11002,札幌市地図情報サービス,7,土砂災害,https://www.sonicweb-asp.jp/sapporo/map?theme=th_28#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=dm%2Cth_15,2026-01-01T12:53:03.597Z,2026-01-01T12:53:03.597Z
 11002,札幌市地図情報サービス,7,土砂災害,https://www.sonicweb-asp.jp/sapporo/map?theme=th_28#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=dm%2Cth_15,2026-01-01T12:53:04.440Z,2026-01-01T12:53:04.440Z
 11002,札幌市地図情報サービス,7,土砂災害,https://www.sonicweb-asp.jp/sapporo/map?theme=th_28#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=dm%2Cth_15,2026-01-01T12:53:04.919Z,2026-01-01T12:53:04.919Z
+11002,札幌市地図情報サービス,7,土砂災害,https://www.sonicweb-asp.jp/sapporo/map?theme=th_28#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=dm%2Cth_15,2026-01-01T12:53:07.168Z,2026-01-01T12:53:07.168Z
+11002,札幌市地図情報サービス,7,土砂災害,https://www.sonicweb-asp.jp/sapporo/map?theme=th_28#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=dm%2Cth_15,2026-01-01T12:53:07.257Z,2026-01-01T12:53:07.257Z
