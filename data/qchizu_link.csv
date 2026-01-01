@@ -50,3 +50,6 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 382027,いまバリィまっぷ,5,下水道,https://www.sonicweb-asp.jp/imabari/map?pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_27,2025-06-07T06:02:16.187Z,2025-06-07T06:02:16.187Z
 382060,Ｇｏｏｇｌｅマイマップ,4,西条市道路網図,https://www.google.com/maps/d/viewer?mid=1a62A_SEoViDbgtTx0MSTRRXGqHWZ4-8&femb=1&ll={lat}%2C{lng}&z={z},2025-06-07T06:07:49.172Z,2025-06-07T06:07:49.172Z
 234478,武豊町公開型ＧＩＳ　「たけとよまっぷ」,6,地番参考図,https://www2.wagmap.jp/taketoyotown/Map?mid=90&&mpx={lng}&mpy={lat}&mps={wagmapZ},2025-07-06T13:23:23.156Z,2025-07-06T13:23:23.156Z
+11002,札幌市地図情報サービス,7,土砂災害,https://www.sonicweb-asp.jp/sapporo/map?theme=th_28#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=dm%2Cth_15,2026-01-01T12:53:03.597Z,2026-01-01T12:53:03.597Z
+11002,札幌市地図情報サービス,7,土砂災害,https://www.sonicweb-asp.jp/sapporo/map?theme=th_28#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=dm%2Cth_15,2026-01-01T12:53:04.440Z,2026-01-01T12:53:04.440Z
+11002,札幌市地図情報サービス,7,土砂災害,https://www.sonicweb-asp.jp/sapporo/map?theme=th_28#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=dm%2Cth_15,2026-01-01T12:53:04.919Z,2026-01-01T12:53:04.919Z
