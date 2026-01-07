@@ -60,3 +60,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 12211,名寄市 地理情報システム,3,都市計画用途地域,https://www.sonicweb-asp.jp/nayoro/map?theme=th_20&layers=th_20%2Cblank#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=&theme=th_22,2026-01-01T13:18:58.221Z,2026-01-01T13:18:58.221Z
 12254,たきみちまっぷ（道路情報公開システム）,4,道路台帳現況平面図,https://www.sonicweb-asp.jp/takikawa/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-01-01T13:34:44.732Z,2026-01-01T13:34:44.732Z
 12254,滝川市都市計画情報閲覧サービス,3,都市計画区域・用途地域・都市計画道路,https://takikawa-gis.maps.arcgis.com/apps/webappviewer/index.html?id=1040072c27f44a36af50d46e8cab27e9&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-01-01T13:45:43.879Z,2026-01-01T13:45:43.879Z
+320005,マップ ｏｎ しまね,1,地形図（一部）,https://web-gis.pref.shimane.lg.jp/shimane/Map?mps=2500&mid=800&mpx={lng}&mpy={lat}&gprj={z}&mcl=-1%2C-1%2C-1%2C-1&mtp=dm,2026-01-07T10:22:08.945Z,2026-01-07T10:22:08.945Z
