@@ -71,3 +71,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272141,とんだばやしマップ,6,地番参考図,https://www.sonicweb-asp.jp/tondabayashi/map?theme=th_16&pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-19T07:55:26.759Z,2026-03-19T07:55:26.759Z
 272141,とんだばやしマップ,5,下水道台帳図,https://www.sonicweb-asp.jp/tondabayashi/map?theme=th_22&pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-19T07:55:52.303Z,2026-03-19T07:55:52.303Z
 272141,とんだばやしマップ,7,ハザードマップ（洪水・土砂災害）,https://www.sonicweb-asp.jp/tondabayashi/map?theme=th_18&pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-19T07:56:42.379Z,2026-03-19T07:56:42.379Z
+272141,とんだばやしマップ,2,航空写真,https://www.sonicweb-asp.jp/tondabayashi/map?theme=th_ortho&pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-19T07:58:12.501Z,2026-03-19T07:58:12.501Z
