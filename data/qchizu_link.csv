@@ -74,3 +74,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272141,とんだばやしマップ,2,航空写真,https://www.sonicweb-asp.jp/tondabayashi/map?theme=th_ortho&pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-19T07:58:12.501Z,2026-03-19T07:58:12.501Z
 143014,はやまＭａｐ,3,都市計画マップ,https://www2.wagmap.jp/hayama/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:03:26.217Z,2026-03-19T08:03:26.217Z
 143014,はやまＭａｐ,4,道路台帳図,https://www2.wagmap.jp/hayama/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:04:31.738Z,2026-03-19T08:04:31.738Z
+143014,はやまＭａｐ,7,葉山町オールハザードマップ,https://www2.wagmap.jp/hayama/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:05:51.241Z,2026-03-19T08:05:51.241Z
