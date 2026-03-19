@@ -86,3 +86,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 221309,浜松市地図情報サイト,5,下水道管網図,https://www2.wagmap.jp/hamamatsu/Map?mid=67&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:21:31.290Z,2026-03-19T08:21:31.290Z
 282031,あかし地図情報,3,都市計画情報,https://webgis.alandis.jp/akashi-cp28/webgis/index.php/autologin_jswebgis?u=ToshiKeikaku&ap=jsWebGIS&m=2&op=search_drilldown_2&x={webMercatorX}&y={webMercatorY}&s={alandisZ},2026-03-19T08:25:29.358Z,2026-03-19T08:25:29.358Z
 282031,あかし地図情報,4,道路種別図,https://webgis.alandis.jp/akashi-cp28/webgis/index.php/autologin_jswebgis?u=DoroShubetsu&ap=jsWebGIS&m=2&op=search_drilldown_2&x={webMercatorX}&y={webMercatorY}&s={alandisZ},2026-03-19T08:26:44.346Z,2026-03-19T08:26:44.346Z
+282031,あかし地図情報,5,下水道,https://webgis.alandis.jp/akashi-cp28/webgis/index.php/autologin_jswebgis?u=GesuiDaicho&ap=jsWebGIS&m=2&op=search_drilldown_2&x={webMercatorX}&y={webMercatorY}&s={alandisZ},2026-03-19T08:27:54.445Z,2026-03-19T08:27:54.445Z
