@@ -83,3 +83,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 221309,浜松市地図情報サイト,3,都市計画マップ,https://www2.wagmap.jp/hamamatsu/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:18:33.000Z,2026-03-19T08:18:33.000Z
 221309,浜松市地図情報サイト,4,路線認定図,https://www2.wagmap.jp/hamamatsu/Map?mid=61&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:20:25.297Z,2026-03-19T08:20:25.297Z
 221309,浜松市地図情報サイト,6,地番図,https://www2.wagmap.jp/hamamatsu/Map?mid=64&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:21:01.806Z,2026-03-19T08:21:01.806Z
+221309,浜松市地図情報サイト,5,下水道管網図,https://www2.wagmap.jp/hamamatsu/Map?mid=67&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:21:31.290Z,2026-03-19T08:21:31.290Z
