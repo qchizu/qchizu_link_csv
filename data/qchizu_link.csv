@@ -63,3 +63,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 320005,マップ ｏｎ しまね,1,地形図（一部）,https://web-gis.pref.shimane.lg.jp/shimane/Map?mps=2500&mid=800&mpx={lng}&mpy={lat}&gprj={z}&mcl=-1%2C-1%2C-1%2C-1&mtp=dm,2026-01-07T10:22:08.945Z,2026-01-07T10:22:08.945Z
 12343,北広島市オープンマップ,3,都市計画指定状況等,https://city.kitahiroshima.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=100,2026-03-19T07:40:24.649Z,2026-03-19T07:40:24.649Z
 12343,北広島市オープンマップ,6,地番図,https://city.kitahiroshima.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=200,2026-03-19T07:41:13.399Z,2026-03-19T07:41:13.399Z
+12343,北広島市オープンマップ,7,北広島市防災マップ,https://city.kitahiroshima.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=400,2026-03-19T07:43:14.702Z,2026-03-19T07:43:14.702Z
