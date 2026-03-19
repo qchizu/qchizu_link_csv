@@ -76,3 +76,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 143014,はやまＭａｐ,4,道路台帳図,https://www2.wagmap.jp/hayama/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:04:31.738Z,2026-03-19T08:04:31.738Z
 143014,はやまＭａｐ,7,葉山町オールハザードマップ,https://www2.wagmap.jp/hayama/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:05:51.241Z,2026-03-19T08:05:51.241Z
 143014,はやまＭａｐ,5,下水道台帳マップ,https://www2.wagmap.jp/hayama/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:06:21.588Z,2026-03-19T08:06:21.588Z
+232165,常滑市の地図情報（公開型ＧＩＳ）,7,ハザードマップ,https://webgis.alandis.jp/tokoname23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest14&x={webMercatorX}&y={webMercatorY}&s={alandisZ},2026-03-19T08:12:58.081Z,2026-03-19T08:12:58.081Z
