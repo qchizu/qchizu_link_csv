@@ -66,3 +66,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 12343,北広島市オープンマップ,7,北広島市防災マップ,https://city.kitahiroshima.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=400,2026-03-19T07:43:14.702Z,2026-03-19T07:43:14.702Z
 12343,北広島市オープンマップ,4,道路台帳図,https://city.kitahiroshima.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=500
 ,2026-03-19T07:43:43.165Z,2026-03-19T07:43:43.165Z
+272141,とんだばやしマップ,3,都市計画図,https://www.sonicweb-asp.jp/tondabayashi/map?theme=th_3&pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-19T07:52:28.939Z,2026-03-19T07:52:28.939Z
