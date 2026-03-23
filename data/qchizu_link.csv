@@ -290,3 +290,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132195,狛江市地図情報サービス,4,道路台帳平面図,https://www2.wagmap.jp/komaecity/Map?mid=120&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:12:40.294Z,2026-03-23T08:12:40.294Z
 132195,狛江市地図情報サービス,5,下水道台帳マップ,https://www2.wagmap.jp/komaecity/Map?mid=132&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:13:05.417Z,2026-03-23T08:13:05.417Z
 132195,狛江市地図情報サービス,6,地番マップ,https://www2.wagmap.jp/komaecity/Map?mid=50&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:13:34.644Z,2026-03-23T08:13:34.644Z
+132195,狛江市地図情報サービス,7,土砂災害警戒区域マップ,https://www2.wagmap.jp/komaecity/Map?mid=31&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:14:05.199Z,2026-03-23T08:14:05.199Z
