@@ -296,3 +296,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132225,東久留米市都市計画情報マップ（Ｇｏｏｇｌｅマイマップ）,3,都市計画情報,https://www.google.com/maps/d/viewer?mid=1s43PRDBUwiDPdTXrbNQwo7IiQnNUfsI&ll={lat}%2C{lng}&z={z},2026-03-23T08:20:12.303Z,2026-03-23T08:20:12.303Z
 132241,多摩市地理情報システム,3,都市計画情報,https://www.sonicweb-asp.jp/tama/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:21:22.511Z,2026-03-23T08:21:22.511Z
 132241,多摩市地理情報システム,4,道路台帳図,https://www.sonicweb-asp.jp/tama/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:21:46.306Z,2026-03-23T08:21:46.306Z
+132241,多摩市地理情報システム,5,下水道台帳（汚水）,https://www.sonicweb-asp.jp/tama/map?theme=th_21#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:22:15.248Z,2026-03-23T08:22:15.248Z
