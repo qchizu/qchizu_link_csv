@@ -139,3 +139,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272035,地図情報 とよなか,6,地番参考図,https://gis.city.toyonaka.osaka.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=3&bg=BG3&vlf=-1&ar=1,2026-03-23T05:10:09.316Z,2026-03-23T05:10:09.316Z
 272035,地図情報 とよなか,1,地形図,https://gis.city.toyonaka.osaka.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=7&bg=BG3&vlf=-1&ar=1,2026-03-23T05:10:36.943Z,2026-03-23T05:10:36.943Z
 272035,地図情報 とよなか,7,土砂災害警戒区域・土砂災害特別警戒区域,https://gis.city.toyonaka.osaka.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=64&vlf=-1,2026-03-23T05:11:46.905Z,2026-03-23T05:11:46.905Z
+272043,いけだデジタルマップ～地図情報提供サービス,3,都市計画情報,https://www.sonicweb-asp.jp/ikeda/map?theme=th_26#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:13:48.319Z,2026-03-23T05:13:48.319Z
