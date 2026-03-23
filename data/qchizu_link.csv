@@ -189,3 +189,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272191,いずみマップ（和泉市地図情報システム）,3,都市計画図,https://webgis.alandis.jp/izumi27/webgis/index.php/autologin_jswebgis?u=tokei&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T06:14:48.370Z,2026-03-23T06:14:48.370Z
 272191,いずみマップ（和泉市地図情報システム）,4,路線網図,https://webgis.alandis.jp/izumi27/webgis/index.php/autologin_jswebgis?u=douromou&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T06:15:30.242Z,2026-03-23T06:15:30.242Z
 272191,いずみマップ（和泉市地図情報システム）,7,ハザードマップ,https://webgis.alandis.jp/izumi27/webgis/index.php/autologin_jswebgis?u=hazard&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T06:16:08.216Z,2026-03-23T06:16:08.216Z
+272205,地図情報サイト　みのおマップ,3,都市計画情報,https://www2.wagmap.jp/minoh/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:17:22.042Z,2026-03-23T06:17:22.042Z
