@@ -232,3 +232,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 273015,しまもとマップ,7,防災情報,https://www2.wagmap.jp/shimamoto/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:01:12.782Z,2026-03-23T07:01:12.782Z
 273015,しまもとマップ,8,森林情報,https://www2.wagmap.jp/shimamoto/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:01:42.802Z,2026-03-23T07:01:42.802Z
 273414,大阪府忠岡町公開型ＧＩＳ,1,地形図,https://webgis.alandis.jp/tadaoka27/webgis/index.php/autologin_jswebgis?u=Chikei&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T07:05:59.806Z,2026-03-23T07:05:59.806Z
+273414,大阪府忠岡町公開型ＧＩＳ,3,都市計画図,https://webgis.alandis.jp/tadaoka27/webgis/index.php/autologin_jswebgis?u=CityPlanning&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T07:07:22.669Z,2026-03-23T07:07:22.669Z
