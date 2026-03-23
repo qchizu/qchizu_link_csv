@@ -299,3 +299,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132241,多摩市地理情報システム,5,下水道台帳（汚水）,https://www.sonicweb-asp.jp/tama/map?theme=th_21#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:22:15.248Z,2026-03-23T08:22:15.248Z
 132241,多摩市地理情報システム,7,ハザードマップ,https://www.sonicweb-asp.jp/tama/map?theme=th_17#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:22:47.313Z,2026-03-23T08:22:47.313Z
 132292,西東京市まちづくりマップ,4,道路台帳図,https://www2.wagmap.jp/nishitokyo/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:24:30.355Z,2026-03-23T08:24:30.355Z
+131016,千代田区 都市計画情報提供ポータル,3,都市計画情報,https://tokei-gis2.chiyodatoshikei.jp/toshikei/apps/experiencebuilder/experience/?id=deb533331f84464098ff8a18fafd5e84&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-23T08:29:14.449Z,2026-03-23T08:29:14.449Z
