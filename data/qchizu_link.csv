@@ -235,3 +235,5 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 273414,大阪府忠岡町公開型ＧＩＳ,3,都市計画図,https://webgis.alandis.jp/tadaoka27/webgis/index.php/autologin_jswebgis?u=CityPlanning&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T07:07:22.669Z,2026-03-23T07:07:22.669Z
 273414,大阪府忠岡町公開型ＧＩＳ,4,道路台帳図,https://webgis.alandis.jp/tadaoka27/webgis/index.php/autologin_jswebgis?u=Road&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T07:07:58.073Z,2026-03-23T07:07:58.073Z
 273414,大阪府忠岡町公開型ＧＩＳ,5,下水道,https://webgis.alandis.jp/tadaoka27/webgis/index.php/autologin_jswebgis?u=Gesui&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T07:08:36.574Z,2026-03-23T07:08:36.574Z
+273660,みさきデジタルマップ,1,地形図（白図）,https://www.sonicweb-asp.jp/misaki/map?theme=th_41#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T07:10:49.739Z,2026-03-23T07:10:49.739Z
+273660,みさきデジタルマップ,4,道路台帳網図マップ,https://www.sonicweb-asp.jp/misaki/map?theme=th_32#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T07:11:26.483Z,2026-03-23T07:11:26.483Z
