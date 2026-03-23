@@ -298,3 +298,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132241,多摩市地理情報システム,4,道路台帳図,https://www.sonicweb-asp.jp/tama/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:21:46.306Z,2026-03-23T08:21:46.306Z
 132241,多摩市地理情報システム,5,下水道台帳（汚水）,https://www.sonicweb-asp.jp/tama/map?theme=th_21#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:22:15.248Z,2026-03-23T08:22:15.248Z
 132241,多摩市地理情報システム,7,ハザードマップ,https://www.sonicweb-asp.jp/tama/map?theme=th_17#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:22:47.313Z,2026-03-23T08:22:47.313Z
+132292,西東京市まちづくりマップ,4,道路台帳図,https://www2.wagmap.jp/nishitokyo/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:24:30.355Z,2026-03-23T08:24:30.355Z
