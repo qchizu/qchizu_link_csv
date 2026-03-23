@@ -96,3 +96,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 162060,なめりかわデジタルマップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/namerikawacity/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T02:36:30.977Z,2026-03-23T02:36:30.977Z
 162060,なめりかわデジタルマップ,3,都市計画情報,https://www2.wagmap.jp/namerikawacity/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T02:37:52.748Z,2026-03-23T02:37:52.748Z
 162060,なめりかわデジタルマップ,4,道路台帳情報,https://www2.wagmap.jp/namerikawacity/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T02:38:46.991Z,2026-03-23T02:38:46.991Z
+162060,なめりかわデジタルマップ,5,下水道台帳情報,https://www2.wagmap.jp/namerikawacity/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T02:59:53.646Z,2026-03-23T02:59:53.646Z
