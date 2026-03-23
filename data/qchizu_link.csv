@@ -226,3 +226,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272302,交野くらしのマップ,6,地番参考図,https://webgis.alandis.jp/katano27/webgis/index.php/autologin_jswebgis?u=guest3&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T06:55:30.714Z,2026-03-23T06:55:30.714Z
 272302,交野くらしのマップ,7,ハザードマップ,https://webgis.alandis.jp/katano27/webgis/index.php/autologin_jswebgis?u=guest6&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T06:55:56.359Z,2026-03-23T06:55:56.359Z
 273015,しまもとマップ,3,都市計画情報,https://www2.wagmap.jp/shimamoto/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:59:11.965Z,2026-03-23T06:59:11.965Z
+273015,しまもとマップ,4,道路情報,https://www2.wagmap.jp/shimamoto/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:59:44.360Z,2026-03-23T06:59:44.360Z
