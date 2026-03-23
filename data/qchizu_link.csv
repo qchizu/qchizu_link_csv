@@ -192,3 +192,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272205,地図情報サイト　みのおマップ,3,都市計画情報,https://www2.wagmap.jp/minoh/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:17:22.042Z,2026-03-23T06:17:22.042Z
 272205,地図情報サイト　みのおマップ,4,道路台帳平面図,https://www2.wagmap.jp/minoh/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:17:52.800Z,2026-03-23T06:17:52.800Z
 272205,地図情報サイト　みのおマップ,5,下水道情報,https://www2.wagmap.jp/minoh/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:18:19.071Z,2026-03-23T06:18:19.071Z
+272205,地図情報サイト　みのおマップ,7,水害・土砂災害ハザードマップ,https://www2.wagmap.jp/minoh/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:18:50.939Z,2026-03-23T06:18:50.939Z
