@@ -253,3 +253,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142115,はだのＷＥＢマップ,3,都市計画情報,https://www2.wagmap.jp/hadano/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:31:41.158Z,2026-03-23T07:31:41.158Z
 142115,はだのＷＥＢマップ,4,道路台帳図,https://www2.wagmap.jp/hadano/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:32:11.701Z,2026-03-23T07:32:11.701Z
 142115,はだのＷＥＢマップ,5,公共下水道台帳（汚水）参考図,https://www2.wagmap.jp/hadano/Map?mid=14&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:32:42.555Z,2026-03-23T07:32:42.555Z
+142115,はだのＷＥＢマップ,8,森林計画図,https://www2.wagmap.jp/hadano/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:33:25.111Z,2026-03-23T07:33:25.111Z
