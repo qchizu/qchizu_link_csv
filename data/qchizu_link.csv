@@ -133,3 +133,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272027,岸和田市地図情報配信サービス,3,都市計画マップ,https://www2.wagmap.jp/kishiwada/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:03:42.871Z,2026-03-23T05:03:42.871Z
 272027,岸和田市地図情報配信サービス,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/kishiwada/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:05:08.161Z,2026-03-23T05:05:08.161Z
 272027,岸和田市地図情報配信サービス,4,認定路線マップ,https://www2.wagmap.jp/kishiwada/Map?mid=58&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:05:40.756Z,2026-03-23T05:05:40.756Z
+272035,地図情報 とよなか,3,都市計画情報,https://gis.city.toyonaka.osaka.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=1&vlf=-1,2026-03-23T05:07:57.903Z,2026-03-23T05:07:57.903Z
