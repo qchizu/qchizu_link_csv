@@ -115,3 +115,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 243248,東員町地図情報サービス,5,下水道,https://www.sonicweb-asp.jp/toin/map?&pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_11,2026-03-23T04:28:25.827Z,2026-03-23T04:28:25.827Z
 243248,東員町地図情報サービス,7,ハザードマップ,https://www.sonicweb-asp.jp/toin/map?&pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_105,2026-03-23T04:29:07.952Z,2026-03-23T04:29:07.952Z
 243248,東員町地図情報サービス,6,地番参考図,https://www.sonicweb-asp.jp/toin/map?&pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_10,2026-03-23T04:29:37.769Z,2026-03-23T04:29:37.769Z
+72044,いわきｉマップ,3,都市計画情報,https://www.sonicweb-asp.jp/iwaki/map?theme=th_30#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T04:33:47.067Z,2026-03-23T04:33:47.067Z
