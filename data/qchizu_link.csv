@@ -172,3 +172,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272116,茨木市地図情報サイト,5,下水道台帳図,https://www2.wagmap.jp/ibanavi/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:44:52.697Z,2026-03-23T05:44:52.697Z
 272124,やおデジマップ,1,地形図（白地図）,https://www.sonicweb-asp.jp/yao/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:45:58.176Z,2026-03-23T05:45:58.176Z
 272124,やおデジマップ,3,都市計画情報,https://www.sonicweb-asp.jp/yao/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:46:41.112Z,2026-03-23T05:46:41.112Z
+272124,やおデジマップ,4,道路台帳図（市道幅員）,https://www.sonicweb-asp.jp/yao/map?theme=th_90#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:47:05.941Z,2026-03-23T05:47:05.941Z
