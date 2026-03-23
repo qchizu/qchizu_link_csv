@@ -284,3 +284,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132152,くにたちガイド － 国立市公開型地理情報システム,4,道路台帳図,https://kunitachi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=5&vlf=-1,2026-03-23T08:07:20.396Z,2026-03-23T08:07:20.396Z
 132152,くにたちガイド － 国立市公開型地理情報システム,2,航空写真・地番図,https://kunitachi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=8&vlf=-1,2026-03-23T08:08:19.773Z,2026-03-23T08:08:19.773Z
 132152,くにたちガイド － 国立市公開型地理情報システム,6,航空写真・地番図,https://kunitachi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=8&vlf=-1,2026-03-23T08:08:43.861Z,2026-03-23T08:08:43.861Z
+132152,くにたちガイド － 国立市公開型地理情報システム,5,下水道台帳,https://kunitachi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=9&vlf=-1,2026-03-23T08:09:13.068Z,2026-03-23T08:09:13.068Z
