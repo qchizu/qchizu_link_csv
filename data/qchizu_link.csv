@@ -238,3 +238,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 273660,みさきデジタルマップ,1,地形図（白図）,https://www.sonicweb-asp.jp/misaki/map?theme=th_41#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T07:10:49.739Z,2026-03-23T07:10:49.739Z
 273660,みさきデジタルマップ,4,道路台帳網図マップ,https://www.sonicweb-asp.jp/misaki/map?theme=th_32#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T07:11:26.483Z,2026-03-23T07:11:26.483Z
 273660,みさきデジタルマップ,6,地番参考図,https://www.sonicweb-asp.jp/misaki/map?theme=th_47#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T07:12:12.104Z,2026-03-23T07:12:12.104Z
+273660,みさきデジタルマップ,3,都市計画情報等（参考図）,https://www.sonicweb-asp.jp/misaki/map?theme=th_20#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T07:12:41.128Z,2026-03-23T07:12:41.128Z
