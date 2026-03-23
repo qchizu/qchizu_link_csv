@@ -257,3 +257,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132047,三鷹市わがまちマップ,3,都市計画図,https://www2.wagmap.jp/mitakacity/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:35:37.567Z,2026-03-23T07:35:37.567Z
 132047,三鷹市わがまちマップ,4,道路台帳図,https://www2.wagmap.jp/mitakacity/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:36:17.377Z,2026-03-23T07:36:17.377Z
 132047,三鷹市わがまちマップ,5,下水道台帳図,https://www2.wagmap.jp/mitakacity/Map?mid=2000&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:36:48.422Z,2026-03-23T07:36:48.422Z
+132055,おうめ地図情報システム,3,都市計画マップ,https://www2.wagmap.jp/omecity/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:38:32.508Z,2026-03-23T07:38:32.508Z
