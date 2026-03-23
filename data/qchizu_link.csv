@@ -129,3 +129,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 271403,堺市ｅ－地図帳,3,都市計画・立地適正化計画情報,https://e-map.city.sakai.lg.jp/sakai/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T04:59:37.204Z,2026-03-23T04:59:37.204Z
 271403,堺市ｅ－地図帳,7,ハザードマップ,https://e-map.city.sakai.lg.jp/sakai/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:00:12.314Z,2026-03-23T05:00:12.314Z
 271403,堺市ｅ－地図帳,4,認定路線情報,https://e-map.city.sakai.lg.jp/sakai/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:00:50.081Z,2026-03-23T05:00:50.081Z
+271403,堺市ｅ－地図帳,5,下水道参考情報（詳細）,https://e-map.city.sakai.lg.jp/sakai/Map?mid=100010&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:01:25.973Z,2026-03-23T05:01:25.973Z
