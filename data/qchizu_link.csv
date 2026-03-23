@@ -154,3 +154,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272078,わが街高槻ガイド,3,都市計画情報,https://www2.wagmap.jp/takatsuki/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:27:43.242Z,2026-03-23T05:27:43.242Z
 272078,わが街高槻ガイド,7,水害・土砂災害ハザードマップ,https://www2.wagmap.jp/takatsuki/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:28:23.668Z,2026-03-23T05:28:23.668Z
 272078,わが街高槻ガイド,4,認定路線マップ,https://www2.wagmap.jp/takatsuki/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:28:52.093Z,2026-03-23T05:28:52.093Z
+272078,わが街高槻ガイド,5,汚水（汚水管・合流管）,https://www2.wagmap.jp/takatsuki/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:29:30.834Z,2026-03-23T05:29:30.834Z
