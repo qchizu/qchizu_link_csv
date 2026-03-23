@@ -268,3 +268,5 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132080,調布まっぷ,7,洪水・土砂ハザードマップ,https://www2.wagmap.jp/chofu/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:49:11.552Z,2026-03-23T07:49:11.552Z
 132098,地図情報まちだ,1,地形図,https://machida.kukanjoho.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=64&vlf=-1,2026-03-23T07:50:24.853Z,2026-03-23T07:50:24.853Z
 132098,地図情報まちだ,2,航空写真,https://machida.kukanjoho.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=4&vlf=-1,2026-03-23T07:50:52.147Z,2026-03-23T07:50:52.147Z
+132098,地図情報まちだ,3,都市計画図,https://machida.kukanjoho.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=46&vlf=-1,2026-03-23T07:51:21.639Z,2026-03-23T07:51:21.639Z
+132098,地図情報まちだ,4,道路網図,https://machida.kukanjoho.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=15&vlf=-1,2026-03-23T07:52:01.361Z,2026-03-23T07:52:01.361Z
