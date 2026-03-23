@@ -277,3 +277,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132136,東村山市地理情報システム,3,都市計画情報,https://webgis.alandis.jp/higashimurayama13/webgis/index.php/autologin_jswebgis?u=guest1&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T08:00:39.585Z,2026-03-23T08:00:39.585Z
 132136,東村山市地理情報システム,4,認定道路情報,https://webgis.alandis.jp/higashimurayama13/webgis/index.php/autologin_jswebgis?u=guest2&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T08:01:21.028Z,2026-03-23T08:01:21.028Z
 132144,わがまちマップ国分寺,3,都市計画図,https://www2.wagmap.jp/kokubunji/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:02:46.705Z,2026-03-23T08:02:46.705Z
+132144,わがまちマップ国分寺,4,舗装種別図,https://www2.wagmap.jp/kokubunji/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:03:19.925Z,2026-03-23T08:03:19.925Z
