@@ -178,3 +178,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272124,やおデジマップ,7,ハザードマップ（洪水・土砂災害）,https://www.sonicweb-asp.jp/yao/map?theme=th_54#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:48:36.701Z,2026-03-23T05:48:36.701Z
 272159,ワガヤネヤガワマップ,3,都市計画情報,https://www.machi-info.jp/machikado/neyagawa_city/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ}&mode=11,2026-03-23T05:58:45.917Z,2026-03-23T05:58:45.917Z
 272159,ワガヤネヤガワマップ,4,指定道路情報,https://www.machi-info.jp/machikado/neyagawa_city/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ}&mode=13,2026-03-23T05:59:39.972Z,2026-03-23T05:59:39.972Z
+272159,ワガヤネヤガワマップ,7,地震・洪水（淀川）・土砂ハザードマップ,https://www.machi-info.jp/machikado/neyagawa_city/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ}&mode=16,2026-03-23T06:00:28.225Z,2026-03-23T06:00:28.225Z
