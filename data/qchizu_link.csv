@@ -281,3 +281,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132144,わがまちマップ国分寺,5,下水道施設平面図,https://www2.wagmap.jp/kokubunji/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:03:44.342Z,2026-03-23T08:03:44.342Z
 132152,くにたちガイド － 国立市公開型地理情報システム,1,都市計画図,https://kunitachi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=7&vlf=-1,2026-03-23T08:06:05.202Z,2026-03-23T08:06:05.202Z
 132152,くにたちガイド － 国立市公開型地理情報システム,3,都市計画図,https://kunitachi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=7&vlf=-1,2026-03-23T08:06:20.111Z,2026-03-23T08:06:20.111Z
+132152,くにたちガイド － 国立市公開型地理情報システム,4,道路台帳図,https://kunitachi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=5&vlf=-1,2026-03-23T08:07:20.396Z,2026-03-23T08:07:20.396Z
