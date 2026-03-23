@@ -272,3 +272,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132098,地図情報まちだ,4,道路網図,https://machida.kukanjoho.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=15&vlf=-1,2026-03-23T07:52:01.361Z,2026-03-23T07:52:01.361Z
 132098,地図情報まちだ,5,下水道台帳図,https://machida.kukanjoho.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=45&vlf=-1,2026-03-23T07:52:26.590Z,2026-03-23T07:52:26.590Z
 132110,こだいら地図情報システム,3,都市計画情報,https://www2.wagmap.jp/kodairacity/Map?mid=36&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:56:49.772Z,2026-03-23T07:56:49.772Z
+132110,こだいら地図情報システム,4,道路台帳平面図,https://www2.wagmap.jp/kodairacity/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:57:11.525Z,2026-03-23T07:57:11.525Z
