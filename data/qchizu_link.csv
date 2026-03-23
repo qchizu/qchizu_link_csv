@@ -158,3 +158,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272086,地図情報サービス かいづかデジタルマップ,3,都市計画図,https://www.sonicweb-asp.jp/kaizuka/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:31:58.171Z,2026-03-23T05:31:58.171Z
 272086,地図情報サービス かいづかデジタルマップ,4,道路網図,https://www.sonicweb-asp.jp/kaizuka/map?theme=th_12#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:32:55.829Z,2026-03-23T05:32:55.829Z
 272086,地図情報サービス かいづかデジタルマップ,5,下水道管路施設,https://www.sonicweb-asp.jp/kaizuka/map?theme=th_14#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:33:27.724Z,2026-03-23T05:33:27.724Z
+272086,地図情報サービス かいづかデジタルマップ,6,地番図,https://www.sonicweb-asp.jp/kaizuka/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:33:53.750Z,2026-03-23T05:33:53.750Z
