@@ -111,3 +111,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 243248,東員町地図情報サービス,1,白図（地形図）,https://www.sonicweb-asp.jp/toin/map?&pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_dm,2026-03-23T04:25:56.111Z,2026-03-23T04:25:56.111Z
 243248,東員町地図情報サービス,2,航空写真,https://www.sonicweb-asp.jp/toin/map?&pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_ortho,2026-03-23T04:26:29.903Z,2026-03-23T04:26:29.903Z
 243248,東員町地図情報サービス,3,都市計画,https://www.sonicweb-asp.jp/toin/map?&pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_18,2026-03-23T04:27:17.290Z,2026-03-23T04:27:17.290Z
+243248,東員町地図情報サービス,4,道路台帳,https://www.sonicweb-asp.jp/toin/map?&pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_17,2026-03-23T04:27:57.820Z,2026-03-23T04:27:57.820Z
