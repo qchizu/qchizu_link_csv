@@ -288,3 +288,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132152,くにたちガイド － 国立市公開型地理情報システム,7,洪水等浸水想定区域,https://kunitachi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=14&vlf=-1,2026-03-23T08:09:48.566Z,2026-03-23T08:09:48.566Z
 132195,狛江市地図情報サービス,3,都市計画図,https://www2.wagmap.jp/komaecity/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:12:18.412Z,2026-03-23T08:12:18.412Z
 132195,狛江市地図情報サービス,4,道路台帳平面図,https://www2.wagmap.jp/komaecity/Map?mid=120&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:12:40.294Z,2026-03-23T08:12:40.294Z
+132195,狛江市地図情報サービス,5,下水道台帳マップ,https://www2.wagmap.jp/komaecity/Map?mid=132&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:13:05.417Z,2026-03-23T08:13:05.417Z
