@@ -100,3 +100,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 141500,さがみはら地図情報,4,道路台帳平面図,https://sagamihara.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=1,2026-03-23T04:08:08.992Z,2026-03-23T04:08:08.992Z
 141500,さがみはら地図情報,5,下水道施設台帳平面図,https://sagamihara.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=5,2026-03-23T04:08:30.714Z,2026-03-23T04:08:30.714Z
 141500,さがみはら地図情報,3,都市計画指定状況図等,https://sagamihara.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=11,2026-03-23T04:09:10.194Z,2026-03-23T04:09:10.194Z
+141500,さがみはら地図情報,1,地形図,https://sagamihara.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=90,2026-03-23T04:09:48.570Z,2026-03-23T04:09:48.570Z
