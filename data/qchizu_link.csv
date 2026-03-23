@@ -180,3 +180,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272159,ワガヤネヤガワマップ,4,指定道路情報,https://www.machi-info.jp/machikado/neyagawa_city/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ}&mode=13,2026-03-23T05:59:39.972Z,2026-03-23T05:59:39.972Z
 272159,ワガヤネヤガワマップ,7,地震・洪水（淀川）・土砂ハザードマップ,https://www.machi-info.jp/machikado/neyagawa_city/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ}&mode=16,2026-03-23T06:00:28.225Z,2026-03-23T06:00:28.225Z
 272167,かわちーず（河内長野市地図情報システム）,1,地形図,https://webgis.alandis.jp/kawachinagano27/webgis/index.php/autologin_jswebgis?u=guest_chikei&ap=jsWebGIS&m=2&li=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T06:07:03.872Z,2026-03-23T06:07:03.872Z
+272167,かわちーず（河内長野市地図情報システム）,3,都市計画図,https://webgis.alandis.jp/kawachinagano27/webgis/index.php/autologin_jswebgis?u=guest_toshi&ap=jsWebGIS&m=2&li=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T06:07:43.703Z,2026-03-23T06:07:43.703Z
