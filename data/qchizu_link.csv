@@ -94,3 +94,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 261009,京都市地図情報提供サービス,4,京都市認定路線網図提供システム,https://keikan-gis.city.kyoto.lg.jp/kyotogis/webgis/index.php/autologin_jswebgis?u=ninteirosen_switch&ap=jsWebGIS&y={webMercatorX}&x={webMercatorY}&s={alandisZ},2026-03-23T02:26:08.152Z,2026-03-23T02:26:08.152Z
 261009,京都市地図情報提供サービス,1,地形図,https://keikan-gis.city.kyoto.lg.jp/kyotogis/webgis/index.php/autologin_jswebgis?u=chikeizu&ap=jsWebGIS&y={webMercatorX}&x={webMercatorY}&s={alandisZ},2026-03-23T02:27:40.731Z,2026-03-23T02:27:40.731Z
 162060,なめりかわデジタルマップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/namerikawacity/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T02:36:30.977Z,2026-03-23T02:36:30.977Z
+162060,なめりかわデジタルマップ,3,都市計画情報,https://www2.wagmap.jp/namerikawacity/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T02:37:52.748Z,2026-03-23T02:37:52.748Z
