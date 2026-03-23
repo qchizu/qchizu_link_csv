@@ -107,3 +107,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132021,立川市地理情報システム,4,道路種別図,https://webgis.alandis.jp/tachikawa13/webgis/index.php/autologin_jswebgis?u=kenchiku&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ},2026-03-23T04:18:25.307Z,2026-03-23T04:18:25.307Z
 122114,なりた地図情報,3,都市計画情報,https://www2.wagmap.jp/narita/Map?mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=dm,2026-03-23T04:21:25.970Z,2026-03-23T04:21:25.970Z
 122114,なりた地図情報,7,防災情報,https://www2.wagmap.jp/narita/Map?mpx={lng}&mpy={lat}&mps={wagmapZ}&mid=2,2026-03-23T04:22:26.030Z,2026-03-23T04:22:26.030Z
+122114,なりた地図情報,4,指定道路情報,https://www2.wagmap.jp/narita/Map?mpx={lng}&mpy={lat}&mps={wagmapZ}&mid=4,2026-03-23T04:23:22.815Z,2026-03-23T04:23:22.815Z
