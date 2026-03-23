@@ -305,3 +305,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 131032,港区都市計画情報提供サービス,7,ハザードマップ,https://www.sonicweb-asp.jp/minato/map?theme=th_18#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:32:04.534Z,2026-03-23T08:32:04.534Z
 131041,新宿区みんなのＧＩＳ,2,航空写真,https://www.sonicweb-asp.jp/shinjuku2/map?theme=th_ortho#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:32:54.397Z,2026-03-23T08:32:54.397Z
 131041,新宿区みんなのＧＩＳ,3,都市計画情報,https://www.sonicweb-asp.jp/shinjuku2/map?theme=toshikeikaku#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:33:27.106Z,2026-03-23T08:33:27.106Z
+131041,新宿区みんなのＧＩＳ,4,道路台帳平面図,https://www.sonicweb-asp.jp/shinjuku2/map?theme=douro#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:34:07.197Z,2026-03-23T08:34:07.197Z
