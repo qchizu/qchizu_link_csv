@@ -142,3 +142,5 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272043,いけだデジタルマップ～地図情報提供サービス,3,都市計画情報,https://www.sonicweb-asp.jp/ikeda/map?theme=th_26#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:13:48.319Z,2026-03-23T05:13:48.319Z
 272043,いけだデジタルマップ～地図情報提供サービス,4,道路台帳図,https://www.sonicweb-asp.jp/ikeda/map?theme=th_23#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:14:26.578Z,2026-03-23T05:14:26.578Z
 272043,いけだデジタルマップ～地図情報提供サービス,5,下水道台帳,https://www.sonicweb-asp.jp/ikeda/map?theme=th_21#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:15:15.668Z,2026-03-23T05:15:15.668Z
+272043,いけだデジタルマップ～地図情報提供サービス,6,地番参考図,https://www.sonicweb-asp.jp/ikeda/map?theme=th_8#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:15:44.827Z,2026-03-23T05:15:44.827Z
+272043,いけだデジタルマップ～地図情報提供サービス,7,ハザードマップ,https://www.sonicweb-asp.jp/ikeda/map?theme=th_13#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:16:19.513Z,2026-03-23T05:16:19.513Z
