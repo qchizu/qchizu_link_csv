@@ -260,3 +260,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132055,おうめ地図情報システム,3,都市計画マップ,https://www2.wagmap.jp/omecity/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:38:32.508Z,2026-03-23T07:38:32.508Z
 132055,おうめ地図情報システム,4,道路・河川情報,https://www2.wagmap.jp/omecity/Map?mid=18&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:39:03.017Z,2026-03-23T07:39:03.017Z
 132055,おうめ地図情報システム,5,下水道情報,https://www2.wagmap.jp/omecity/Map?mid=47&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:39:45.766Z,2026-03-23T07:39:45.766Z
+132055,おうめ地図情報システム,7,土砂災害警戒区域,https://www2.wagmap.jp/omecity/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:40:21.249Z,2026-03-23T07:40:21.249Z
