@@ -98,3 +98,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 162060,なめりかわデジタルマップ,4,道路台帳情報,https://www2.wagmap.jp/namerikawacity/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T02:38:46.991Z,2026-03-23T02:38:46.991Z
 162060,なめりかわデジタルマップ,5,下水道台帳情報,https://www2.wagmap.jp/namerikawacity/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T02:59:53.646Z,2026-03-23T02:59:53.646Z
 141500,さがみはら地図情報,4,道路台帳平面図,https://sagamihara.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=1,2026-03-23T04:08:08.992Z,2026-03-23T04:08:08.992Z
+141500,さがみはら地図情報,5,下水道施設台帳平面図,https://sagamihara.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=5,2026-03-23T04:08:30.714Z,2026-03-23T04:08:30.714Z
