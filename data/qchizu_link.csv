@@ -301,3 +301,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132292,西東京市まちづくりマップ,4,道路台帳図,https://www2.wagmap.jp/nishitokyo/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:24:30.355Z,2026-03-23T08:24:30.355Z
 131016,千代田区 都市計画情報提供ポータル,3,都市計画情報,https://tokei-gis2.chiyodatoshikei.jp/toshikei/apps/experiencebuilder/experience/?id=deb533331f84464098ff8a18fafd5e84&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-23T08:29:14.449Z,2026-03-23T08:29:14.449Z
 131016,千代田区 都市計画情報提供ポータル,4,道路台帳平面図,https://tokei-gis2.chiyodatoshikei.jp/toshikei/apps/experiencebuilder/experience/?id=4f09879e77d0497db9a3b3a9c1eeca23&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-23T08:29:37.348Z,2026-03-23T08:29:37.348Z
+131032,港区都市計画情報提供サービス,3,用途地域検索,https://www.sonicweb-asp.jp/minato/map?theme=th_4#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:31:16.304Z,2026-03-23T08:31:16.304Z
