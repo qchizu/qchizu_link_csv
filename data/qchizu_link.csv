@@ -213,3 +213,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272272,ひがしおおさか ｅ～まちマップ,7,寝屋川流域における洪水リスク表示図・土砂災害警戒区域図,https://www2.wagmap.jp/higashiosaka/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:41:43.346Z,2026-03-23T06:41:43.346Z
 272281,泉南市デジタルマップ,3,都市計画情報,https://www.sonicweb-asp.jp/sennan/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T06:42:53.162Z,2026-03-23T06:42:53.162Z
 272281,泉南市デジタルマップ,4,道路台帳,https://www.sonicweb-asp.jp/sennan/map?theme=th_27#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T06:43:20.847Z,2026-03-23T06:43:20.847Z
+272281,泉南市デジタルマップ,5,下水道台帳（汚水）,https://www.sonicweb-asp.jp/sennan/map?theme=th_4#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T06:43:58.148Z,2026-03-23T06:43:58.148Z
