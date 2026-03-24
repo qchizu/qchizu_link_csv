@@ -331,3 +331,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 131148,なかのデータマップ,3,都市計画マップ,https://www2.wagmap.jp/nakanodatamap/Map?mid=62&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:31:49.864Z,2026-03-24T01:31:49.864Z
 131148,なかのデータマップ,4,認定路線網図・道路台帳現況平面図,https://www2.wagmap.jp/nakanodatamap/Map?mid=61&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:32:30.964Z,2026-03-24T01:32:30.964Z
 131148,なかのデータマップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/nakanodatamap/Map?mid=27&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:34:44.383Z,2026-03-24T01:34:44.383Z
+131164,豊島区地図情報システム,3,都市計画情報,https://www2.wagmap.jp/toshima/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:38:04.023Z,2026-03-24T01:38:04.023Z
