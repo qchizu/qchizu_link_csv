@@ -484,3 +484,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 124109,横芝光町地図情報システム,7,洪水・土砂災害,https://www2.wagmap.jp/yokoshibahikari/Map?mid=30&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T06:21:09.220Z,2026-03-24T06:21:09.220Z
 124214,一宮なみまちＭＡＰ,1,白地図,https://www2.wagmap.jp/ichinomiya/Map?mid=16&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T06:22:02.938Z,2026-03-24T06:22:02.938Z
 124214,一宮なみまちＭＡＰ,2,航空写真,https://www2.wagmap.jp/ichinomiya/Map?mid=17&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T06:22:21.090Z,2026-03-24T06:22:21.090Z
+124214,一宮なみまちＭＡＰ,3,都市計画情報,https://www2.wagmap.jp/ichinomiya/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T06:22:41.364Z,2026-03-24T06:22:41.364Z
