@@ -364,3 +364,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142042,かまくらわが街マップ,3,都市計画情報マップ,https://www2.wagmap.jp/kamakura-hazard/Map?mid=231&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:20:59.874Z,2026-03-24T02:20:59.874Z
 142042,かまくらわが街マップ,5,公共下水道情報,https://www2.wagmap.jp/kamakura-hazard/Map?mid=242&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:22:58.914Z,2026-03-24T02:22:58.914Z
 142042,かまくらわが街マップ,7,土砂災害防災情報マップ,https://www2.wagmap.jp/kamakura-hazard/Map?mid=203&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:23:33.201Z,2026-03-24T02:23:33.201Z
+142069,Ｎａｖｉ－Ｏ｜小田原市地理情報システム,3,都市計画図,https://www2.wagmap.jp/navi-odawara/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:30:13.614Z,2026-03-24T02:30:13.614Z
