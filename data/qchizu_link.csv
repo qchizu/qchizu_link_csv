@@ -447,3 +447,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122203,流山市都市計画情報,4,道路法道路,https://webgis.alandis.jp/nagareyama12/webgis_rosen/index.php/common/Screen_initializer/initialize?map_type=1&login_method=2&application_class=jsWebGIS&u=guest&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-24T05:38:25.989Z,2026-03-24T05:38:25.989Z
 122220,あびまっぷ,3,都市計画図,https://abiko.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=41,2026-03-24T05:41:13.194Z,2026-03-24T05:41:13.194Z
 122220,あびまっぷ,4,道路台帳図,https://abiko.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=10,2026-03-24T05:41:41.601Z,2026-03-24T05:41:41.601Z
+122220,あびまっぷ,5,公共下水道台帳（汚水）,https://abiko.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=30,2026-03-24T05:42:26.822Z,2026-03-24T05:42:26.822Z
