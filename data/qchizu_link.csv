@@ -323,3 +323,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 131113,まちマップおおた,3,都市計画・景観計画等,https://www2.wagmap.jp/ota/Map?mid=1000&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:21:35.264Z,2026-03-24T01:21:35.264Z
 131113,まちマップおおた,4,指定道路情報,https://www2.wagmap.jp/ota/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:21:59.020Z,2026-03-24T01:21:59.020Z
 131113,まちマップおおた,7,土砂災害（特別）警戒区域図,https://www2.wagmap.jp/ota/Map?mid=1001&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:22:21.839Z,2026-03-24T01:22:21.839Z
+131121,せたがや ｉ－ｍａｐ,1,白地図,https://www.sonicweb-asp.jp/setagaya/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:24:56.757Z,2026-03-24T01:24:56.757Z
