@@ -449,3 +449,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122220,あびまっぷ,4,道路台帳図,https://abiko.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=10,2026-03-24T05:41:41.601Z,2026-03-24T05:41:41.601Z
 122220,あびまっぷ,5,公共下水道台帳（汚水）,https://abiko.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=30,2026-03-24T05:42:26.822Z,2026-03-24T05:42:26.822Z
 122220,あびまっぷ,7,土砂災害警戒区域等,https://abiko.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=60,2026-03-24T05:42:59.605Z,2026-03-24T05:42:59.605Z
+122220,あびまっぷ,8, 地域森林計画対象民有林区域,https://abiko.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=70,2026-03-24T05:44:23.904Z,2026-03-24T05:44:23.904Z
