@@ -394,3 +394,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142174,南足柄市地理情報システム,5,下水道台帳図,https://www2.wagmap.jp/minamiashigara/Map?mid=29&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:05:43.006Z,2026-03-24T04:05:43.006Z
 142174,南足柄市地理情報システム,7,防災ハザードマップ,https://www2.wagmap.jp/minamiashigara/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:06:30.778Z,2026-03-24T04:06:30.778Z
 142182,あやせびゅ～まっぷ,1,地形図マップ,https://www2.wagmap.jp/ayasecity/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:07:35.300Z,2026-03-24T04:07:35.300Z
+142182,あやせびゅ～まっぷ,2,航空写真マップ,https://www2.wagmap.jp/ayasecity/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:08:23.218Z,2026-03-24T04:08:23.218Z
