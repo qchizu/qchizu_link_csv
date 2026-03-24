@@ -307,3 +307,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 131041,新宿区みんなのＧＩＳ,4,道路台帳平面図,https://www.sonicweb-asp.jp/shinjuku2/map?theme=douro#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:34:07.197Z,2026-03-23T08:34:07.197Z
 202207,安曇野市都市計画等情報マップ,3,都市計画等情報マップ（２Ｄ地図）,https://azuminocity.maps.arcgis.com/apps/webappviewer/index.html?id=13eafeb6bc8b41fa82ffcad1ad7809ac&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-24T00:58:18.730Z,2026-03-24T00:58:18.730Z
 202207,安曇野市道路台帳マップ,4,道路台帳マップ,https://azuminocity.maps.arcgis.com/apps/webappviewer/index.html?id=ff06b231e28949d889bd1182cddc9eb1&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-24T00:59:26.650Z,2026-03-24T00:59:26.650Z
+131059,文京区都市計画図検索システム,3,都市計画図,https://www.sonicweb-asp.jp/bunkyo-youto/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:02:09.944Z,2026-03-24T01:02:09.944Z
