@@ -356,3 +356,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142018,よこすか わが街ガイド,3,道路台帳図,https://www2.wagmap.jp/yokosuka/Map?mid=31&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:11:45.595Z,2026-03-24T02:11:45.595Z
 142018,よこすか わが街ガイド,5,上下水道管路,https://www2.wagmap.jp/yokosuka/Map?mid=52&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:12:07.665Z,2026-03-24T02:12:07.665Z
 142018,よこすか わが街ガイド,7,災害警戒,https://www2.wagmap.jp/yokosuka/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:12:52.826Z,2026-03-24T02:12:52.826Z
+142034,ひらつかわくわくマップ,3,都市計画,https://webgis.alandis.jp/hiratsuka14/webgis_181/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest60&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=6&si=0,2026-03-24T02:15:23.214Z,2026-03-24T02:15:23.214Z
