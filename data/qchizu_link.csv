@@ -407,3 +407,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 143847,湯河原町地理情報システム,3,都市計画,https://www2.wagmap.jp/yugawara/Map?mid=19&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:30:56.795Z,2026-03-24T04:30:56.795Z
 143847,湯河原町地理情報システム,4,道路台帳,https://www2.wagmap.jp/yugawara/Map?mid=43&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:31:40.388Z,2026-03-24T04:31:40.388Z
 143847,湯河原町地理情報システム,7,防災マップ,https://www2.wagmap.jp/yugawara/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:32:27.406Z,2026-03-24T04:32:27.406Z
+120006,ちば情報マップ,4,千葉県管理道路,https://map.pref.chiba.lg.jp/pref-chiba/Map?mid=1213&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:35:59.469Z,2026-03-24T04:35:59.469Z
