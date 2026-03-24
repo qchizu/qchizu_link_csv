@@ -470,3 +470,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122343,南房総市いいとこマップ（南房総市公開型ＧＩＳ）,4,路線認定網図、道路台帳図,https://www2.wagmap.jp/minamiboso/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T06:06:30.256Z,2026-03-24T06:06:30.256Z
 122343,南房総市いいとこマップ（南房総市公開型ＧＩＳ）,6,地番図,https://www2.wagmap.jp/minamiboso/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T06:07:11.995Z,2026-03-24T06:07:11.995Z
 122360,かとり地図ＧＩＳ,1,白地図,https://katori-gis.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=101,2026-03-24T06:08:58.454Z,2026-03-24T06:08:58.454Z
+122360,かとり地図ＧＩＳ,3,都市計画情報,https://katori-gis.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=100,2026-03-24T06:09:43.018Z,2026-03-24T06:09:43.018Z
