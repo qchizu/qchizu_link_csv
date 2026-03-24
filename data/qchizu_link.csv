@@ -404,3 +404,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 143821,はこねＭＡＰ,3,都市計画情報,https://www.sonicweb-asp.jp/hakone/map?theme=th_19#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T04:25:24.817Z,2026-03-24T04:25:24.817Z
 143821,はこねＭＡＰ,4,町道網図,https://www.sonicweb-asp.jp/hakone/map?theme=th_18#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T04:26:23.609Z,2026-03-24T04:26:23.609Z
 143821,はこねＭＡＰ,6,地番図,https://www.sonicweb-asp.jp/hakone/map?theme=th_33#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T04:27:27.899Z,2026-03-24T04:27:27.899Z
+143847,湯河原町地理情報システム,3,都市計画,https://www2.wagmap.jp/yugawara/Map?mid=19&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:30:56.795Z,2026-03-24T04:30:56.795Z
