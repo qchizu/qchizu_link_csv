@@ -362,3 +362,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142034,ひらつかわくわくマップ,7,土砂災害ハザードマップ,https://webgis.alandis.jp/hiratsuka14/webgis_181/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest60&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=14&si=0,2026-03-24T02:18:12.409Z,2026-03-24T02:18:12.409Z
 142034,ひらつかわくわくマップ,8,森林情報,https://webgis.alandis.jp/hiratsuka14/webgis_181/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest60&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=10&si=0,2026-03-24T02:19:16.218Z,2026-03-24T02:19:16.218Z
 142042,かまくらわが街マップ,3,都市計画情報マップ,https://www2.wagmap.jp/kamakura-hazard/Map?mid=231&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:20:59.874Z,2026-03-24T02:20:59.874Z
+142042,かまくらわが街マップ,5,公共下水道情報,https://www2.wagmap.jp/kamakura-hazard/Map?mid=242&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:22:58.914Z,2026-03-24T02:22:58.914Z
