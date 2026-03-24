@@ -336,3 +336,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 131181,荒川区地図情報,3,都市計画マップ,https://www2.wagmap.jp/arakawa/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:42:24.938Z,2026-03-24T01:42:24.938Z
 131181,荒川区地図情報,4,道路台帳、路線網図,https://www2.wagmap.jp/arakawa/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:43:02.855Z,2026-03-24T01:43:02.855Z
 131199,板橋区都市計画情報マップ,3,都市計画情報,https://itabashi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=3,2026-03-24T01:44:53.079Z,2026-03-24T01:44:53.079Z
+131202,地図情報ねりまっぷ,2,航空写真,https://www.sonicweb-asp.jp/nerimap/map?theme=th_234#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:46:11.043Z,2026-03-24T01:46:11.043Z
