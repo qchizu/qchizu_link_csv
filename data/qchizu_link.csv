@@ -401,3 +401,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 143618,中井町地理情報ポータル,4,道路台帳図,https://webgis.alandis.jp/nakai14/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=2&si=0,2026-03-24T04:21:34.208Z,2026-03-24T04:21:34.208Z
 143618,中井町地理情報ポータル,5,下水道台帳,https://webgis.alandis.jp/nakai14/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=6&si=0,2026-03-24T04:22:00.705Z,2026-03-24T04:22:00.705Z
 143618,中井町地理情報ポータル,7,土砂災害・洪水ハザードマップ,https://webgis.alandis.jp/nakai14/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=10&si=0,2026-03-24T04:22:48.725Z,2026-03-24T04:22:48.725Z
+143821,はこねＭＡＰ,3,都市計画情報,https://www.sonicweb-asp.jp/hakone/map?theme=th_19#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T04:25:24.817Z,2026-03-24T04:25:24.817Z
