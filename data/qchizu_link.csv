@@ -310,3 +310,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 131059,文京区都市計画図検索システム,3,都市計画図,https://www.sonicweb-asp.jp/bunkyo-youto/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:02:09.944Z,2026-03-24T01:02:09.944Z
 131067,たいとうマップ,3,都市計画マップ,https://www2.wagmap.jp/taito/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:04:11.924Z,2026-03-24T01:04:11.924Z
 131067,たいとうマップ,4,認定道路・道路台帳図,https://www2.wagmap.jp/taito/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:04:48.982Z,2026-03-24T01:04:48.982Z
+131075,すみだまちづくりマップ,3,都市計画情報図（用途地域等）,https://www.sonicweb-asp.jp/sumida/map?theme=th_12#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:06:18.111Z,2026-03-24T01:06:18.111Z
