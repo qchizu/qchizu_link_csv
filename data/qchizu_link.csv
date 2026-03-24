@@ -376,3 +376,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142123,厚木タウンマップ,3,都市計画情報,https://www2.wagmap.jp/atsugi/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:43:29.126Z,2026-03-24T02:43:29.126Z
 142123,厚木タウンマップ,4,道路境界・基準点,https://www2.wagmap.jp/atsugi/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:44:37.249Z,2026-03-24T02:44:37.249Z
 142123,厚木タウンマップ,5,下水道情報,https://www2.wagmap.jp/atsugi/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:45:05.017Z,2026-03-24T02:45:05.017Z
+142123,厚木タウンマップ,7,オールハザードマップ,https://www2.wagmap.jp/atsugi/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:45:44.579Z,2026-03-24T02:45:44.579Z
