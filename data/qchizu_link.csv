@@ -315,3 +315,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 131083,ことまっぷ,3,都市計画マップ,https://koto.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=4,2026-03-24T01:11:41.027Z,2026-03-24T01:11:41.027Z
 131083,ことまっぷ,4,道路台帳（現況平面図）,https://koto.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=28,2026-03-24T01:12:53.873Z,2026-03-24T01:12:53.873Z
 131091,しながわＭＡＰ,2,昭和３３年航空写真,https://www2.wagmap.jp/shinagawa/Map?mid=71&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:15:53.761Z,2026-03-24T01:15:53.761Z
+131091,しながわＭＡＰ,3,用途地域等指定図,https://www2.wagmap.jp/shinagawa/Map?mid=88&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:16:35.360Z,2026-03-24T01:16:35.360Z
