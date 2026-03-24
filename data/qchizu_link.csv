@@ -439,3 +439,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122173,柏市公開型ＧＩＳ,4,道路台帳図,https://www.sonicweb-asp.jp/kashiwa/map?theme=th_16#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T05:28:47.911Z,2026-03-24T05:28:47.911Z
 122173,柏市公開型ＧＩＳ,5,下水道台帳図,https://www.sonicweb-asp.jp/kashiwa/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T05:29:18.968Z,2026-03-24T05:29:18.968Z
 122190,いちはらマップ,2,航空写真,https://www2.city-gis.ichihara.chiba.jp/ichihara/alandis/webgis/index.php/autologin_jswebgis?u=guest02&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=2&si=0,2026-03-24T05:31:24.928Z,2026-03-24T05:31:24.928Z
+122190,いちはらマップ,3,都市計画図,https://www2.city-gis.ichihara.chiba.jp/ichihara/alandis/webgis/index.php/autologin_jswebgis?u=guest02&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=5&si=0,2026-03-24T05:32:29.134Z,2026-03-24T05:32:29.134Z
