@@ -456,3 +456,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122289,四街道市地図情報システム,3,都市計画図,https://webgis.alandis.jp/yotsukaido12/webgis181/index.php/autologin_jswebgis?u=guest1&li=1&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-24T05:52:53.483Z,2026-03-24T05:52:53.483Z
 122289,四街道市地図情報システム,4,建築基準法道路,https://webgis.alandis.jp/yotsukaido12/webgis181/index.php/autologin_jswebgis?u=guest2&li=2&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-24T05:53:35.892Z,2026-03-24T05:53:35.892Z
 122289,四街道市地図情報システム,7,ハザードマップ,https://webgis.alandis.jp/yotsukaido12/webgis181/index.php/autologin_jswebgis?u=guest3&li=3&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-24T05:54:19.547Z,2026-03-24T05:54:19.547Z
+122297,そでＭＡＰ,3,都市計画情報,https://www2.wagmap.jp/sodegaura/Map?mid=913&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:55:49.324Z,2026-03-24T05:55:49.324Z
