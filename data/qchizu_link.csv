@@ -321,3 +321,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 131105,めぐろ地図情報サービス,3,都市計画施設図,https://www.sonicweb-asp.jp/meguro/map?theme=th_12#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:19:42.209Z,2026-03-24T01:19:42.209Z
 131105,めぐろ地図情報サービス,4,道路台帳現況平面図,https://www.sonicweb-asp.jp/meguro/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:20:10.606Z,2026-03-24T01:20:10.606Z
 131113,まちマップおおた,3,都市計画・景観計画等,https://www2.wagmap.jp/ota/Map?mid=1000&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:21:35.264Z,2026-03-24T01:21:35.264Z
+131113,まちマップおおた,4,指定道路情報,https://www2.wagmap.jp/ota/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:21:59.020Z,2026-03-24T01:21:59.020Z
