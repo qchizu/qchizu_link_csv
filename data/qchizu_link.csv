@@ -433,3 +433,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122076,やさシティマップ（松戸市地図情報提供サービス）,5,下水道台帳・汚水,https://www.sonicweb-asp.jp/matsudo/map?theme=th_osui#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T05:10:25.402Z,2026-03-24T05:10:25.402Z
 122106,茂原市わが街ガイド,3,都市計画,https://www2.wagmap.jp/mobara/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:12:48.675Z,2026-03-24T05:12:48.675Z
 122106,茂原市わが街ガイド,4,道路情報,https://www2.wagmap.jp/mobara/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:13:22.659Z,2026-03-24T05:13:22.659Z
+122106,茂原市わが街ガイド,5,下水道管網図,https://www2.wagmap.jp/mobara/Map?mid=18&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:13:52.034Z,2026-03-24T05:13:52.034Z
