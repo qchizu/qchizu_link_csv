@@ -459,3 +459,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122297,そでＭＡＰ,3,都市計画情報,https://www2.wagmap.jp/sodegaura/Map?mid=913&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:55:49.324Z,2026-03-24T05:55:49.324Z
 122297,そでＭＡＰ,4,市道認定道路図,https://www2.wagmap.jp/sodegaura/Map?mid=912&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:56:35.301Z,2026-03-24T05:56:35.301Z
 122297,そでＭＡＰ,7,土砂災害警戒区域等マップ,https://www2.wagmap.jp/sodegaura/Map?mid=914&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:57:22.719Z,2026-03-24T05:57:22.719Z
+122319,印西市わが街ガイド,3,都市計画情報,https://www2.wagmap.jp/inzai/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:58:36.904Z,2026-03-24T05:58:36.904Z
