@@ -472,3 +472,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122360,かとり地図ＧＩＳ,1,白地図,https://katori-gis.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=101,2026-03-24T06:08:58.454Z,2026-03-24T06:08:58.454Z
 122360,かとり地図ＧＩＳ,3,都市計画情報,https://katori-gis.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=100,2026-03-24T06:09:43.018Z,2026-03-24T06:09:43.018Z
 122360,かとり地図ＧＩＳ,4,道路台帳,https://katori-gis.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=105,2026-03-24T06:10:07.607Z,2026-03-24T06:10:07.607Z
+122360,かとり地図ＧＩＳ,7,ハザードマップ,https://katori-gis.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=104,2026-03-24T06:10:40.450Z,2026-03-24T06:10:40.450Z
