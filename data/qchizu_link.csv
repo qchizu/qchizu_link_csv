@@ -332,3 +332,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 131148,なかのデータマップ,4,認定路線網図・道路台帳現況平面図,https://www2.wagmap.jp/nakanodatamap/Map?mid=61&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:32:30.964Z,2026-03-24T01:32:30.964Z
 131148,なかのデータマップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/nakanodatamap/Map?mid=27&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:34:44.383Z,2026-03-24T01:34:44.383Z
 131164,豊島区地図情報システム,3,都市計画情報,https://www2.wagmap.jp/toshima/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:38:04.023Z,2026-03-24T01:38:04.023Z
+131164,豊島区,4,道路台帳現況平面図及び建築基準法上の道路種別等閲覧,https://toshisei.maps.arcgis.com/apps/webappviewer/index.html?id=c4832f4fda79495fab7b83e2001817a5&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-24T01:41:16.407Z,2026-03-24T01:41:16.407Z
