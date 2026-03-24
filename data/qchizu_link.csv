@@ -335,3 +335,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 131164,豊島区,4,道路台帳現況平面図及び建築基準法上の道路種別等閲覧,https://toshisei.maps.arcgis.com/apps/webappviewer/index.html?id=c4832f4fda79495fab7b83e2001817a5&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-24T01:41:16.407Z,2026-03-24T01:41:16.407Z
 131181,荒川区地図情報,3,都市計画マップ,https://www2.wagmap.jp/arakawa/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:42:24.938Z,2026-03-24T01:42:24.938Z
 131181,荒川区地図情報,4,道路台帳、路線網図,https://www2.wagmap.jp/arakawa/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:43:02.855Z,2026-03-24T01:43:02.855Z
+131199,板橋区都市計画情報マップ,3,都市計画情報,https://itabashi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=3,2026-03-24T01:44:53.079Z,2026-03-24T01:44:53.079Z
