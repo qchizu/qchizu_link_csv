@@ -384,3 +384,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142140,いせはらＷｅｂＭａｐｓ,4,道路台帳図,https://www2.wagmap.jp/isehara/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:51:47.285Z,2026-03-24T02:51:47.285Z
 142140,いせはらＷｅｂＭａｐｓ,5,公共下水道台帳施設平面図,https://www2.wagmap.jp/isehara/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:52:11.642Z,2026-03-24T02:52:11.642Z
 142140,いせはらＷｅｂＭａｐｓ,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/isehara/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:52:33.879Z,2026-03-24T02:52:33.879Z
+142158,ｉ－ＭＡＰわが街海老名ガイド,3,都市計画情報,https://www2.wagmap.jp/ebina/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:53:40.105Z,2026-03-24T02:53:40.105Z
