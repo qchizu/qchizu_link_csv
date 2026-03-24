@@ -429,3 +429,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122068,きさＮＡＶＩ,4,道路情報マップ,https://www2.wagmap.jp/kisarazu/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:07:32.845Z,2026-03-24T05:07:32.845Z
 122068,きさＮＡＶＩ,5,下水道情報,https://www2.wagmap.jp/kisarazu/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:08:02.727Z,2026-03-24T05:08:02.727Z
 122076,やさシティマップ（松戸市地図情報提供サービス）,3,都市計画情報,https://www.sonicweb-asp.jp/matsudo/map?theme=th_38#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T05:09:19.133Z,2026-03-24T05:09:19.133Z
+122076,やさシティマップ（松戸市地図情報提供サービス）,4,道路台帳現況平面図,https://www.sonicweb-asp.jp/matsudo/map?theme=th_60#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T05:09:52.802Z,2026-03-24T05:09:52.802Z
