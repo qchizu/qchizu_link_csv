@@ -339,3 +339,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 131202,地図情報ねりまっぷ,2,航空写真,https://www.sonicweb-asp.jp/nerimap/map?theme=th_234#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:46:11.043Z,2026-03-24T01:46:11.043Z
 131202,地図情報ねりまっぷ,3,都市計画情報,https://www.sonicweb-asp.jp/nerimap/map?theme=th_236#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:48:43.274Z,2026-03-24T01:48:43.274Z
 131202,地図情報ねりまっぷ,4,区道の現況（参考公開）　（同意画面あり）,https://www.sonicweb-asp.jp/nerimap/map?theme=th_217#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:49:40.669Z,2026-03-24T01:49:40.669Z
+131211,あだち地図情報提供サービス,3,用途地域等指定図,https://www.sonicweb-asp.jp/adachi2/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:51:37.486Z,2026-03-24T01:51:37.486Z
