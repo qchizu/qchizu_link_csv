@@ -329,3 +329,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 131130,渋谷区地図情報システム,3,都市計画情報,https://www2.wagmap.jp/shibuya/Map?mid=1000&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:28:40.028Z,2026-03-24T01:28:40.028Z
 131130,渋谷区地図情報システム,4,道路台帳平面図・区有通路平面図・路線図,https://www2.wagmap.jp/shibuya/Map?mid=1002&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:29:11.710Z,2026-03-24T01:29:11.710Z
 131148,なかのデータマップ,3,都市計画マップ,https://www2.wagmap.jp/nakanodatamap/Map?mid=62&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:31:49.864Z,2026-03-24T01:31:49.864Z
+131148,なかのデータマップ,4,認定路線網図・道路台帳現況平面図,https://www2.wagmap.jp/nakanodatamap/Map?mid=61&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:32:30.964Z,2026-03-24T01:32:30.964Z
