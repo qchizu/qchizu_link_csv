@@ -422,3 +422,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122033,いち案内｜地図で見る市川市,5,下水道台帳図,https://gis.city.ichikawa.lg.jp/webgis/?mp=245-21&z={z}&ll={lat}%2C{lng},2026-03-24T04:54:02.218Z,2026-03-24T04:54:02.218Z
 122033,いち案内｜地図で見る市川市,6,地籍図（地番図）,https://gis.city.ichikawa.lg.jp/webgis/?p=0&bt=0&mp=308-0&z={z}&ll={lat}%2C{lng},2026-03-24T04:57:42.906Z,2026-03-24T04:57:42.906Z
 122033,いち案内｜地図で見る市川市,7,土砂災害警戒区域等,https://gis.city.ichikawa.lg.jp/webgis/?mp=278-3&z={z}&ll={lat}%2C{lng},2026-03-24T04:58:11.758Z,2026-03-24T04:58:11.758Z
+122041,船橋市生き生きふれあいマップ,3,都市計画決定情報,https://webgis.alandis.jp/funabashi12/210/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-03-24T05:01:44.088Z,2026-03-24T05:01:44.088Z
