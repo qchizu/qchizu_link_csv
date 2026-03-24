@@ -355,3 +355,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142018,よこすか わが街ガイド,1,都市計画・まちづくり,https://www2.wagmap.jp/yokosuka/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:11:11.984Z,2026-03-24T02:11:11.984Z
 142018,よこすか わが街ガイド,3,道路台帳図,https://www2.wagmap.jp/yokosuka/Map?mid=31&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:11:45.595Z,2026-03-24T02:11:45.595Z
 142018,よこすか わが街ガイド,5,上下水道管路,https://www2.wagmap.jp/yokosuka/Map?mid=52&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:12:07.665Z,2026-03-24T02:12:07.665Z
+142018,よこすか わが街ガイド,7,災害警戒,https://www2.wagmap.jp/yokosuka/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:12:52.826Z,2026-03-24T02:12:52.826Z
