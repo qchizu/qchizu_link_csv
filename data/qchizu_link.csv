@@ -374,3 +374,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142085,逗子市オンラインマップ,3,都市計画関連マップ,https://zushicity.maps.arcgis.com/apps/webappviewer/index.html?id=c7dd16e47b674b429ce8a5eb79cb494a&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-24T02:39:20.663Z,2026-03-24T02:39:20.663Z
 142107,みうらわが街ガイド,3,都市計画等情報,https://www2.wagmap.jp/miura/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:41:33.817Z,2026-03-24T02:41:33.817Z
 142123,厚木タウンマップ,3,都市計画情報,https://www2.wagmap.jp/atsugi/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:43:29.126Z,2026-03-24T02:43:29.126Z
+142123,厚木タウンマップ,4,道路境界・基準点,https://www2.wagmap.jp/atsugi/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:44:37.249Z,2026-03-24T02:44:37.249Z
