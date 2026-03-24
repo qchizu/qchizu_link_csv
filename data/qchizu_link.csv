@@ -353,3 +353,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 141305,ガイドマップかわさき,5,公共下水道台帳施設平面図,https://kawasaki.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=36,2026-03-24T02:06:28.240Z,2026-03-24T02:06:28.240Z
 141305,ガイドマップかわさき,7,地震・水害・土砂災害,https://kawasaki.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=143,2026-03-24T02:07:17.994Z,2026-03-24T02:07:17.994Z
 142018,よこすか わが街ガイド,1,都市計画・まちづくり,https://www2.wagmap.jp/yokosuka/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:11:11.984Z,2026-03-24T02:11:11.984Z
+142018,よこすか わが街ガイド,3,道路台帳図,https://www2.wagmap.jp/yokosuka/Map?mid=31&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:11:45.595Z,2026-03-24T02:11:45.595Z
