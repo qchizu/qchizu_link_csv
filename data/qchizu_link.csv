@@ -398,3 +398,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142182,あやせびゅ～まっぷ,3,都市計画マップ,https://www2.wagmap.jp/ayasecity/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:08:41.625Z,2026-03-24T04:08:41.625Z
 143219,ｅ－マップさむかわ,3,用途地域,https://www.town.samukawa.kanagawa.jp/section/~gis/index.html#{z}/{lat}/{lng}/&base=std&ls=std%7Cshared_element_12&disp=11&lcd=shared_element_12&vs=c1j0l0u0f0&d=vl,2026-03-24T04:12:56.127Z,2026-03-24T04:12:56.127Z
 143618,中井町地理情報ポータル,3,都市計画情報,https://webgis.alandis.jp/nakai14/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-03-24T04:21:00.338Z,2026-03-24T04:21:00.338Z
+143618,中井町地理情報ポータル,4,道路台帳図,https://webgis.alandis.jp/nakai14/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=2&si=0,2026-03-24T04:21:34.208Z,2026-03-24T04:21:34.208Z
