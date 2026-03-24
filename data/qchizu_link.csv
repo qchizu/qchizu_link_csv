@@ -312,3 +312,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 131067,たいとうマップ,4,認定道路・道路台帳図,https://www2.wagmap.jp/taito/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:04:48.982Z,2026-03-24T01:04:48.982Z
 131075,すみだまちづくりマップ,3,都市計画情報図（用途地域等）,https://www.sonicweb-asp.jp/sumida/map?theme=th_12#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:06:18.111Z,2026-03-24T01:06:18.111Z
 131075,すみだまちづくりマップ,4,道路関係資料,https://www.sonicweb-asp.jp/sumida/map?theme=th_9#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:07:13.597Z,2026-03-24T01:07:13.597Z
+131083,ことまっぷ,3,都市計画マップ,https://koto.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=4,2026-03-24T01:11:41.027Z,2026-03-24T01:11:41.027Z
