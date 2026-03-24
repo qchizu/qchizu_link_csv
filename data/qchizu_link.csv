@@ -452,3 +452,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122220,あびまっぷ,8, 地域森林計画対象民有林区域,https://abiko.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=70,2026-03-24T05:44:23.904Z,2026-03-24T05:44:23.904Z
 122246,鎌ケ谷市公共下水道台帳庁外配信システム,5,下水道台帳,https://webgis.alandis.jp/kamagaya12/webgis/index.php/autologin_jswebgis?u=guest&li=1&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-24T05:46:26.900Z,2026-03-24T05:46:26.900Z
 122271,浦安市地理情報システム,4,指定道路図,https://www.sonicweb-asp.jp/urayasu/map?theme=th_81#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T05:50:31.696Z,2026-03-24T05:50:31.696Z
+122271,浦安市地理情報システム,5,下水道台帳図（汚水）,https://www.sonicweb-asp.jp/urayasu/map?theme=th_92#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T05:50:52.309Z,2026-03-24T05:50:52.309Z
