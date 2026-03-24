@@ -419,3 +419,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122025,銚子市都市計画情報システム,4,道路台帳図,https://webgis.alandis.jp/choshi12/webgis/index.php/autologin_jswebgis?u=guest_douro01&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-24T04:45:47.031Z,2026-03-24T04:45:47.031Z
 122033,いち案内｜地図で見る市川市,3,用途地域,https://gis.city.ichikawa.lg.jp/webgis/?mp=101-31&z={z}&ll={lat}%2C{lng},2026-03-24T04:51:54.933Z,2026-03-24T04:51:54.933Z
 122033,いち案内｜地図で見る市川市,4,道路台帳平面図・区域変更箇所,https://gis.city.ichikawa.lg.jp/webgis/?mp=300-0&z={z}&ll={lat}%2C{lng},2026-03-24T04:52:34.886Z,2026-03-24T04:52:34.886Z
+122033,いち案内｜地図で見る市川市,5,下水道台帳図,https://gis.city.ichikawa.lg.jp/webgis/?mp=245-21&z={z}&ll={lat}%2C{lng},2026-03-24T04:54:02.218Z,2026-03-24T04:54:02.218Z
