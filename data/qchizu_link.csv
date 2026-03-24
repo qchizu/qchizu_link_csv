@@ -380,3 +380,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142131,大和市 公開型地図情報サービス,3,都市計画,https://www.machi-info.jp/machikado/yamato_city/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ}&mode=50,2026-03-24T02:47:33.343Z,2026-03-24T02:47:33.343Z
 142131,大和市 公開型地図情報サービス,4,指定道路,https://www.machi-info.jp/machikado/yamato_city/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ}&mode=60,2026-03-24T02:49:41.580Z,2026-03-24T02:49:41.580Z
 142131,大和市 公開型地図情報サービス,7,土砂災害警戒区域,https://www.machi-info.jp/machikado/yamato_city/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ}&mode=55,2026-03-24T02:50:21.362Z,2026-03-24T02:50:21.362Z
+142140,いせはらＷｅｂＭａｐｓ,3,都市計画情報,https://www2.wagmap.jp/isehara/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:51:20.860Z,2026-03-24T02:51:20.860Z
