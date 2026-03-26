@@ -646,3 +646,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 92045,佐野市地図情報システム,3,都市計画情報マップ,https://www.sonicweb-asp.jp/sano/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T06:53:12.761Z,2026-03-26T06:53:12.761Z
 92045,佐野市地図情報システム,4,路線網図,https://www.sonicweb-asp.jp/sano/map?theme=th_54#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T06:53:42.989Z,2026-03-26T06:53:42.989Z
 92045,佐野市地図情報システム,5,下水道マップ,https://www.sonicweb-asp.jp/sano/map?theme=th_18#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T06:54:01.595Z,2026-03-26T06:54:01.595Z
+92061,日光市わが街ガイド,4,路線網図,https://www2.wagmap.jp/nikko/Map?mid=102&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T06:55:15.141Z,2026-03-26T06:55:15.141Z
