@@ -624,3 +624,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 82163,笠間市地理情報システム,1,地形図（笠間市）,https://www2.wagmap.jp/kasamacity/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=dm_kasama,2026-03-26T06:12:05.068Z,2026-03-26T06:12:05.068Z
 82163,笠間市地理情報システム,2,航空写真,https://www2.wagmap.jp/kasamacity/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=ortho,2026-03-26T06:12:27.676Z,2026-03-26T06:12:27.676Z
 82163,笠間市地理情報システム,4,道路台帳図,https://www2.wagmap.jp/kasamacity/Map?mid=105&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T06:15:57.596Z,2026-03-26T06:15:57.596Z
+82163,笠間市地理情報システム,5,公共下水道施設,https://www2.wagmap.jp/kasamacity/Map?mid=107&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T06:17:22.799Z,2026-03-26T06:17:22.799Z
