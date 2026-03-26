@@ -376,7 +376,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142123,厚木タウンマップ,3,都市計画情報,https://www2.wagmap.jp/atsugi/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:27:06.187Z,2026-03-26T08:27:06.187Z
 142123,厚木タウンマップ,4,道路境界・基準点,https://www2.wagmap.jp/atsugi/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:27:15.537Z,2026-03-26T08:27:15.537Z
 142123,厚木タウンマップ,5,下水道情報,https://www2.wagmap.jp/atsugi/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:27:11.042Z,2026-03-26T08:27:11.042Z
-142123,厚木タウンマップ,7,オールハザードマップ,https://www2.wagmap.jp/atsugi/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:45:44.579Z,2026-03-24T02:45:44.579Z
+142123,厚木タウンマップ,7,オールハザードマップ,https://www2.wagmap.jp/atsugi/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:27:21.815Z,2026-03-26T08:27:21.815Z
 142131,大和市 公開型地図情報サービス,3,都市計画,https://www.machi-info.jp/machikado/yamato_city/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ}&mode=50,2026-03-24T02:47:33.343Z,2026-03-24T02:47:33.343Z
 142131,大和市 公開型地図情報サービス,4,指定道路,https://www.machi-info.jp/machikado/yamato_city/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ}&mode=60,2026-03-24T02:49:41.580Z,2026-03-24T02:49:41.580Z
 142131,大和市 公開型地図情報サービス,7,土砂災害警戒区域,https://www.machi-info.jp/machikado/yamato_city/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ}&mode=55,2026-03-24T02:50:21.362Z,2026-03-24T02:50:21.362Z
