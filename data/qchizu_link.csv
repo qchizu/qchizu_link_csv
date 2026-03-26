@@ -249,7 +249,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 271004,マップナビおおさか,3,都市計画情報（用途地域）,https://www.mapnavi.city.osaka.lg.jp/osakacity/Map?mid=51&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:19:33.080Z,2026-03-23T07:19:33.080Z
 271004,マップナビおおさか,4,道路台帳現況平面図,https://www.mapnavi.city.osaka.lg.jp/osakacity/Map?mid=92&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:20:04.466Z,2026-03-23T07:20:04.466Z
 271004,マップナビおおさか,6,固定資産地籍図,https://www.mapnavi.city.osaka.lg.jp/osakacity/Map?mid=19&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:21:51.895Z,2026-03-23T07:21:51.895Z
-142115,はだのＷＥＢマップ,3,都市計画情報,https://www2.wagmap.jp/hadano/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:31:41.158Z,2026-03-23T07:31:41.158Z
+142115,はだのＷＥＢマップ,3,都市計画情報,https://www2.wagmap.jp/hadano/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:26:03.845Z,2026-03-26T08:26:03.845Z
 142115,はだのＷＥＢマップ,4,道路台帳図,https://www2.wagmap.jp/hadano/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:32:11.701Z,2026-03-23T07:32:11.701Z
 142115,はだのＷＥＢマップ,5,公共下水道台帳（汚水）参考図,https://www2.wagmap.jp/hadano/Map?mid=14&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:32:42.555Z,2026-03-23T07:32:42.555Z
 142115,はだのＷＥＢマップ,8,森林計画図,https://www2.wagmap.jp/hadano/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:33:25.111Z,2026-03-23T07:33:25.111Z
