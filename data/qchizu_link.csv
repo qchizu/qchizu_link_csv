@@ -660,3 +660,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 92134,なすしおばらまっぷ,4,道路台帳図,https://maps.city.nasushiobara.tochigi.jp/#/?center={lng}%2F{lat}&zoom={z}&baseMap=chikeizu&layers=OgYfGWHXFANRYS3PTz7G5DdQ,2026-03-26T07:13:56.781Z,2026-03-26T07:13:56.781Z
 92169,しもつけシティーガイド,3,都市計画情報,https://www.sonicweb-asp.jp/shimotsuke/map?theme=th_39#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T07:16:50.172Z,2026-03-26T07:16:50.172Z
 92169,しもつけシティーガイド,5,公共下水道,https://www.sonicweb-asp.jp/shimotsuke/map?theme=th_42#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T07:17:28.115Z,2026-03-26T07:17:28.115Z
+93611,みぶｅマップ,3,都市計画情報,https://mibu-emap.geogeo.jp/maps?mode=map&lid=0&mid=1&z={z}&lat={lat}&{lng},2026-03-26T07:20:14.242Z,2026-03-26T07:20:14.242Z
