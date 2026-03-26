@@ -571,3 +571,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112411,つるがしまっぷ,3,都市計画情報,https://www2.wagmap.jp/tsurugashima/Map?mid=40&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:22:22.424Z,2026-03-26T04:22:22.424Z
 112411,つるがしまっぷ,4,道路台帳図・路線網図,https://www2.wagmap.jp/tsurugashima/Map?mid=42&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:22:46.535Z,2026-03-26T04:22:46.535Z
 112461,しらおか地図情報サービス,1,地形図,https://shiraoka.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=40-2,2026-03-26T04:25:16.196Z,2026-03-26T04:25:16.196Z
+112461,しらおか地図情報サービス,3,用途地域図,https://shiraoka.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=30-1,2026-03-26T04:25:56.792Z,2026-03-26T04:25:56.792Z
