@@ -661,3 +661,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 92169,しもつけシティーガイド,3,都市計画情報,https://www.sonicweb-asp.jp/shimotsuke/map?theme=th_39#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T07:16:50.172Z,2026-03-26T07:16:50.172Z
 92169,しもつけシティーガイド,5,公共下水道,https://www.sonicweb-asp.jp/shimotsuke/map?theme=th_42#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T07:17:28.115Z,2026-03-26T07:17:28.115Z
 93611,みぶｅマップ,3,都市計画情報,https://mibu-emap.geogeo.jp/maps?mode=map&lid=0&mid=1&z={z}&lat={lat}&{lng},2026-03-26T07:20:14.242Z,2026-03-26T07:20:14.242Z
+93611,みぶｅマップ,4,道路,https://mibu-emap.geogeo.jp/maps?mode=map&lid=0&mid=6&z={z}&lat={lat}&{lng},2026-03-26T07:20:43.757Z,2026-03-26T07:20:43.757Z
