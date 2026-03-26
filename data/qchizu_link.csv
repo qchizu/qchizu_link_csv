@@ -654,3 +654,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 92100,おおたわらデジタルマップ,3,都市計画図,https://www2.wagmap.jp/ohtawaracity/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:06:09.776Z,2026-03-26T07:06:09.776Z
 92100,おおたわらデジタルマップ,4,道路,https://www2.wagmap.jp/ohtawaracity/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:06:51.028Z,2026-03-26T07:06:51.028Z
 92100,おおたわらデジタルマップ,6,地番参考図,https://www2.wagmap.jp/ohtawaracity/Map?mid=22&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:07:22.083Z,2026-03-26T07:07:22.083Z
+92100,おおたわらデジタルマップ,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/ohtawaracity/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:07:46.585Z,2026-03-26T07:07:46.585Z
