@@ -557,3 +557,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112305,にいざマップ,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/niiza/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:56:27.704Z,2026-03-26T02:56:27.704Z
 112313,おけがわインフラマップ,3,都市計画関連情報,https://okegawa.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-26T02:58:22.854Z,2026-03-26T02:58:22.854Z
 112313,おけがわインフラマップ,4,市道認定関連情報,https://okegawa.cloudgis.jp/road/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-26T02:59:26.646Z,2026-03-26T02:59:26.646Z
+112313,おけがわインフラマップ,5,下水道関連情報,https://okegawa.cloudgis.jp/gesui/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-26T02:59:53.230Z,2026-03-26T02:59:53.230Z
