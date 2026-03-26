@@ -406,7 +406,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 143821,はこねＭＡＰ,6,地番図,https://www.sonicweb-asp.jp/hakone/map?theme=th_33#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T04:27:27.899Z,2026-03-24T04:27:27.899Z
 143847,湯河原町地理情報システム,3,都市計画,https://www2.wagmap.jp/yugawara/Map?mid=19&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:30:50.213Z,2026-03-26T08:30:50.213Z
 143847,湯河原町地理情報システム,4,道路台帳,https://www2.wagmap.jp/yugawara/Map?mid=43&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:30:54.451Z,2026-03-26T08:30:54.451Z
-143847,湯河原町地理情報システム,7,防災マップ,https://www2.wagmap.jp/yugawara/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:32:27.406Z,2026-03-24T04:32:27.406Z
+143847,湯河原町地理情報システム,7,防災マップ,https://www2.wagmap.jp/yugawara/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:31:00.348Z,2026-03-26T08:31:00.348Z
 120006,ちば情報マップ,4,千葉県管理道路,https://map.pref.chiba.lg.jp/pref-chiba/Map?mid=1213&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:57:52.582Z,2026-03-26T07:57:52.582Z
 120006,ちば情報マップ,7,土砂災害警戒区域等・砂防３法指定区域,https://map.pref.chiba.lg.jp/pref-chiba/Map?mid=6601&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:58:01.533Z,2026-03-26T07:58:01.533Z
 120006,ちば情報マップ,8,森林,https://map.pref.chiba.lg.jp/pref-chiba/Map?mid=5201&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:58:11.797Z,2026-03-26T07:58:11.797Z
