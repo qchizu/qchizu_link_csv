@@ -412,7 +412,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 120006,ちば情報マップ,8,森林,https://map.pref.chiba.lg.jp/pref-chiba/Map?mid=5201&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:58:11.797Z,2026-03-26T07:58:11.797Z
 121002,千葉市地図情報システム,3,千葉市都市計画図,https://webgis.alandis.jp/chiba12/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=2&si=0,2026-03-24T04:39:34.877Z,2026-03-24T04:39:34.877Z
 121002,千葉市地図情報システム,4,認定路線網図,https://webgis.alandis.jp/chiba12/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-03-24T04:41:10.810Z,2026-03-24T04:41:10.810Z
-121002,ちばしのマップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/chibacity/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:42:22.753Z,2026-03-24T04:42:22.753Z
+121002,ちばしのマップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/chibacity/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:58:40.937Z,2026-03-26T07:58:40.937Z
 122025,銚子市都市計画情報システム,1,地形図,https://webgis.alandis.jp/choshi12/webgis/index.php/autologin_jswebgis?u=guest_chikeizu01&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-24T04:43:40.077Z,2026-03-24T04:43:40.077Z
 122025,銚子市都市計画情報システム,2,航空写真,https://webgis.alandis.jp/choshi12/webgis/index.php/autologin_jswebgis?u=guest_airphoto01&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-24T04:44:28.754Z,2026-03-24T04:44:28.754Z
 122025,銚子市都市計画情報システム,3,都市計画図,https://webgis.alandis.jp/choshi12/webgis/index.php/autologin_jswebgis?u=guest_toshi01&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-24T04:45:12.897Z,2026-03-24T04:45:12.897Z
