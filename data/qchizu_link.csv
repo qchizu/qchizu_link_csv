@@ -388,7 +388,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142158,ｉ－ＭＡＰわが街海老名ガイド,5,下水道施設マップ,https://www2.wagmap.jp/ebina/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:28:33.133Z,2026-03-26T08:28:33.133Z
 142166,座間市 わが街ガイドマップ,3,都市計画図,https://www2.wagmap.jp/zama/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:28:52.260Z,2026-03-26T08:28:52.260Z
 142166,座間市道路情報管理システム,4,認定路線網図,https://webgis.alandis.jp/zama14/webgis/index.php/autologin_jswebgis?u=guest2&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-24T02:57:42.190Z,2026-03-24T02:57:42.190Z
-142166,座間市 わが街ガイドマップ,7,ハザードマップ,https://www2.wagmap.jp/zama/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:58:25.463Z,2026-03-24T02:58:25.463Z
+142166,座間市 わが街ガイドマップ,7,ハザードマップ,https://www2.wagmap.jp/zama/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:28:56.734Z,2026-03-26T08:28:56.734Z
 142174,南足柄市地理情報システム,3,都市計画図,https://www2.wagmap.jp/minamiashigara/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:04:41.775Z,2026-03-24T04:04:41.775Z
 142174,南足柄市地理情報システム,4,道路台帳図,https://www2.wagmap.jp/minamiashigara/Map?mid=24&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:05:15.999Z,2026-03-24T04:05:15.999Z
 142174,南足柄市地理情報システム,5,下水道台帳図,https://www2.wagmap.jp/minamiashigara/Map?mid=29&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T04:05:43.006Z,2026-03-24T04:05:43.006Z
