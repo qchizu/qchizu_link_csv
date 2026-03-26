@@ -92,7 +92,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 261009,京都市地図情報提供サービス,3,京都市都市計画情報検索システム,https://keikan-gis.city.kyoto.lg.jp/kyotogis/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=cityplanning&y={webMercatorX}&x={webMercatorY}&s={alandisZ},2026-03-23T02:24:13.865Z,2026-03-23T02:24:13.865Z
 261009,京都市地図情報提供サービス,4,京都市認定路線網図提供システム,https://keikan-gis.city.kyoto.lg.jp/kyotogis/webgis/index.php/autologin_jswebgis?u=ninteirosen_switch&ap=jsWebGIS&y={webMercatorX}&x={webMercatorY}&s={alandisZ},2026-03-23T02:26:08.152Z,2026-03-23T02:26:08.152Z
 261009,京都市地図情報提供サービス,1,地形図,https://keikan-gis.city.kyoto.lg.jp/kyotogis/webgis/index.php/autologin_jswebgis?u=chikeizu&ap=jsWebGIS&y={webMercatorX}&x={webMercatorY}&s={alandisZ},2026-03-23T02:27:40.731Z,2026-03-23T02:27:40.731Z
-162060,なめりかわデジタルマップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/namerikawacity/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T02:36:30.977Z,2026-03-23T02:36:30.977Z
+162060,なめりかわデジタルマップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/namerikawacity/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:31:48.615Z,2026-03-26T08:31:48.615Z
 162060,なめりかわデジタルマップ,3,都市計画情報,https://www2.wagmap.jp/namerikawacity/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:31:25.875Z,2026-03-26T08:31:25.875Z
 162060,なめりかわデジタルマップ,4,道路台帳情報,https://www2.wagmap.jp/namerikawacity/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:31:30.575Z,2026-03-26T08:31:30.575Z
 162060,なめりかわデジタルマップ,5,下水道台帳情報,https://www2.wagmap.jp/namerikawacity/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:31:37.533Z,2026-03-26T08:31:37.533Z
