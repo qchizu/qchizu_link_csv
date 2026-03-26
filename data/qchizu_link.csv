@@ -464,7 +464,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122319,印西市わが街ガイド,6,地番参考図,https://www2.wagmap.jp/inzai/Map?mid=25&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:01:33.056Z,2026-03-26T08:01:33.056Z
 122319,印西市わが街ガイド,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/inzai/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:01:38.466Z,2026-03-26T08:01:38.466Z
 122335,富里市まちづくり地図情報システム,3,都市計画図,https://webgis.alandis.jp/tomisato12/webgis/index.php/autologin_jswebgis?u=guest1&li=1&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-24T06:03:05.171Z,2026-03-24T06:03:05.171Z
-122343,南房総市いいとこマップ（南房総市公開型ＧＩＳ）,1,地形図,https://www2.wagmap.jp/minamiboso/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T06:04:24.090Z,2026-03-24T06:04:24.090Z
+122343,南房総市いいとこマップ（南房総市公開型ＧＩＳ）,1,地形図,https://www2.wagmap.jp/minamiboso/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:02:32.309Z,2026-03-26T08:02:32.309Z
 122343,南房総市いいとこマップ（南房総市公開型ＧＩＳ）,2,航空写真,https://www2.wagmap.jp/minamiboso/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T06:04:56.770Z,2026-03-24T06:04:56.770Z
 122343,南房総市いいとこマップ（南房総市公開型ＧＩＳ）,3,大規模盛土造成地マップ,https://www2.wagmap.jp/minamiboso/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T06:05:51.080Z,2026-03-24T06:05:51.080Z
 122343,南房総市いいとこマップ（南房総市公開型ＧＩＳ）,4,路線認定網図、道路台帳図,https://www2.wagmap.jp/minamiboso/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T06:06:30.256Z,2026-03-24T06:06:30.256Z
