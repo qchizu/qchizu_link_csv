@@ -434,7 +434,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122106,茂原市わが街ガイド,3,都市計画,https://www2.wagmap.jp/mobara/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:00:00.557Z,2026-03-26T08:00:00.557Z
 122106,茂原市わが街ガイド,4,道路情報,https://www2.wagmap.jp/mobara/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:00:04.991Z,2026-03-26T08:00:04.991Z
 122106,茂原市わが街ガイド,5,下水道管網図,https://www2.wagmap.jp/mobara/Map?mid=18&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:00:09.695Z,2026-03-26T08:00:09.695Z
-122106,茂原市わが街ガイド,7,防災情報,https://www2.wagmap.jp/mobara/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:14:32.829Z,2026-03-24T05:14:32.829Z
+122106,茂原市わが街ガイド,7,防災情報,https://www2.wagmap.jp/mobara/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:00:15.610Z,2026-03-26T08:00:15.610Z
 122173,柏市公開型ＧＩＳ,3,都市計画情報,https://www.sonicweb-asp.jp/kashiwa/map?theme=th_14#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T05:28:15.660Z,2026-03-24T05:28:15.660Z
 122173,柏市公開型ＧＩＳ,4,道路台帳図,https://www.sonicweb-asp.jp/kashiwa/map?theme=th_16#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T05:28:47.911Z,2026-03-24T05:28:47.911Z
 122173,柏市公開型ＧＩＳ,5,下水道台帳図,https://www.sonicweb-asp.jp/kashiwa/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T05:29:18.968Z,2026-03-24T05:29:18.968Z
