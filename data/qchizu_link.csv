@@ -308,8 +308,8 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 202207,安曇野市都市計画等情報マップ,3,都市計画等情報マップ（２Ｄ地図）,https://azuminocity.maps.arcgis.com/apps/webappviewer/index.html?id=13eafeb6bc8b41fa82ffcad1ad7809ac&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-24T00:58:18.730Z,2026-03-24T00:58:18.730Z
 202207,安曇野市道路台帳マップ,4,道路台帳マップ,https://azuminocity.maps.arcgis.com/apps/webappviewer/index.html?id=ff06b231e28949d889bd1182cddc9eb1&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-24T00:59:26.650Z,2026-03-24T00:59:26.650Z
 131059,文京区都市計画図検索システム,3,都市計画図,https://www.sonicweb-asp.jp/bunkyo-youto/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:02:09.944Z,2026-03-24T01:02:09.944Z
-131067,たいとうマップ,3,都市計画マップ,https://www2.wagmap.jp/taito/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:04:11.924Z,2026-03-24T01:04:11.924Z
-131067,たいとうマップ,4,認定道路・道路台帳図,https://www2.wagmap.jp/taito/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T01:04:48.982Z,2026-03-24T01:04:48.982Z
+131067,たいとうマップ,3,都市計画マップ,https://www2.wagmap.jp/taito/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:09:04.520Z,2026-03-26T08:09:04.520Z
+131067,たいとうマップ,4,認定道路・道路台帳図,https://www2.wagmap.jp/taito/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:09:09.906Z,2026-03-26T08:09:09.906Z
 131075,すみだまちづくりマップ,3,都市計画情報図（用途地域等）,https://www.sonicweb-asp.jp/sumida/map?theme=th_12#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:06:18.111Z,2026-03-24T01:06:18.111Z
 131075,すみだまちづくりマップ,4,道路関係資料,https://www.sonicweb-asp.jp/sumida/map?theme=th_9#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-24T01:07:13.597Z,2026-03-24T01:07:13.597Z
 131083,ことまっぷ,3,都市計画マップ,https://koto.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=4,2026-03-24T01:11:41.027Z,2026-03-24T01:11:41.027Z
