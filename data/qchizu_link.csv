@@ -631,3 +631,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 82201,つくば市都市計画マップ,4,認定道路,https://www2.wagmap.jp/tsukuba/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T06:21:42.566Z,2026-03-26T06:21:42.566Z
 82201,つくば市都市計画マップ,5,下水道台帳,https://www2.wagmap.jp/tsukuba/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T06:22:05.216Z,2026-03-26T06:22:05.216Z
 82252,ひたちおおみやデジタルマップ,2,航空写真,https://www2.wagmap.jp/hitachiomiyacity/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=ortho,2026-03-26T06:30:46.740Z,2026-03-26T06:30:46.740Z
+82252,ひたちおおみやデジタルマップ,3,都市計画総括図,https://www2.wagmap.jp/hitachiomiyacity/Map?mid=301&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T06:31:40.811Z,2026-03-26T06:31:40.811Z
