@@ -652,3 +652,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 92088,おやまわが街ガイド,4,認定道路情報,https://www2.wagmap.jp/oyamacity/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T07:03:03.117Z,2026-03-26T07:03:03.117Z
 92088,おやまわが街ガイド,7,洪水ハザードマップ,https://www2.wagmap.jp/oyamacity/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T07:03:45.984Z,2026-03-26T07:03:45.984Z
 92100,おおたわらデジタルマップ,3,都市計画図,https://www2.wagmap.jp/ohtawaracity/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:06:09.776Z,2026-03-26T07:06:09.776Z
+92100,おおたわらデジタルマップ,4,道路,https://www2.wagmap.jp/ohtawaracity/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:06:51.028Z,2026-03-26T07:06:51.028Z
