@@ -288,8 +288,8 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132195,狛江市地図情報サービス,3,都市計画図,https://www2.wagmap.jp/komaecity/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:17:51.212Z,2026-03-26T08:17:51.212Z
 132195,狛江市地図情報サービス,4,道路台帳平面図,https://www2.wagmap.jp/komaecity/Map?mid=120&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:17:58.151Z,2026-03-26T08:17:58.151Z
 132195,狛江市地図情報サービス,5,下水道台帳マップ,https://www2.wagmap.jp/komaecity/Map?mid=132&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:18:02.666Z,2026-03-26T08:18:02.666Z
-132195,狛江市地図情報サービス,6,地番マップ,https://www2.wagmap.jp/komaecity/Map?mid=50&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:13:34.644Z,2026-03-23T08:13:34.644Z
-132195,狛江市地図情報サービス,7,土砂災害警戒区域マップ,https://www2.wagmap.jp/komaecity/Map?mid=31&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T08:14:05.199Z,2026-03-23T08:14:05.199Z
+132195,狛江市地図情報サービス,6,地番マップ,https://www2.wagmap.jp/komaecity/Map?mid=50&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:18:08.687Z,2026-03-26T08:18:08.687Z
+132195,狛江市地図情報サービス,7,土砂災害警戒区域マップ,https://www2.wagmap.jp/komaecity/Map?mid=31&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:18:13.159Z,2026-03-26T08:18:13.159Z
 132217,きよせデジマップ,3,都市計画情報,https://www.sonicweb-asp.jp/kiyose/map?theme=th_13#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:16:28.202Z,2026-03-23T08:16:28.202Z
 132217,きよせデジマップ,4,道路情報,https://www.sonicweb-asp.jp/kiyose/map?theme=th_60#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T08:17:01.632Z,2026-03-23T08:17:01.632Z
 132225,東久留米市都市計画情報マップ（Ｇｏｏｇｌｅマイマップ）,3,都市計画情報,https://www.google.com/maps/d/viewer?mid=1s43PRDBUwiDPdTXrbNQwo7IiQnNUfsI&ll={lat}%2C{lng}&z={z},2026-03-23T08:20:12.303Z,2026-03-23T08:20:12.303Z
