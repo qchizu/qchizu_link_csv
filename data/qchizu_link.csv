@@ -519,3 +519,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112119,ほんじょうマップ,4,路線認定網図,https://www2.wagmap.jp/honjo/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:23:11.258Z,2026-03-26T02:23:11.258Z
 112119,ほんじょうマップ,5,下水道台帳,https://www2.wagmap.jp/honjo/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:23:35.860Z,2026-03-26T02:23:35.860Z
 112119,ほんじょうマップ,6,参考地番図,https://www2.wagmap.jp/honjo/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:24:14.062Z,2026-03-26T02:24:14.062Z
+112119,ほんじょうマップ,7,防災情報,https://www2.wagmap.jp/honjo/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:24:48.022Z,2026-03-26T02:24:48.022Z
