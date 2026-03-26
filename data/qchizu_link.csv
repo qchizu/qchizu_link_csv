@@ -562,3 +562,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112372,三郷市地図情報システム,3,都市計画情報,https://www.sonicweb-asp.jp/misato/map?theme=th_4#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:09:12.218Z,2026-03-26T04:09:12.218Z
 112372,三郷市地図情報システム,4,認定路線網図,https://www.sonicweb-asp.jp/misato/map?theme=th_6#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:09:38.016Z,2026-03-26T04:09:38.016Z
 112372,三郷市地図情報システム,5,下水道台帳,https://www.sonicweb-asp.jp/misato/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:10:03.585Z,2026-03-26T04:10:03.585Z
+112372,三郷市地図情報システム,6,参考地番図,https://www.sonicweb-asp.jp/misato/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:10:23.572Z,2026-03-26T04:10:23.572Z
