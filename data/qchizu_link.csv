@@ -554,3 +554,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112275,朝霞市地理情報システム,7,ハザードマップ,https://www2.wagmap.jp/asaka/Map?mid=40&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:53:29.227Z,2026-03-26T02:53:29.227Z
 112305,にいざマップ,3,都市計画情報,https://www2.wagmap.jp/niiza/Map?mid=27&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:55:03.715Z,2026-03-26T02:55:03.715Z
 112305,にいざマップ,4,道路台帳図・境界確定図,https://www2.wagmap.jp/niiza/Map?mid=21&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:55:42.319Z,2026-03-26T02:55:42.319Z
+112305,にいざマップ,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/niiza/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:56:27.704Z,2026-03-26T02:56:27.704Z
