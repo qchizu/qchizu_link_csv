@@ -502,3 +502,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112020,くまっぷ,5,下水道台帳,https://www2.wagmap.jp/kumagaya/Map?mid=150&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:02:30.568Z,2026-03-26T02:02:30.568Z
 112020,くまっぷ,7,洪水ハザードマップ,https://www2.wagmap.jp/kumagaya/Map?mid=200&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:03:12.855Z,2026-03-26T02:03:12.855Z
 112011,小江戸川越マップ,7,洪水ハザードマップ（想定最大規模）,https://www2.wagmap.jp/kawagoe/Map?mid=301&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:03:57.013Z,2026-03-26T02:03:57.013Z
+112038,かわぐち案内マップ,3,都市計画情報マップ,https://kawaguchi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=17,2026-03-26T02:07:20.766Z,2026-03-26T02:07:20.766Z
