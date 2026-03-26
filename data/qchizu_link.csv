@@ -602,7 +602,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 85421,いばらきデジタルまっぷ,4,道路台帳（五霞町）,https://www2.wagmap.jp/ibaraki/Map?mid=108&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:54:34.408Z,2026-03-26T04:54:34.408Z
 85421,いばらきデジタルまっぷ,5,五霞町下水道台帳図,https://www2.wagmap.jp/ibaraki/Map?mid=109&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:54:54.248Z,2026-03-26T04:54:54.248Z
 82317,いばらきデジタルまっぷ,3,都市計画（桜川市）,https://www2.wagmap.jp/ibaraki/Map?mid=111&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:55:22.437Z,2026-03-26T04:55:22.437Z
-82236,いばらきデジタルまっぷ,3,都市計画（潮来市）,https://www2.wagmap.jp/ibaraki/Map?mid=113&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:56:03.170Z,2026-03-26T04:56:03.170Z
+82236,いばらきデジタルまっぷ,3,都市計画（潮来市）,https://www2.wagmap.jp/ibaraki/Map?mid=113&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:32:33.295Z,2026-03-26T07:32:33.295Z
 82368,いばらきデジタルまっぷ,4,路線網図（小美玉市）,https://www2.wagmap.jp/ibaraki/Map?mid=98&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:56:35.980Z,2026-03-26T04:56:35.980Z
 82333,いばらきデジタルまっぷ,4,行方市認定路線網図,https://www2.wagmap.jp/ibaraki/Map?mid=92&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:57:05.849Z,2026-03-26T04:57:05.849Z
 82295,いばらきデジタルまっぷ,4,稲敷市道路網図,https://www2.wagmap.jp/ibaraki/Map?mid=94&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:57:31.600Z,2026-03-26T04:57:31.600Z
