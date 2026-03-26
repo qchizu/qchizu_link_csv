@@ -522,3 +522,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112119,ほんじょうマップ,7,防災情報,https://www2.wagmap.jp/honjo/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:24:48.022Z,2026-03-26T02:24:48.022Z
 112143,かすかべ オラナビ,3,都市計画図,https://kasukabe.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=60,2026-03-26T02:26:19.262Z,2026-03-26T02:26:19.262Z
 112143,かすかべ オラナビ,4,道路台帳参考図,https://kasukabe.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=11,2026-03-26T02:26:47.131Z,2026-03-26T02:26:47.131Z
+112151,さやまちマップ,1,地形図（白地図）,https://www.sonicweb-asp.jp/sayama/map?theme=th_default#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T02:28:23.569Z,2026-03-26T02:28:23.569Z
