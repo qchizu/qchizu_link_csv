@@ -368,7 +368,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142069,Ｎａｖｉ－Ｏ｜小田原市地理情報システム,4,認定路線情報,https://www2.wagmap.jp/navi-odawara/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:23:50.342Z,2026-03-26T08:23:50.342Z
 142069,Ｎａｖｉ－Ｏ｜小田原市地理情報システム,5,公共下水道台帳（汚水）参考図,https://www2.wagmap.jp/navi-odawara/Map?mid=90&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:23:57.043Z,2026-03-26T08:23:57.043Z
 142069,Ｎａｖｉ－Ｏ｜小田原市地理情報システム,7,土砂・洪水ハザードマップ,https://www2.wagmap.jp/navi-odawara/Map?mid=38&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:24:02.895Z,2026-03-26T08:24:02.895Z
-142077,まっぷｄｅちがさき,3,都市計画図,https://www2.wagmap.jp/chigasaki/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:36:08.065Z,2026-03-24T02:36:08.065Z
+142077,まっぷｄｅちがさき,3,都市計画図,https://www2.wagmap.jp/chigasaki/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:24:46.507Z,2026-03-26T08:24:46.507Z
 142077,まっぷｄｅちがさき,4,指定道路図,https://www2.wagmap.jp/chigasaki/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:36:54.208Z,2026-03-24T02:36:54.208Z
 142077,まっぷｄｅちがさき,7,洪水・土砂災害防災マップ,https://www2.wagmap.jp/chigasaki/Map?mid=75&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:37:55.979Z,2026-03-24T02:37:55.979Z
 142085,逗子市オンラインマップ,3,都市計画関連マップ,https://zushicity.maps.arcgis.com/apps/webappviewer/index.html?id=c7dd16e47b674b429ce8a5eb79cb494a&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-24T02:39:20.663Z,2026-03-24T02:39:20.663Z
