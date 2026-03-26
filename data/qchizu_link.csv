@@ -459,8 +459,8 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122297,そでＭＡＰ,3,都市計画情報,https://www2.wagmap.jp/sodegaura/Map?mid=913&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:00:43.119Z,2026-03-26T08:00:43.119Z
 122297,そでＭＡＰ,4,市道認定道路図,https://www2.wagmap.jp/sodegaura/Map?mid=912&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:00:48.049Z,2026-03-26T08:00:48.049Z
 122297,そでＭＡＰ,7,土砂災害警戒区域等マップ,https://www2.wagmap.jp/sodegaura/Map?mid=914&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:00:53.595Z,2026-03-26T08:00:53.595Z
-122319,印西市わが街ガイド,3,都市計画情報,https://www2.wagmap.jp/inzai/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:58:36.904Z,2026-03-24T05:58:36.904Z
-122319,印西市わが街ガイド,4,道路台帳平面図,https://www2.wagmap.jp/inzai/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:59:00.097Z,2026-03-24T05:59:00.097Z
+122319,印西市わが街ガイド,3,都市計画情報,https://www2.wagmap.jp/inzai/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:01:22.361Z,2026-03-26T08:01:22.361Z
+122319,印西市わが街ガイド,4,道路台帳平面図,https://www2.wagmap.jp/inzai/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:01:27.479Z,2026-03-26T08:01:27.479Z
 122319,印西市わが街ガイド,6,地番参考図,https://www2.wagmap.jp/inzai/Map?mid=25&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T06:00:55.477Z,2026-03-24T06:00:55.477Z
 122319,印西市わが街ガイド,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/inzai/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T06:01:42.723Z,2026-03-24T06:01:42.723Z
 122335,富里市まちづくり地図情報システム,3,都市計画図,https://webgis.alandis.jp/tomisato12/webgis/index.php/autologin_jswebgis?u=guest1&li=1&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-24T06:03:05.171Z,2026-03-24T06:03:05.171Z
