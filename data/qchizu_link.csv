@@ -539,3 +539,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112186,ふかやＭａｐ,6,地番参考図Ｒ０７,https://fukaya.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=37,2026-03-26T02:37:02.498Z,2026-03-26T02:37:02.498Z
 112194,あげおガイド アピマップ,3,都市計画図,https://www2.wagmap.jp/ageocity/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:39:42.272Z,2026-03-26T02:39:42.272Z
 112194,あげおガイド アピマップ,4,路線図（路線番号及び認定幅員）,https://www2.wagmap.jp/ageocity/Map?mid=17&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:40:08.264Z,2026-03-26T02:40:08.264Z
+112194,あげおガイド アピマップ,5,下水道台帳図,https://www2.wagmap.jp/ageocity/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:40:36.121Z,2026-03-26T02:40:36.121Z
