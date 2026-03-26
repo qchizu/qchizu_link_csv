@@ -364,8 +364,8 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142042,かまくらわが街マップ,3,都市計画情報マップ,https://www2.wagmap.jp/kamakura-hazard/Map?mid=231&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:25:58.990Z,2026-03-26T07:25:58.990Z
 142042,かまくらわが街マップ,5,公共下水道情報,https://www2.wagmap.jp/kamakura-hazard/Map?mid=242&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:26:19.024Z,2026-03-26T07:26:19.024Z
 142042,かまくらわが街マップ,7,土砂災害防災情報マップ,https://www2.wagmap.jp/kamakura-hazard/Map?mid=203&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:26:29.758Z,2026-03-26T07:26:29.758Z
-142069,Ｎａｖｉ－Ｏ｜小田原市地理情報システム,3,都市計画図,https://www2.wagmap.jp/navi-odawara/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:30:13.614Z,2026-03-24T02:30:13.614Z
-142069,Ｎａｖｉ－Ｏ｜小田原市地理情報システム,4,認定路線情報,https://www2.wagmap.jp/navi-odawara/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:32:39.202Z,2026-03-24T02:32:39.202Z
+142069,Ｎａｖｉ－Ｏ｜小田原市地理情報システム,3,都市計画図,https://www2.wagmap.jp/navi-odawara/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:23:45.876Z,2026-03-26T08:23:45.876Z
+142069,Ｎａｖｉ－Ｏ｜小田原市地理情報システム,4,認定路線情報,https://www2.wagmap.jp/navi-odawara/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:23:50.342Z,2026-03-26T08:23:50.342Z
 142069,Ｎａｖｉ－Ｏ｜小田原市地理情報システム,5,公共下水道台帳（汚水）参考図,https://www2.wagmap.jp/navi-odawara/Map?mid=90&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:33:18.611Z,2026-03-24T02:33:18.611Z
 142069,Ｎａｖｉ－Ｏ｜小田原市地理情報システム,7,土砂・洪水ハザードマップ,https://www2.wagmap.jp/navi-odawara/Map?mid=38&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:34:16.926Z,2026-03-24T02:34:16.926Z
 142077,まっぷｄｅちがさき,3,都市計画図,https://www2.wagmap.jp/chigasaki/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:36:08.065Z,2026-03-24T02:36:08.065Z
