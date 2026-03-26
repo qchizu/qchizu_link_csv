@@ -657,3 +657,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 92100,おおたわらデジタルマップ,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/ohtawaracity/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:07:46.585Z,2026-03-26T07:07:46.585Z
 92134,なすしおばらまっぷ,1,地形図,https://maps.city.nasushiobara.tochigi.jp/#/?center={lng}%2F{lat}&zoom={z}&baseMap=chikeizu,2026-03-26T07:11:49.499Z,2026-03-26T07:11:49.499Z
 92134,なすしおばらまっぷ,3,まちづくり,https://maps.city.nasushiobara.tochigi.jp/#/?center={lng}%2F{lat}&zoom={z}&layers=hQLienlzlbxyja7jT7CrlSu8Dky5s8Jq1ifa,2026-03-26T07:13:02.318Z,2026-03-26T07:13:02.318Z
+92134,なすしおばらまっぷ,4,道路台帳図,https://maps.city.nasushiobara.tochigi.jp/#/?center={lng}%2F{lat}&zoom={z}&layers=OgYfGWHXFANRYS3PTz7G5DdQ,2026-03-26T07:13:27.570Z,2026-03-26T07:13:27.570Z
