@@ -594,7 +594,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 82074,いばらきデジタルまっぷ,3,都市計画（結城市）,https://www2.wagmap.jp/ibaraki/Map?mid=65&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:31:46.753Z,2026-03-26T07:31:46.753Z
 82112,いばらきデジタルまっぷ,3,都市計画（常総市）,https://www2.wagmap.jp/ibaraki/Map?mid=66&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:31:57.957Z,2026-03-26T07:31:57.957Z
 82228,いばらきデジタルまっぷ,3,都市計画（鹿嶋市）,https://www2.wagmap.jp/ibaraki/Map?mid=67&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:32:23.121Z,2026-03-26T07:32:23.121Z
-82325,いばらきデジタルまっぷ,3,都市計画（神栖市）Ｒ４．７時点,https://www2.wagmap.jp/ibaraki/Map?mid=68&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:51:54.019Z,2026-03-26T04:51:54.019Z
+82325,いばらきデジタルまっぷ,3,都市計画（神栖市）Ｒ４．７時点,https://www2.wagmap.jp/ibaraki/Map?mid=68&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:33:24.939Z,2026-03-26T07:33:24.939Z
 82341,いばらきデジタルまっぷ,3,都市計画（鉾田市）,https://www2.wagmap.jp/ibaraki/Map?mid=81&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:52:36.218Z,2026-03-26T04:52:36.218Z
 82333,いばらきデジタルまっぷ,3,都市計画（行方市）,https://www2.wagmap.jp/ibaraki/Map?mid=83&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:53:04.535Z,2026-03-26T04:53:04.535Z
 82325,いばらきデジタルまっぷ,4,道路台帳（神栖市）,https://www2.wagmap.jp/ibaraki/Map?mid=89&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:53:30.550Z,2026-03-26T04:53:30.550Z
