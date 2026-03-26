@@ -593,3 +593,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 80004,いばらきデジタルまっぷ,7,土砂災害警戒区域等指定箇所マップ,https://www2.wagmap.jp/ibaraki/Map?mid=80&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:49:40.416Z,2026-03-26T04:49:40.416Z
 82074,いばらきデジタルまっぷ,3,都市計画（結城市）,https://www2.wagmap.jp/ibaraki/Map?mid=65&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:50:35.010Z,2026-03-26T04:50:35.010Z
 82112,いばらきデジタルまっぷ,3,都市計画（常総市）,https://www2.wagmap.jp/ibaraki/Map?mid=66&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:50:54.273Z,2026-03-26T04:50:54.273Z
+82228,いばらきデジタルまっぷ,3,都市計画（鹿嶋市）,https://www2.wagmap.jp/ibaraki/Map?mid=67&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:51:28.750Z,2026-03-26T04:51:28.750Z
