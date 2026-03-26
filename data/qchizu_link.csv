@@ -639,3 +639,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 90000,とちぎ地図情報公開システム,7,とちぎ土砂災害警戒区域マップ,https://www.sonicweb-asp.jp/tochigi_pref/map?theme=th_20#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T06:47:16.257Z,2026-03-26T06:47:16.257Z
 92029,足利市都市計画等検索システム,3,都市計画情報,https://www.sonicweb-asp.jp/ashikaga/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T06:49:56.907Z,2026-03-26T06:49:56.907Z
 92029,足利市都市計画等検索システム,4,道路台帳図,https://www.sonicweb-asp.jp/ashikaga/map?theme=th_31#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T06:50:27.673Z,2026-03-26T06:50:27.673Z
+92029,足利市都市計画等検索システム,7,洪水・土砂災害ハザードマップ,https://www.sonicweb-asp.jp/ashikaga/map?theme=th_32#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T06:50:49.274Z,2026-03-26T06:50:49.274Z
