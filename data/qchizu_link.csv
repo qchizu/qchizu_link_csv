@@ -609,3 +609,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 82031,いばらきデジタルまっぷ,5,土浦市下水道台帳図,https://www2.wagmap.jp/ibaraki/Map?mid=96&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:58:11.285Z,2026-03-26T04:58:11.285Z
 82031,つちうらマップ,3,都市計画等情報,https://www.sonicweb-asp.jp/tsuchiura/map?theme=th_4#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:59:26.376Z,2026-03-26T04:59:26.376Z
 82031,つちうらマップ,4,認定路線網図,https://www.sonicweb-asp.jp/tsuchiura/map?theme=th_30#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T05:00:01.664Z,2026-03-26T05:00:01.664Z
+82040,古河生活べんりＭＡＰ,3,都市計画総括図,https://www.sonicweb-asp.jp/ibaraki-koga/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T05:00:49.309Z,2026-03-26T05:00:49.309Z
