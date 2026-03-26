@@ -619,3 +619,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 143413,大磯オンラインマップ,5,下水道,https://experience.arcgis.com/experience/162249ab59ee4be092c1060af21e0a0c#widget_249=center:{webMercatorX}%2C{webMercatorY}%2C102100%2Clevel:{z},2026-03-26T05:50:05.016Z,2026-03-26T05:50:05.016Z
 143413,大磯オンラインマップ,7,防災情報,https://experience.arcgis.com/experience/1bc857612d9446678b76c64c084cf552#widget_249=center:{webMercatorX}%2C{webMercatorY}%2C102100%2Clevel:{z},2026-03-26T05:51:00.563Z,2026-03-26T05:51:00.563Z
 142085,逗子市オンラインマップ,4,市道路関連マップ,https://experience.arcgis.com/experience/6006125f3dde40bb8a044384618ce402#widget_249=center:{webMercatorX}%2C{webMercatorY}%2C102100%2Clevel:{z},2026-03-26T05:56:44.527Z,2026-03-26T05:56:44.527Z
+122386,いすみ市くらしのガイドマップ,3,都市計画,https://experience.arcgis.com/experience/9d863f59d4b44c05a2ac19813dc56296#widget_249=center:{webMercatorX}%2C{webMercatorY}%2C102100%2Clevel:{z},2026-03-26T06:02:39.759Z,2026-03-26T06:02:39.759Z
