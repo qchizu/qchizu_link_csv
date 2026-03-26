@@ -585,3 +585,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 113859,上里町地図情報システム,4,道路台帳図,https://www.sonicweb-asp.jp/kamisato/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:38:54.508Z,2026-03-26T04:38:54.508Z
 113859,上里町地図情報システム,5,下水道台帳図,https://www.sonicweb-asp.jp/kamisato/map?theme=th_17#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:39:24.954Z,2026-03-26T04:39:24.954Z
 113859,上里町地図情報システム,6,参考地番図,https://www.sonicweb-asp.jp/kamisato/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:39:55.534Z,2026-03-26T04:39:55.534Z
+80004,いばらきデジタルまっぷ,1,地形図（一部地域のみ）,https://www2.wagmap.jp/ibaraki/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=dm,2026-03-26T04:43:45.037Z,2026-03-26T04:43:45.037Z
