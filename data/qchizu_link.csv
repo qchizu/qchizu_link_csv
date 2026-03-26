@@ -553,7 +553,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112275,朝霞市地理情報システム,5,下水道台帳図,https://www2.wagmap.jp/asaka/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:55:56.930Z,2026-03-26T07:55:56.930Z
 112275,朝霞市地理情報システム,7,ハザードマップ,https://www2.wagmap.jp/asaka/Map?mid=40&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:56:01.824Z,2026-03-26T07:56:01.824Z
 112305,にいざマップ,3,都市計画情報,https://www2.wagmap.jp/niiza/Map?mid=27&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:56:32.840Z,2026-03-26T07:56:32.840Z
-112305,にいざマップ,4,道路台帳図・境界確定図,https://www2.wagmap.jp/niiza/Map?mid=21&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:55:42.319Z,2026-03-26T02:55:42.319Z
+112305,にいざマップ,4,道路台帳図・境界確定図,https://www2.wagmap.jp/niiza/Map?mid=21&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:56:37.792Z,2026-03-26T07:56:37.792Z
 112305,にいざマップ,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/niiza/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:56:27.704Z,2026-03-26T02:56:27.704Z
 112313,おけがわインフラマップ,3,都市計画関連情報,https://okegawa.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-26T02:58:22.854Z,2026-03-26T02:58:22.854Z
 112313,おけがわインフラマップ,4,市道認定関連情報,https://okegawa.cloudgis.jp/road/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-26T02:59:26.646Z,2026-03-26T02:59:26.646Z
