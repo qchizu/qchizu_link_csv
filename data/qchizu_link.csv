@@ -644,3 +644,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 92037,栃木市地理情報システム,4,認定路線網図,https://www.sonicweb-asp.jp/tochigi/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T06:52:04.698Z,2026-03-26T06:52:04.698Z
 92037,栃木市地理情報システム,7,防災ハザードマップ,https://www.sonicweb-asp.jp/tochigi/map?theme=th_40#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T06:52:23.212Z,2026-03-26T06:52:23.212Z
 92045,佐野市地図情報システム,3,都市計画情報マップ,https://www.sonicweb-asp.jp/sano/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T06:53:12.761Z,2026-03-26T06:53:12.761Z
+92045,佐野市地図情報システム,4,路線網図,https://www.sonicweb-asp.jp/sano/map?theme=th_54#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T06:53:42.989Z,2026-03-26T06:53:42.989Z
