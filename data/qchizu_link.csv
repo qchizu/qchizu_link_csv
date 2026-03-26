@@ -600,3 +600,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 82325,いばらきデジタルまっぷ,4,道路台帳（神栖市）,https://www2.wagmap.jp/ibaraki/Map?mid=89&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:53:30.550Z,2026-03-26T04:53:30.550Z
 85464,いばらきデジタルまっぷ,3,都市計画（境町）,https://www2.wagmap.jp/ibaraki/Map?mid=97&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:54:00.510Z,2026-03-26T04:54:00.510Z
 85421,いばらきデジタルまっぷ,4,道路台帳（五霞町）,https://www2.wagmap.jp/ibaraki/Map?mid=108&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:54:34.408Z,2026-03-26T04:54:34.408Z
+85421,いばらきデジタルまっぷ,5,五霞町下水道台帳図,https://www2.wagmap.jp/ibaraki/Map?mid=109&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:54:54.248Z,2026-03-26T04:54:54.248Z
