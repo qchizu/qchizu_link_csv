@@ -458,7 +458,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122289,四街道市地図情報システム,7,ハザードマップ,https://webgis.alandis.jp/yotsukaido12/webgis181/index.php/autologin_jswebgis?u=guest3&li=3&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-24T05:54:19.547Z,2026-03-24T05:54:19.547Z
 122297,そでＭＡＰ,3,都市計画情報,https://www2.wagmap.jp/sodegaura/Map?mid=913&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:00:43.119Z,2026-03-26T08:00:43.119Z
 122297,そでＭＡＰ,4,市道認定道路図,https://www2.wagmap.jp/sodegaura/Map?mid=912&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:00:48.049Z,2026-03-26T08:00:48.049Z
-122297,そでＭＡＰ,7,土砂災害警戒区域等マップ,https://www2.wagmap.jp/sodegaura/Map?mid=914&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:57:22.719Z,2026-03-24T05:57:22.719Z
+122297,そでＭＡＰ,7,土砂災害警戒区域等マップ,https://www2.wagmap.jp/sodegaura/Map?mid=914&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:00:53.595Z,2026-03-26T08:00:53.595Z
 122319,印西市わが街ガイド,3,都市計画情報,https://www2.wagmap.jp/inzai/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:58:36.904Z,2026-03-24T05:58:36.904Z
 122319,印西市わが街ガイド,4,道路台帳平面図,https://www2.wagmap.jp/inzai/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T05:59:00.097Z,2026-03-24T05:59:00.097Z
 122319,印西市わが街ガイド,6,地番参考図,https://www2.wagmap.jp/inzai/Map?mid=25&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T06:00:55.477Z,2026-03-24T06:00:55.477Z
