@@ -347,7 +347,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 141003,横浜市行政地図情報提供システム,3,ｉマッピー,https://wwwm.city.yokohama.lg.jp/yokohama/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:19:57.954Z,2026-03-26T08:19:57.954Z
 141003,横浜市行政地図情報提供システム,4,平面図・補正図・別図・補正別図,https://wwwm.city.yokohama.lg.jp/yokohama/Map?mid=67&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:20:09.755Z,2026-03-26T08:20:09.755Z
 141003,横浜市行政地図情報提供システム,5,だいちゃんマップ,https://wwwm.city.yokohama.lg.jp/yokohama/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:20:14.424Z,2026-03-26T08:20:14.424Z
-141003,横浜市行政地図情報提供システム,7,わいわい防災マップ（土砂災害）,https://wwwm.city.yokohama.lg.jp/yokohama/Map?mid=63&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:03:22.814Z,2026-03-24T02:03:22.814Z
+141003,横浜市行政地図情報提供システム,7,わいわい防災マップ（土砂災害）,https://wwwm.city.yokohama.lg.jp/yokohama/Map?mid=63&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:20:21.195Z,2026-03-26T08:20:21.195Z
 141305,ガイドマップかわさき,3,用途地域等,https://kawasaki.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=21,2026-03-24T02:05:18.145Z,2026-03-24T02:05:18.145Z
 141305,ガイドマップかわさき,4,道水路台帳平面図,https://kawasaki.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=229,2026-03-24T02:06:01.683Z,2026-03-24T02:06:01.683Z
 141305,ガイドマップかわさき,5,公共下水道台帳施設平面図,https://kawasaki.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=36,2026-03-24T02:06:28.240Z,2026-03-24T02:06:28.240Z
