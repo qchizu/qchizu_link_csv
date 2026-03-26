@@ -530,3 +530,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112178,こうのとりっぷ,3,都市計画,https://www.sonicweb-asp.jp/konosu/map?theme=th_17#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T02:31:58.121Z,2026-03-26T02:31:58.121Z
 112178,こうのとりっぷ,4,認定路線網図,https://www.sonicweb-asp.jp/konosu/map?theme=th_16#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T02:32:33.089Z,2026-03-26T02:32:33.089Z
 112178,こうのとりっぷ,5,下水道台帳,https://www.sonicweb-asp.jp/konosu/map?theme=th_36#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T02:32:56.407Z,2026-03-26T02:32:56.407Z
+112178,こうのとりっぷ,6,地番参考図,https://www.sonicweb-asp.jp/konosu/map?theme=th_15#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T02:33:21.205Z,2026-03-26T02:33:21.205Z
