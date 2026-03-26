@@ -612,3 +612,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 82040,古河生活べんりＭＡＰ,3,都市計画総括図,https://www.sonicweb-asp.jp/ibaraki-koga/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T05:00:49.309Z,2026-03-26T05:00:49.309Z
 82040,古河生活べんりＭＡＰ,4,道路台帳図,https://www.sonicweb-asp.jp/ibaraki-koga/map?theme=th_6#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T05:02:00.167Z,2026-03-26T05:02:00.167Z
 82040,古河生活べんりＭＡＰ,5,下水道台帳図,https://www.sonicweb-asp.jp/ibaraki-koga/map?theme=th_13#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T05:04:25.555Z,2026-03-26T05:04:25.555Z
+82082,龍ケ崎市公開型ＧＩＳ「龍まっぷ」 ,3,都市計画マップ,https://experience.arcgis.com/experience/4049346a5eeb4a6187c64cfe8b1b8dc8?org=ryugasaki-city#widget_249=active_datasource_id:dataSource_25%2Ccenter:{arcgisX}%2C{arcgisY}%2Clevel:{z},2026-03-26T05:10:52.967Z,2026-03-26T05:10:52.967Z
