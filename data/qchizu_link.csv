@@ -567,3 +567,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112381,蓮田市地図情報システム,4,認定道路網図,https://www.sonicweb-asp.jp/hasuda/map?theme=th_27#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:12:42.239Z,2026-03-26T04:12:42.239Z
 112381,蓮田市地図情報システム,5,下水道台帳図,https://www.sonicweb-asp.jp/hasuda/map?theme=th_33#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:13:21.851Z,2026-03-26T04:13:21.851Z
 112399,ｅ－マップさかど,3,都市計画情報,https://sakado.geogeo.jp/maps?mode=map&lid=1&mid=1&z={z}&lat={lat}&{lng},2026-03-26T04:19:18.669Z,2026-03-26T04:19:18.669Z
+112399,ｅ－マップさかど,7,水害・土砂災害ハザードマップ,https://sakado.geogeo.jp/maps?mode=map&lid=2&mid=12&z={z}&lat={lat}&{lng},2026-03-26T04:20:38.090Z,2026-03-26T04:20:38.090Z
