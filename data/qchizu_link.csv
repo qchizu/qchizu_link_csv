@@ -384,7 +384,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142140,いせはらＷｅｂＭａｐｓ,4,道路台帳図,https://www2.wagmap.jp/isehara/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:27:54.419Z,2026-03-26T08:27:54.419Z
 142140,いせはらＷｅｂＭａｐｓ,5,公共下水道台帳施設平面図,https://www2.wagmap.jp/isehara/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:27:48.872Z,2026-03-26T08:27:48.872Z
 142140,いせはらＷｅｂＭａｐｓ,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/isehara/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:28:00.429Z,2026-03-26T08:28:00.429Z
-142158,ｉ－ＭＡＰわが街海老名ガイド,3,都市計画情報,https://www2.wagmap.jp/ebina/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:53:40.105Z,2026-03-24T02:53:40.105Z
+142158,ｉ－ＭＡＰわが街海老名ガイド,3,都市計画情報,https://www2.wagmap.jp/ebina/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-26T08:28:27.656Z,2026-03-26T08:28:27.656Z
 142158,ｉ－ＭＡＰわが街海老名ガイド,5,下水道施設マップ,https://www2.wagmap.jp/ebina/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:54:29.328Z,2026-03-24T02:54:29.328Z
 142166,座間市 わが街ガイドマップ,3,都市計画図,https://www2.wagmap.jp/zama/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-24T02:55:55.614Z,2026-03-24T02:55:55.614Z
 142166,座間市道路情報管理システム,4,認定路線網図,https://webgis.alandis.jp/zama14/webgis/index.php/autologin_jswebgis?u=guest2&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-24T02:57:42.190Z,2026-03-24T02:57:42.190Z
