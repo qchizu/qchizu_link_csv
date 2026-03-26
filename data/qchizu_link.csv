@@ -627,3 +627,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 82163,笠間市地理情報システム,5,公共下水道施設,https://www2.wagmap.jp/kasamacity/Map?mid=107&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T06:17:22.799Z,2026-03-26T06:17:22.799Z
 82198,うしくナビ,3,都市計画,https://www.machimiru-map.jp/ushiku/portal/urban_planning#{z}/{lat}/{lng},2026-03-26T06:18:52.360Z,2026-03-26T06:18:52.360Z
 82198,うしくナビ,5,下水道,https://www.machimiru-map.jp/ushiku/portal/sewer#{z}/{lat}/{lng},2026-03-26T06:19:14.174Z,2026-03-26T06:19:14.174Z
+82201,つくば市都市計画マップ,3,都市計画・規制,https://www2.wagmap.jp/tsukuba/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T06:21:20.982Z,2026-03-26T06:21:20.982Z
