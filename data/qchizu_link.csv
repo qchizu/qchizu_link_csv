@@ -525,3 +525,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112151,さやまちマップ,1,地形図（白地図）,https://www.sonicweb-asp.jp/sayama/map?theme=th_default#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T02:28:23.569Z,2026-03-26T02:28:23.569Z
 112151,さやまちマップ,3,都市計画情報,https://www.sonicweb-asp.jp/sayama/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T02:28:51.791Z,2026-03-26T02:28:51.791Z
 112151,さやまちマップ,4,道路情報,https://www.sonicweb-asp.jp/sayama/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T02:29:25.833Z,2026-03-26T02:29:25.833Z
+112151,さやまちマップ,5,下水道台帳（汚水）,https://www.sonicweb-asp.jp/sayama/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T02:29:43.840Z,2026-03-26T02:29:43.840Z
