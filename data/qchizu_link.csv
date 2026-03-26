@@ -663,3 +663,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 93611,みぶｅマップ,3,都市計画情報,https://mibu-emap.geogeo.jp/maps?mode=map&lid=0&mid=1&z={z}&lat={lat}&{lng},2026-03-26T07:20:14.242Z,2026-03-26T07:20:14.242Z
 93611,みぶｅマップ,4,道路,https://mibu-emap.geogeo.jp/maps?mode=map&lid=0&mid=6&z={z}&lat={lat}&{lng},2026-03-26T07:20:43.757Z,2026-03-26T07:20:43.757Z
 93611,みぶｅマップ,8,林地,https://mibu-emap.geogeo.jp/maps?mode=map&lid=0&mid=2&z={z}&lat={lat}&{lng},2026-03-26T07:21:30.196Z,2026-03-26T07:21:30.196Z
+93840,塩谷町公開型地理情報システム,6,地番参考図,https://www.sonicweb-asp.jp/shioya/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T07:23:50.203Z,2026-03-26T07:23:50.203Z
