@@ -505,3 +505,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112038,かわぐち案内マップ,3,都市計画情報マップ,https://kawaguchi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=17,2026-03-26T02:07:20.766Z,2026-03-26T02:07:20.766Z
 112038,かわぐち案内マップ,4,指定道路マップ,https://kawaguchi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=22,2026-03-26T02:07:59.768Z,2026-03-26T02:07:59.768Z
 112038,かわぐち案内マップ,7,避難所マップ,https://kawaguchi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=5,2026-03-26T02:09:06.188Z,2026-03-26T02:09:06.188Z
+112089,所沢市地理情報システム,3,都市計画情報,https://webgis.alandis.jp/tokorozawa11/alandis/webgis/index.php/autologin_jswebgis?u=guest&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-03-26T02:12:35.971Z,2026-03-26T02:12:35.971Z
