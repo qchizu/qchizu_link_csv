@@ -515,3 +515,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112101,かぞまっぷ,4,道路台帳図（参考）,https://www2.wagmap.jp/kazo/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:19:39.071Z,2026-03-26T02:19:39.071Z
 112101,かぞまっぷ,5,下水道台帳図,https://www2.wagmap.jp/kazo/Map?mid=55&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:20:25.844Z,2026-03-26T02:20:25.844Z
 112101,かぞまっぷ,6,地番図（参考）,https://www2.wagmap.jp/kazo/Map?mid=30&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:20:49.313Z,2026-03-26T02:20:49.313Z
+112119,ほんじょうマップ,3,都市計画情報,https://www2.wagmap.jp/honjo/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:22:36.046Z,2026-03-26T02:22:36.046Z
