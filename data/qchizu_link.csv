@@ -511,3 +511,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112097,飯能市ＧＩＳ 地理情報システム,3,都市計画情報,https://webgis.alandis.jp/hanno11/210/webgis/index.php/autologin_jswebgis?u=toshi&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-26T02:15:20.066Z,2026-03-26T02:15:20.066Z
 112097,飯能市ＧＩＳ 地理情報システム,4,道路台帳図,https://webgis.alandis.jp/hanno11/210/webgis/index.php/autologin_jswebgis?u=doro&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-26T02:16:06.904Z,2026-03-26T02:16:06.904Z
 112097,飯能市ＧＩＳ 地理情報システム,7,防災ハザードマップ,https://webgis.alandis.jp/hanno11/210/webgis/index.php/autologin_jswebgis?u=hazard&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-26T02:17:06.088Z,2026-03-26T02:17:06.088Z
+112101,かぞまっぷ,3,都市計画情報,https://www2.wagmap.jp/kazo/Map?mid=27&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:18:45.872Z,2026-03-26T02:18:45.872Z
