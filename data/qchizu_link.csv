@@ -547,3 +547,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112241,いいとだマップ,4,道路路線図（令和６年４月）,https://e-toda.kukanjoho.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=401,2026-03-26T02:48:01.914Z,2026-03-26T02:48:01.914Z
 112259,いるまっぷ,3,まちづくり情報マップ,https://www2.wagmap.jp/iruma/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:49:20.558Z,2026-03-26T02:49:20.558Z
 112259,いるまっぷ,4,認定路線マップ,https://www2.wagmap.jp/iruma/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:49:51.010Z,2026-03-26T02:49:51.010Z
+112259,いるまっぷ,5,下水道台帳マップ,https://www2.wagmap.jp/iruma/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:50:10.169Z,2026-03-26T02:50:10.169Z
