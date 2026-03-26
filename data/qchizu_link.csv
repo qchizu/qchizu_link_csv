@@ -576,3 +576,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112461,しらおか地図情報サービス,5,公共下水道台帳,https://shiraoka.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=21-2,2026-03-26T04:27:00.304Z,2026-03-26T04:27:00.304Z
 113247,三芳町地理情報システム,3,都市計画情報,https://webgis.alandis.jp/miyoshi11/webgis/index.php/autologin_jswebgis?u=toshi&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-26T04:29:26.258Z,2026-03-26T04:29:26.258Z
 113247,三芳町地理情報システム,4,道路台帳,https://webgis.alandis.jp/miyoshi11/webgis/index.php/autologin_jswebgis?u=doro&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-26T04:30:14.458Z,2026-03-26T04:30:14.458Z
+113247,三芳町地理情報システム,5,下水道台帳,https://webgis.alandis.jp/miyoshi11/webgis/index.php/autologin_jswebgis?u=gesui&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-26T04:30:45.621Z,2026-03-26T04:30:45.621Z
