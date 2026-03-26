@@ -580,3 +580,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 113654,小鹿野町地図情報システム,4,道路台帳図,https://webgis.alandis.jp/ogano11/webgis/index.php/autologin_jswebgis?u=guest_doro&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-26T04:34:12.627Z,2026-03-26T04:34:12.627Z
 113654,小鹿野町地図情報システム,7,ハザードマップ,https://webgis.alandis.jp/ogano11/webgis/index.php/autologin_jswebgis?u=guest_saigai&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-26T04:34:39.307Z,2026-03-26T04:34:39.307Z
 113816,みさとまっぷ,4,道路台帳図,https://misato.geogeo.jp/maps?mode=map&lid=2&mid=6&z={z}&lat={lat}&{lng},2026-03-26T04:36:42.931Z,2026-03-26T04:36:42.931Z
+113859,上里町地図情報システム,1,地形図（白図）印刷用,https://www.sonicweb-asp.jp/kamisato/map?theme=dm#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:37:55.775Z,2026-03-26T04:37:55.775Z
