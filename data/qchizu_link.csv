@@ -252,7 +252,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142115,はだのＷＥＢマップ,3,都市計画情報,https://www2.wagmap.jp/hadano/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:26:03.845Z,2026-03-26T08:26:03.845Z
 142115,はだのＷＥＢマップ,4,道路台帳図,https://www2.wagmap.jp/hadano/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:26:10.588Z,2026-03-26T08:26:10.588Z
 142115,はだのＷＥＢマップ,5,公共下水道台帳（汚水）参考図,https://www2.wagmap.jp/hadano/Map?mid=14&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:26:22.477Z,2026-03-26T08:26:22.477Z
-142115,はだのＷＥＢマップ,8,森林計画図,https://www2.wagmap.jp/hadano/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:33:25.111Z,2026-03-23T07:33:25.111Z
+142115,はだのＷＥＢマップ,8,森林計画図,https://www2.wagmap.jp/hadano/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:26:29.473Z,2026-03-26T08:26:29.473Z
 132047,三鷹市わがまちマップ,3,都市計画図,https://www2.wagmap.jp/mitakacity/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:14:34.504Z,2026-03-26T08:14:34.504Z
 132047,三鷹市わがまちマップ,4,道路台帳図,https://www2.wagmap.jp/mitakacity/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:14:30.173Z,2026-03-26T08:14:30.173Z
 132047,三鷹市わがまちマップ,5,下水道台帳図,https://www2.wagmap.jp/mitakacity/Map?mid=2000&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:14:40.368Z,2026-03-26T08:14:40.368Z
