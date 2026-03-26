@@ -271,7 +271,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132098,地図情報まちだ,4,道路網図,https://machida.kukanjoho.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=15&vlf=-1,2026-03-23T07:52:01.361Z,2026-03-23T07:52:01.361Z
 132098,地図情報まちだ,5,下水道台帳図,https://machida.kukanjoho.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=45&vlf=-1,2026-03-23T07:52:26.590Z,2026-03-23T07:52:26.590Z
 132110,こだいら地図情報システム,3,都市計画情報,https://www2.wagmap.jp/kodairacity/Map?mid=36&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:16:34.870Z,2026-03-26T08:16:34.870Z
-132110,こだいら地図情報システム,4,道路台帳平面図,https://www2.wagmap.jp/kodairacity/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T07:57:11.525Z,2026-03-23T07:57:11.525Z
+132110,こだいら地図情報システム,4,道路台帳平面図,https://www2.wagmap.jp/kodairacity/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:16:41.630Z,2026-03-26T08:16:41.630Z
 132128,日野市都市計画情報インターネット配信サービス,3,都市計画情報,https://hinocity.maps.arcgis.com/apps/webappviewer/index.html?id=1dcf8502bbcf47dc9981dd7450709594&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-23T07:59:28.071Z,2026-03-23T07:59:28.071Z
 132136,東村山市地理情報システム,3,都市計画情報,https://webgis.alandis.jp/higashimurayama13/webgis/index.php/autologin_jswebgis?u=guest1&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T08:00:39.585Z,2026-03-23T08:00:39.585Z
 132136,東村山市地理情報システム,4,認定道路情報,https://webgis.alandis.jp/higashimurayama13/webgis/index.php/autologin_jswebgis?u=guest2&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T08:01:21.028Z,2026-03-23T08:01:21.028Z
