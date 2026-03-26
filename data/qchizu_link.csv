@@ -515,7 +515,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112101,かぞまっぷ,4,道路台帳図（参考）,https://www2.wagmap.jp/kazo/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:48:05.107Z,2026-03-26T07:48:05.107Z
 112101,かぞまっぷ,5,下水道台帳図,https://www2.wagmap.jp/kazo/Map?mid=55&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:48:20.694Z,2026-03-26T07:48:20.694Z
 112101,かぞまっぷ,6,地番図（参考）,https://www2.wagmap.jp/kazo/Map?mid=30&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:48:30.645Z,2026-03-26T07:48:30.645Z
-112119,ほんじょうマップ,3,都市計画情報,https://www2.wagmap.jp/honjo/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:22:36.046Z,2026-03-26T02:22:36.046Z
+112119,ほんじょうマップ,3,都市計画情報,https://www2.wagmap.jp/honjo/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:49:09.590Z,2026-03-26T07:49:09.590Z
 112119,ほんじょうマップ,4,路線認定網図,https://www2.wagmap.jp/honjo/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:23:11.258Z,2026-03-26T02:23:11.258Z
 112119,ほんじょうマップ,5,下水道台帳,https://www2.wagmap.jp/honjo/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:23:35.860Z,2026-03-26T02:23:35.860Z
 112119,ほんじょうマップ,6,参考地番図,https://www2.wagmap.jp/honjo/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T02:24:14.062Z,2026-03-26T02:24:14.062Z
