@@ -615,3 +615,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 82082,龍ケ崎市公開型ＧＩＳ「龍まっぷ」 ,3,都市計画マップ,https://experience.arcgis.com/experience/4049346a5eeb4a6187c64cfe8b1b8dc8#center:{arcgisX}%2C{arcgisY}%2Clevel:{z},2026-03-26T05:14:32.316Z,2026-03-26T05:14:32.316Z
 82082,龍ケ崎市公開型ＧＩＳ「龍まっぷ」 ,4,道路マップ,https://experience.arcgis.com/experience/7b236d37500d411f8f4fe0f30a1c783c#center:{arcgisX}%2C{arcgisY}%2Clevel:{z},2026-03-26T05:13:49.122Z,2026-03-26T05:13:49.122Z
 82082,龍ケ崎市公開型ＧＩＳ「龍まっぷ」 ,5,下水道マップ,https://experience.arcgis.com/experience/bb1ad6ed871747cdb336edcad104a441#center:{arcgisX}%2C{arcgisY}%2Clevel:{z},2026-03-26T05:15:14.784Z,2026-03-26T05:15:14.784Z
+82082,龍ケ崎市公開型ＧＩＳ「龍まっぷ」 ,7,防災マップ,https://experience.arcgis.com/experience/fd24c5cdfcbb4aa1ad78f058a5995e3b#center:{arcgisX}%2C{arcgisY}%2Clevel:{z},2026-03-26T05:16:30.602Z,2026-03-26T05:16:30.602Z
