@@ -564,3 +564,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112372,三郷市地図情報システム,5,下水道台帳,https://www.sonicweb-asp.jp/misato/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:10:03.585Z,2026-03-26T04:10:03.585Z
 112372,三郷市地図情報システム,6,参考地番図,https://www.sonicweb-asp.jp/misato/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:10:23.572Z,2026-03-26T04:10:23.572Z
 112381,蓮田市地図情報システム,3,都市計画情報,https://www.sonicweb-asp.jp/hasuda/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:11:33.884Z,2026-03-26T04:11:33.884Z
+112381,蓮田市地図情報システム,4,認定道路網図,https://www.sonicweb-asp.jp/hasuda/map?theme=th_27#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T04:12:42.239Z,2026-03-26T04:12:42.239Z
