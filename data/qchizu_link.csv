@@ -533,3 +533,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 112178,こうのとりっぷ,6,地番参考図,https://www.sonicweb-asp.jp/konosu/map?theme=th_15#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T02:33:21.205Z,2026-03-26T02:33:21.205Z
 112178,こうのとりっぷ,7,水害ハザードマップ,https://www.sonicweb-asp.jp/konosu/map?theme=th_19#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-26T02:33:46.297Z,2026-03-26T02:33:46.297Z
 112186,ふかやＭａｐ,2,航空写真,https://fukaya.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=29,2026-03-26T02:35:10.549Z,2026-03-26T02:35:10.549Z
+112186,ふかやＭａｐ,3,都市計画情報,https://fukaya.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=34,2026-03-26T02:35:32.528Z,2026-03-26T02:35:32.528Z
