@@ -606,3 +606,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 82368,いばらきデジタルまっぷ,4,路線網図（小美玉市）,https://www2.wagmap.jp/ibaraki/Map?mid=98&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:56:35.980Z,2026-03-26T04:56:35.980Z
 82333,いばらきデジタルまっぷ,4,行方市認定路線網図,https://www2.wagmap.jp/ibaraki/Map?mid=92&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:57:05.849Z,2026-03-26T04:57:05.849Z
 82295,いばらきデジタルまっぷ,4,稲敷市道路網図,https://www2.wagmap.jp/ibaraki/Map?mid=94&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:57:31.600Z,2026-03-26T04:57:31.600Z
+82031,いばらきデジタルまっぷ,5,土浦市下水道台帳図,https://www2.wagmap.jp/ibaraki/Map?mid=96&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:58:11.285Z,2026-03-26T04:58:11.285Z
