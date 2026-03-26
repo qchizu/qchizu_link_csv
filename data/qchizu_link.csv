@@ -591,7 +591,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 82015,いばらきデジタルまっぷ,3,都市計画（水戸市）Ｒ３．３時点,https://www2.wagmap.jp/ibaraki/Map?mid=77&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:31:19.422Z,2026-03-26T07:31:19.422Z
 82015,いばらきデジタルまっぷ,5,水戸市公共下水道台帳図,https://www2.wagmap.jp/ibaraki/Map?mid=93&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:31:24.508Z,2026-03-26T07:31:24.508Z
 80004,いばらきデジタルまっぷ,7,土砂災害警戒区域等指定箇所マップ,https://www2.wagmap.jp/ibaraki/Map?mid=80&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:30:46.394Z,2026-03-26T07:30:46.394Z
-82074,いばらきデジタルまっぷ,3,都市計画（結城市）,https://www2.wagmap.jp/ibaraki/Map?mid=65&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:50:35.010Z,2026-03-26T04:50:35.010Z
+82074,いばらきデジタルまっぷ,3,都市計画（結城市）,https://www2.wagmap.jp/ibaraki/Map?mid=65&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T07:31:46.753Z,2026-03-26T07:31:46.753Z
 82112,いばらきデジタルまっぷ,3,都市計画（常総市）,https://www2.wagmap.jp/ibaraki/Map?mid=66&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:50:54.273Z,2026-03-26T04:50:54.273Z
 82228,いばらきデジタルまっぷ,3,都市計画（鹿嶋市）,https://www2.wagmap.jp/ibaraki/Map?mid=67&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:51:28.750Z,2026-03-26T04:51:28.750Z
 82325,いばらきデジタルまっぷ,3,都市計画（神栖市）Ｒ４．７時点,https://www2.wagmap.jp/ibaraki/Map?mid=68&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-26T04:51:54.019Z,2026-03-26T04:51:54.019Z
