@@ -164,7 +164,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272108,きてみてひらかたマップ,4,道路台帳,https://www2.wagmap.jp/hirakata/Map?mid=31&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:32:00.572Z,2026-03-27T01:32:00.572Z
 272108,きてみてひらかたマップ,5,汚水施設図,https://www2.wagmap.jp/hirakata/Map?mid=42&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:32:06.331Z,2026-03-27T01:32:06.331Z
 272108,きてみてひらかたマップ,7,防災情報,https://www.sonicweb-asp.jp/hirakata/map?theme=th_4#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:41:17.916Z,2026-03-23T05:41:17.916Z
-272116,茨木市地図情報サイト,7,水害・土砂災害ハザードマップ,https://www2.wagmap.jp/ibanavi/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:43:03.138Z,2026-03-23T05:43:03.138Z
+272116,茨木市地図情報サイト,7,水害・土砂災害ハザードマップ,https://www2.wagmap.jp/ibanavi/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:32:53.766Z,2026-03-27T01:32:53.766Z
 272116,茨木市地図情報サイト,3,都市計画情報,https://www2.wagmap.jp/ibanavi/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:43:34.949Z,2026-03-23T05:43:34.949Z
 272116,茨木市地図情報サイト,1,地形図,https://www2.wagmap.jp/ibanavi/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:44:05.131Z,2026-03-23T05:44:05.131Z
 272116,茨木市地図情報サイト,4,認定路線,https://www2.wagmap.jp/ibanavi/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:44:29.621Z,2026-03-23T05:44:29.621Z
