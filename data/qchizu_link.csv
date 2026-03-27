@@ -32,7 +32,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 442046,日田市Ｗｅｂマップ,4,道路情報マップ,https://www2.wagmap.jp/hita/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=doro&gprj=3,2024-11-17T12:29:19.031Z,2024-11-17T12:29:19.031Z
 32018,もりおか便利マップ,4,道路情報,https://www2.wagmap.jp/morioka/Map?mid=4&&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=dm&gprj=3,2024-11-30T12:41:21.654Z,2024-11-30T12:41:21.654Z
 402249,福津市地図サービス,5,下水道,https://www.sonicweb-asp.jp/fukutsu2/map?theme=th_20&&pos={lng}%2C{lat}#scale={sonicwebZ},2024-11-30T13:18:27.311Z,2024-11-30T13:18:27.311Z
-82163,笠間市地理情報システム,3,都市計画用途地域図,https://www2.wagmap.jp/kasamacity/Map?mid=104&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=dm_kasama&gprj=3&fid=1-25023&ffid=1-25023,2024-12-27T11:41:39.007Z,2024-12-27T11:41:39.007Z
+82163,笠間市地理情報システム,3,都市計画用途地域図,https://www2.wagmap.jp/kasamacity/Map?mid=104&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:47:42.074Z,2026-03-27T01:47:42.074Z
 80004,いばらきデジタルまっぷ,8,森林計画図（茨城県）,https://www2.wagmap.jp/ibaraki/Map?mid=87&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:45:20.613Z,2026-03-27T01:45:20.613Z
 402176,筑紫野市公開型ＧＩＳ「ちくしのデジタルマップ」,5,下水道台帳図,https://experience.arcgis.com/experience/e0ab7181654e4d6e84d1052cd2ec9215/&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2025-01-08T14:36:53.451Z,2025-01-08T14:36:53.451Z
 402214,だざいふマップ,4,道路台帳図マップ,https://dazaifu.maps.arcgis.com/apps/webappviewer/index.html?id=9457a348df214ea8858d6fb3a56c6e3d&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2025-01-09T12:19:07.498Z,2025-01-09T12:19:07.498Z
