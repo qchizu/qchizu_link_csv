@@ -128,7 +128,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 271403,堺市ｅ－地図帳,3,都市計画・立地適正化計画情報,https://e-map.city.sakai.lg.jp/sakai/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:29:29.255Z,2026-03-27T01:29:29.255Z
 271403,堺市ｅ－地図帳,7,ハザードマップ,https://e-map.city.sakai.lg.jp/sakai/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:00:12.314Z,2026-03-23T05:00:12.314Z
 271403,堺市ｅ－地図帳,4,認定路線情報,https://e-map.city.sakai.lg.jp/sakai/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:29:36.533Z,2026-03-27T01:29:36.533Z
-271403,堺市ｅ－地図帳,5,下水道参考情報（詳細）,https://e-map.city.sakai.lg.jp/sakai/Map?mid=100010&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:01:25.973Z,2026-03-23T05:01:25.973Z
+271403,堺市ｅ－地図帳,5,下水道参考情報（詳細）,https://e-map.city.sakai.lg.jp/sakai/Map?mid=100010&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:29:41.696Z,2026-03-27T01:29:41.696Z
 272027,岸和田市地図情報配信サービス,3,都市計画マップ,https://www2.wagmap.jp/kishiwada/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:03:42.871Z,2026-03-23T05:03:42.871Z
 272027,岸和田市地図情報配信サービス,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/kishiwada/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:05:08.161Z,2026-03-23T05:05:08.161Z
 272027,岸和田市地図情報配信サービス,4,認定路線マップ,https://www2.wagmap.jp/kishiwada/Map?mid=58&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:05:40.756Z,2026-03-23T05:05:40.756Z
