@@ -803,3 +803,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232289,岩倉市公開型地理情報システム,3,都市計画情報,https://iwakura.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:34:44.403Z,2026-03-27T07:34:44.403Z
 232297,とよあけＭＡＰ,3,都市計画情報,https://toyoake.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:37:17.980Z,2026-03-27T07:37:17.980Z
 232297,とよあけＭＡＰ,4,認定道路情報,https://toyoake.cloudgis.jp/road/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:37:38.278Z,2026-03-27T07:37:38.278Z
+232297,とよあけＭＡＰ,5,下水道台帳,https://toyoake.cloudgis.jp/gesui/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:38:05.843Z,2026-03-27T07:38:05.843Z
