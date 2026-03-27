@@ -800,3 +800,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232271,高浜市 わが街ガイド,3,都市計画情報マップ,https://www2.wagmap.jp/takahama/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T07:30:46.691Z,2026-03-27T07:30:46.691Z
 232271,高浜市 わが街ガイド,4,道路網図マップ,https://www2.wagmap.jp/takahama/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T07:31:07.298Z,2026-03-27T07:31:07.298Z
 232271,高浜市 わが街ガイド,7,防災マップ,https://www2.wagmap.jp/takahama/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T07:31:55.280Z,2026-03-27T07:31:55.280Z
+232289,岩倉市公開型地理情報システム,3,都市計画情報,https://iwakura.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:34:44.403Z,2026-03-27T07:34:44.403Z
