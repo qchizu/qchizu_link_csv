@@ -763,3 +763,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232122,安城市 あんじょうマップ,3,都市計画情報,https://www2.wagmap.jp/anjo/Map?mid=30&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T06:06:14.498Z,2026-03-27T06:06:14.498Z
 232122,安城市 あんじょうマップ,4,道路台帳・認定路線,https://www2.wagmap.jp/anjo/Map?mid=40&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T06:06:07.428Z,2026-03-27T06:06:07.428Z
 232122,安城市 あんじょうマップ,5,下水道計画区域,https://www2.wagmap.jp/anjo/Map?mid=51&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T06:09:08.127Z,2026-03-27T06:09:08.127Z
+232122,安城市 あんじょうマップ,7,ハザードマップ（水害）,https://www2.wagmap.jp/anjo/Map?mid=21&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T06:10:26.304Z,2026-03-27T06:10:26.304Z
