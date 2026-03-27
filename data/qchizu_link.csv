@@ -622,7 +622,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 122386,いすみ市くらしのガイドマップ,3,都市計画,https://experience.arcgis.com/experience/9d863f59d4b44c05a2ac19813dc56296#widget_249=center:{webMercatorX}%2C{webMercatorY}%2C102100%2Clevel:{z},2026-03-26T06:02:39.759Z,2026-03-26T06:02:39.759Z
 122386,いすみ市くらしのガイドマップ,7,土砂災害警戒区域,https://experience.arcgis.com/experience/8cccade07e654dc6843364b6a5cc2cea#widget_249=center:{webMercatorX}%2C{webMercatorY}%2C102100%2Clevel:{z},2026-03-26T06:03:26.995Z,2026-03-26T06:03:26.995Z
 82163,笠間市地理情報システム,1,地形図（笠間市）,https://www2.wagmap.jp/kasamacity/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=dm_kasama,2026-03-27T01:46:08.809Z,2026-03-27T01:46:08.809Z
-82163,笠間市地理情報システム,2,航空写真,https://www2.wagmap.jp/kasamacity/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=ortho,2026-03-26T06:12:27.676Z,2026-03-26T06:12:27.676Z
+82163,笠間市地理情報システム,2,航空写真,https://www2.wagmap.jp/kasamacity/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=ortho,2026-03-27T01:46:45.720Z,2026-03-27T01:46:45.720Z
 82163,笠間市地理情報システム,4,道路台帳図,https://www2.wagmap.jp/kasamacity/Map?mid=105&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T06:15:57.596Z,2026-03-26T06:15:57.596Z
 82163,笠間市地理情報システム,5,公共下水道施設,https://www2.wagmap.jp/kasamacity/Map?mid=107&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T06:17:22.799Z,2026-03-26T06:17:22.799Z
 82198,うしくナビ,3,都市計画,https://www.machimiru-map.jp/ushiku/portal/urban_planning#{z}/{lat}/{lng},2026-03-26T06:18:52.360Z,2026-03-26T06:18:52.360Z
