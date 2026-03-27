@@ -714,3 +714,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 104299,ひがしあがつま情報マップ,2,航空写真,https://www2.wagmap.jp/higashiagatsuma/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=ortho,2026-03-27T04:03:33.628Z,2026-03-27T04:03:33.628Z
 104299,ひがしあがつま情報マップ,4,町道路線網図,https://www2.wagmap.jp/higashiagatsuma/Map?mid=80&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T04:04:14.272Z,2026-03-27T04:04:14.272Z
 104299,ひがしあがつま情報マップ,5,公共下水道汚水台帳図,https://www2.wagmap.jp/higashiagatsuma/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T04:04:43.780Z,2026-03-27T04:04:43.780Z
+104299,ひがしあがつま情報マップ,7,防災情報マップ,https://www2.wagmap.jp/higashiagatsuma/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T04:05:20.050Z,2026-03-27T04:05:20.050Z
