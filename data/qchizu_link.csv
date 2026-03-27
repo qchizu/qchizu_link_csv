@@ -191,8 +191,8 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272205,地図情報サイト　みのおマップ,3,都市計画情報,https://www2.wagmap.jp/minoh/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:33:52.220Z,2026-03-27T01:33:52.220Z
 272205,地図情報サイト　みのおマップ,4,道路台帳平面図,https://www2.wagmap.jp/minoh/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:33:57.535Z,2026-03-27T01:33:57.535Z
 272205,地図情報サイト　みのおマップ,5,下水道情報,https://www2.wagmap.jp/minoh/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:34:02.961Z,2026-03-27T01:34:02.961Z
-272205,地図情報サイト　みのおマップ,7,水害・土砂災害ハザードマップ,https://www2.wagmap.jp/minoh/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:18:50.939Z,2026-03-23T06:18:50.939Z
-272205,地図情報サイト　みのおマップ,6,住居表示,https://www2.wagmap.jp/minoh/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:22:24.729Z,2026-03-23T06:22:24.729Z
+272205,地図情報サイト　みのおマップ,7,水害・土砂災害ハザードマップ,https://www2.wagmap.jp/minoh/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:34:13.091Z,2026-03-27T01:34:13.091Z
+272205,地図情報サイト　みのおマップ,6,住居表示,https://www2.wagmap.jp/minoh/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:34:07.781Z,2026-03-27T01:34:07.781Z
 272213,柏原市地図情報システム,1,地形図,https://webgis.alandis.jp/kashiwara27/webgis/index.php/autologin_jswebgis?u=guest6&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T06:23:19.815Z,2026-03-23T06:23:19.815Z
 272213,柏原市地図情報システム,3,柏原市都市計画情報参考図,https://webgis.alandis.jp/kashiwara27/webgis/index.php/autologin_jswebgis?u=guest3&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T06:24:25.171Z,2026-03-23T06:24:25.171Z
 272213,柏原市地図情報システム,4,柏原市認定路線網図,https://webgis.alandis.jp/kashiwara27/webgis/index.php/autologin_jswebgis?u=guest5&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T06:25:04.925Z,2026-03-23T06:25:04.925Z
