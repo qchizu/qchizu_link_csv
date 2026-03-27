@@ -188,8 +188,8 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272191,いずみマップ（和泉市地図情報システム）,3,都市計画図,https://webgis.alandis.jp/izumi27/webgis/index.php/autologin_jswebgis?u=tokei&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T06:14:48.370Z,2026-03-23T06:14:48.370Z
 272191,いずみマップ（和泉市地図情報システム）,4,路線網図,https://webgis.alandis.jp/izumi27/webgis/index.php/autologin_jswebgis?u=douromou&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T06:15:30.242Z,2026-03-23T06:15:30.242Z
 272191,いずみマップ（和泉市地図情報システム）,7,ハザードマップ,https://webgis.alandis.jp/izumi27/webgis/index.php/autologin_jswebgis?u=hazard&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T06:16:08.216Z,2026-03-23T06:16:08.216Z
-272205,地図情報サイト　みのおマップ,3,都市計画情報,https://www2.wagmap.jp/minoh/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:17:22.042Z,2026-03-23T06:17:22.042Z
-272205,地図情報サイト　みのおマップ,4,道路台帳平面図,https://www2.wagmap.jp/minoh/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:17:52.800Z,2026-03-23T06:17:52.800Z
+272205,地図情報サイト　みのおマップ,3,都市計画情報,https://www2.wagmap.jp/minoh/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:33:52.220Z,2026-03-27T01:33:52.220Z
+272205,地図情報サイト　みのおマップ,4,道路台帳平面図,https://www2.wagmap.jp/minoh/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:33:57.535Z,2026-03-27T01:33:57.535Z
 272205,地図情報サイト　みのおマップ,5,下水道情報,https://www2.wagmap.jp/minoh/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:18:19.071Z,2026-03-23T06:18:19.071Z
 272205,地図情報サイト　みのおマップ,7,水害・土砂災害ハザードマップ,https://www2.wagmap.jp/minoh/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:18:50.939Z,2026-03-23T06:18:50.939Z
 272205,地図情報サイト　みのおマップ,6,住居表示,https://www2.wagmap.jp/minoh/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T06:22:24.729Z,2026-03-23T06:22:24.729Z
