@@ -710,3 +710,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 102121,みどまっぷ,5,下水道情報,https://www2.wagmap.jp/midoricity/Map?mid=60&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T02:30:55.212Z,2026-03-27T02:30:55.212Z
 102121,みどまっぷ,7,ハザードマップ,https://www2.wagmap.jp/midoricity/Map?mid=100&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T02:31:18.085Z,2026-03-27T02:31:18.085Z
 103454,吉岡町地図情報公開システム,3,都市計画情報,https://webgis.alandis.jp/yoshioka10/webgis/index.php/autologin_jswebgis?u=guest2&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-27T02:33:07.373Z,2026-03-27T02:33:07.373Z
+103454,吉岡町地図情報公開システム,4,道路台帳図,https://webgis.alandis.jp/yoshioka10/webgis/index.php/autologin_jswebgis?u=guest1&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-27T02:33:37.049Z,2026-03-27T02:33:37.049Z
