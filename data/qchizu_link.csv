@@ -707,3 +707,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 102113,安中オンラインマップ,7,危機管理マップ,https://annaka-city.maps.arcgis.com/apps/webappviewer/index.html?id=f367349c404542a89294241ae3a6cd5d&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-27T02:28:03.406Z,2026-03-27T02:28:03.406Z
 102121,みどまっぷ,3,都市計画情報,https://www2.wagmap.jp/midoricity/Map?mid=90&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T02:29:20.428Z,2026-03-27T02:29:20.428Z
 102121,みどまっぷ,4,道路情報,https://www2.wagmap.jp/midoricity/Map?mid=50&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T02:30:25.882Z,2026-03-27T02:30:25.882Z
+102121,みどまっぷ,5,下水道情報,https://www2.wagmap.jp/midoricity/Map?mid=60&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T02:30:55.212Z,2026-03-27T02:30:55.212Z
