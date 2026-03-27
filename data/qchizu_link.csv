@@ -695,3 +695,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 102083,しぶかわ情報マップ,7,土砂災害警戒区域等,https://www2.wagmap.jp/shibukawa/Map?mid=135&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T02:15:31.526Z,2026-03-27T02:15:31.526Z
 102091,ふじまっぷ,3,都市計画情報,https://www2.wagmap.jp/fujioka/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T02:16:40.994Z,2026-03-27T02:16:40.994Z
 102091,ふじまっぷ,4,道路台帳,https://www2.wagmap.jp/fujioka/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T02:18:30.346Z,2026-03-27T02:18:30.346Z
+102091,ふじまっぷ,5,下水道台帳,https://www2.wagmap.jp/fujioka/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T02:19:02.294Z,2026-03-27T02:19:02.294Z
