@@ -757,3 +757,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232106,かりマップ（刈谷市地図情報システム）,5,下水道区域情報,https://www2.wagmap.jp/kariyacity/Map?mid=240&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T05:56:30.692Z,2026-03-27T05:56:30.692Z
 232114,とよたｉマップ,2,過去都市計画写真,https://www2.wagmap.jp/toyotacity/Map?mid=16&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:58:23.954Z,2026-03-27T05:58:23.954Z
 232114,とよたｉマップ,3,都市計画情報,https://www2.wagmap.jp/toyotacity/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:58:46.996Z,2026-03-27T05:58:46.996Z
+232114,とよたｉマップ,4,道路台帳・基準点,https://www2.wagmap.jp/toyotacity/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:59:15.062Z,2026-03-27T05:59:15.062Z
