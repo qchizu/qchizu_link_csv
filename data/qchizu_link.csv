@@ -812,3 +812,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232319,たはらｅマップ,4,道路情報,https://www2.wagmap.jp/taharacity/Map?mid=30&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T07:45:32.450Z,2026-03-27T07:45:32.450Z
 232319,たはらｅマップ,5,下水道情報,https://www2.wagmap.jp/taharacity/Map?mid=50&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T07:46:12.484Z,2026-03-27T07:46:12.484Z
 232319,たはらｅマップ,7,土砂災害情報マップ,https://www2.wagmap.jp/taharacity/Map?mid=61&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T07:46:58.163Z,2026-03-27T07:46:58.163Z
+232327,愛西市公開型ＧＩＳ,3,都市計画,https://aisai.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:47:43.825Z,2026-03-27T07:47:43.825Z
