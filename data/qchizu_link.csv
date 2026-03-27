@@ -760,3 +760,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232114,とよたｉマップ,4,道路台帳・基準点,https://www2.wagmap.jp/toyotacity/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:59:15.062Z,2026-03-27T05:59:15.062Z
 232114,とよたｉマップ,6,地番参考図情報,https://www2.wagmap.jp/toyotacity/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T06:01:25.300Z,2026-03-27T06:01:25.300Z
 232114,とよたｉマップ,7,防災マップ,https://www2.wagmap.jp/toyotacity/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T06:02:33.383Z,2026-03-27T06:02:33.383Z
+232122,安城市 あんじょうマップ,3,都市計画情報,https://www2.wagmap.jp/anjo/Map?mid=30&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T06:05:14.051Z,2026-03-27T06:05:14.051Z
