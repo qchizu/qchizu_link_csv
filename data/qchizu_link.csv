@@ -743,3 +743,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232050,はんだマップ,2,航空写真（令和２年度）,https://www.sonicweb-asp.jp/handa/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T05:26:35.269Z,2026-03-27T05:26:35.269Z
 232050,はんだマップ,3,都市計画情報,https://www.sonicweb-asp.jp/handa/map?theme=th_62#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T05:26:55.598Z,2026-03-27T05:26:55.598Z
 232050,はんだマップ,4,道路情報,https://www.sonicweb-asp.jp/handa/map?theme=th_4#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T05:28:49.762Z,2026-03-27T05:28:49.762Z
+232050,はんだマップ,5,下水道情報,https://www.sonicweb-asp.jp/handa/map?theme=th_103#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T05:29:12.666Z,2026-03-27T05:29:12.666Z
