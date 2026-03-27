@@ -106,7 +106,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132021,立川市地理情報システム,4,道路種別図,https://webgis.alandis.jp/tachikawa13/webgis/index.php/autologin_jswebgis?u=kenchiku&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ},2026-03-23T04:18:25.307Z,2026-03-23T04:18:25.307Z
 122114,なりた地図情報,3,都市計画情報,https://www2.wagmap.jp/narita/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:41:57.064Z,2026-03-27T01:41:57.064Z
 122114,なりた地図情報,7,防災情報,https://www2.wagmap.jp/narita/Map?mpx={lng}&mpy={lat}&mps={wagmapZ}&mid=2,2026-03-23T04:22:26.030Z,2026-03-23T04:22:26.030Z
-122114,なりた地図情報,4,指定道路情報,https://www2.wagmap.jp/narita/Map?mpx={lng}&mpy={lat}&mps={wagmapZ}&mid=4,2026-03-23T04:23:22.815Z,2026-03-23T04:23:22.815Z
+122114,なりた地図情報,4,指定道路情報,https://www2.wagmap.jp/narita/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:42:24.554Z,2026-03-27T01:42:24.554Z
 243248,東員町地図情報サービス,1,白図（地形図）,https://www.sonicweb-asp.jp/toin/map?&pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_dm,2026-03-23T04:25:56.111Z,2026-03-23T04:25:56.111Z
 243248,東員町地図情報サービス,2,航空写真,https://www.sonicweb-asp.jp/toin/map?&pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_ortho,2026-03-23T04:26:29.903Z,2026-03-23T04:26:29.903Z
 243248,東員町地図情報サービス,3,都市計画,https://www.sonicweb-asp.jp/toin/map?&pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_18,2026-03-23T04:27:17.290Z,2026-03-23T04:27:17.290Z
