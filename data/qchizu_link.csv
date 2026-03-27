@@ -702,3 +702,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 102105,とみおかＷｅｂマップ,3,富岡市都市計画図,https://www2.wagmap.jp/tomioka/Map?mid=211&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T02:22:36.723Z,2026-03-27T02:22:36.723Z
 102105,とみおかＷｅｂマップ,4,道路台帳図,https://www2.wagmap.jp/tomioka/Map?mid=208&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T02:23:29.141Z,2026-03-27T02:23:29.141Z
 102113,安中オンラインマップ,3,都市計画マップ,https://annaka-city.maps.arcgis.com/apps/webappviewer/index.html?id=52550d12851c4ad589690deb9a6bce1f&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-27T02:25:44.610Z,2026-03-27T02:25:44.610Z
+102113,安中オンラインマップ,4,道路台帳マップ,https://annaka-city.maps.arcgis.com/apps/webappviewer/index.html?id=6cccc5b758034fb19e8daeddb193c426&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-27T02:27:10.552Z,2026-03-27T02:27:10.552Z
