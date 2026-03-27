@@ -823,3 +823,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232386,長久手市情報マップ,4,認定道路情報,https://nagakute.cloudgis.jp/road/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:52:58.446Z,2026-03-27T07:52:58.446Z
 232386,長久手市情報マップ,5,下水道情報,https://nagakute.cloudgis.jp/gesui/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:53:17.769Z,2026-03-27T07:53:17.769Z
 233021,東郷町情報マップ,3,都市計画情報,https://togo.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T08:03:23.640Z,2026-03-27T08:03:23.640Z
+233021,東郷町情報マップ,4,認定道路情報,https://togo.cloudgis.jp/road/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T08:03:47.774Z,2026-03-27T08:03:47.774Z
