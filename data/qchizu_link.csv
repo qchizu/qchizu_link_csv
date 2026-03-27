@@ -818,3 +818,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232335,清須市公開型地理情報システム,3,都市計画情報,https://kiyosu.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:49:56.421Z,2026-03-27T07:49:56.421Z
 232351,弥富市情報マップ,3,都市計画情報,https://yatomi.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:51:03.060Z,2026-03-27T07:51:03.060Z
 232351,弥富市情報マップ,4,認定道路情報,https://yatomi.cloudgis.jp/road/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:51:19.446Z,2026-03-27T07:51:19.446Z
+232351,弥富市情報マップ,5,下水道,https://yatomi.cloudgis.jp/gesui/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:51:35.837Z,2026-03-27T07:51:35.837Z
