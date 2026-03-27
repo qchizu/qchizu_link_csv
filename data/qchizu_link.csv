@@ -816,3 +816,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232327,愛西市公開型ＧＩＳ,4,道路台帳,https://aisai.cloudgis.jp/road/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:48:12.271Z,2026-03-27T07:48:12.271Z
 232327,愛西市公開型ＧＩＳ,5,下水道台帳,https://aisai.cloudgis.jp/gesui/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:48:44.355Z,2026-03-27T07:48:44.355Z
 232335,清須市公開型地理情報システム,3,都市計画情報,https://kiyosu.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:49:56.421Z,2026-03-27T07:49:56.421Z
+232351,弥富市情報マップ,3,都市計画情報,https://yatomi.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:51:03.060Z,2026-03-27T07:51:03.060Z
