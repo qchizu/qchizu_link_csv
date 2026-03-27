@@ -783,3 +783,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232211,新城市地理情報システム,4,道路,https://webgis.alandis.jp/shinshiro23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=doro&li=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-27T07:00:30.408Z,2026-03-27T07:00:30.408Z
 232211,新城市地理情報システム,7,洪水土砂災害ハザードマップ,https://webgis.alandis.jp/shinshiro23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=dosyasaigai&li=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-27T07:05:21.364Z,2026-03-27T07:05:21.364Z
 232220,東海市地図情報,2,航空写真,https://www2.wagmap.jp/tokai/Map?mid=45&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T07:09:02.906Z,2026-03-27T07:09:02.906Z
+232220,東海市地図情報,3,都市計画,https://www2.wagmap.jp/tokai/Map?mid=27&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T07:09:20.541Z,2026-03-27T07:09:20.541Z
