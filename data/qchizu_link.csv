@@ -797,3 +797,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232254,知立市 地図閲覧サービス,5,下水道配管図,https://www2.wagmap.jp/chiryu/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T07:27:50.388Z,2026-03-27T07:27:50.388Z
 232254,知立市 地図閲覧サービス,7,洪水ハザードマップ,https://www2.wagmap.jp/chiryu/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T07:28:20.659Z,2026-03-27T07:28:20.659Z
 232262,尾張旭市公開型地理情報システム,3,都市計画情報,https://owariasahi.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:29:48.073Z,2026-03-27T07:29:48.073Z
+232271,高浜市 わが街ガイド,3,都市計画情報マップ,https://www2.wagmap.jp/takahama/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T07:30:46.691Z,2026-03-27T07:30:46.691Z
