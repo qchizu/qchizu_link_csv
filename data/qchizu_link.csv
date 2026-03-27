@@ -825,3 +825,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 233021,東郷町情報マップ,3,都市計画情報,https://togo.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T08:03:23.640Z,2026-03-27T08:03:23.640Z
 233021,東郷町情報マップ,4,認定道路情報,https://togo.cloudgis.jp/road/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T08:03:47.774Z,2026-03-27T08:03:47.774Z
 233021,東郷町情報マップ,5,下水道台帳,https://togo.cloudgis.jp/gesui/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T08:04:06.245Z,2026-03-27T08:04:06.245Z
+233617,大口町くらしマップ,3,都市計画,https://webgis.alandis.jp/oguchi23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=tosikeikaku&li=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-27T08:06:47.528Z,2026-03-27T08:06:47.528Z
