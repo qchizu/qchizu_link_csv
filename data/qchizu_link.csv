@@ -781,3 +781,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232203,ＭＡＰ ｄｅ いなざわ,5,上下水道情報,https://www2.wagmap.jp/inazawa/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T06:51:09.290Z,2026-03-27T06:51:09.290Z
 232211,新城市地理情報システム,3,都市計画,https://webgis.alandis.jp/shinshiro23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=toshikeikaku&li=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-27T06:52:26.416Z,2026-03-27T06:52:26.416Z
 232211,新城市地理情報システム,4,道路,https://webgis.alandis.jp/shinshiro23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=doro&li=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-27T07:00:30.408Z,2026-03-27T07:00:30.408Z
+232211,新城市地理情報システム,7,洪水土砂災害ハザードマップ,https://webgis.alandis.jp/shinshiro23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=dosyasaigai&li=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-27T07:05:21.364Z,2026-03-27T07:05:21.364Z
