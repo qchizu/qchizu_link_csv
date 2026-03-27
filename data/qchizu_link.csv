@@ -772,3 +772,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232131,にしたんマップ,7,安心・安全マップ,https://www.sonicweb-asp.jp/nishio/map?theme=th_18#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T06:13:07.360Z,2026-03-27T06:13:07.360Z
 232149,蒲郡市情報マップ,3,都市計画情報,https://gamagori.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T06:21:03.459Z,2026-03-27T06:21:03.459Z
 232149,蒲郡市情報マップ,4,道路台帳,https://gamagori.cloudgis.jp/road/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T06:21:28.670Z,2026-03-27T06:21:28.670Z
+232157,犬山市地理情報システム,3,都市計画,https://webgis.alandis.jp/inuyama23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=inuyamatoshi&li=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-27T06:23:36.938Z,2026-03-27T06:23:36.938Z
