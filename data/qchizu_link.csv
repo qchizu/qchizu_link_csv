@@ -767,3 +767,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232131,にしたんマップ,2,航空写真,https://www.sonicweb-asp.jp/nishio/map?theme=th_13#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T06:11:12.077Z,2026-03-27T06:11:12.077Z
 232131,にしたんマップ,1,地形図（都市計画基本図）,https://www.sonicweb-asp.jp/nishio/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T06:11:34.081Z,2026-03-27T06:11:34.081Z
 232131,にしたんマップ,3,都市計画情報,https://www.sonicweb-asp.jp/nishio/map?theme=th_27#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T06:11:52.690Z,2026-03-27T06:11:52.690Z
+232131,にしたんマップ,4,市道認定道路網図,https://www.sonicweb-asp.jp/nishio/map?theme=th_8#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T06:12:22.941Z,2026-03-27T06:12:22.941Z
