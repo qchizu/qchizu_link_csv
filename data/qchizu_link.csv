@@ -722,3 +722,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 105252,わが町ガイドおうら,3,都市計画図,https://www2.wagmap.jp/ora/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T04:15:39.448Z,2026-03-27T04:15:39.448Z
 105252,わが町ガイドおうら,4,道路台帳,https://www2.wagmap.jp/ora/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T04:16:05.975Z,2026-03-27T04:16:05.975Z
 105252,わが町ガイドおうら,5,下水道台帳,https://www2.wagmap.jp/ora/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T04:16:25.006Z,2026-03-27T04:16:25.006Z
+92011,宇都宮市都市計画情報マップ,3,都市計画情報,https://www.machi-info.jp/machikado/utsunomiya_city2/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ},2026-03-27T04:24:52.455Z,2026-03-27T04:24:52.455Z
