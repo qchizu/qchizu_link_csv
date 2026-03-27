@@ -79,8 +79,8 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232165,常滑市の地図情報（公開型ＧＩＳ）,3,都市計画,https://webgis.alandis.jp/tokoname23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest01&x={webMercatorX}&y={webMercatorY}&s={alandisZ},2026-03-19T08:14:01.525Z,2026-03-19T08:14:01.525Z
 232165,常滑市の地図情報（公開型ＧＩＳ）,4,道路,https://webgis.alandis.jp/tokoname23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest12&x={webMercatorX}&y={webMercatorY}&s={alandisZ},2026-03-19T08:14:54.234Z,2026-03-19T08:14:54.234Z
 232165,常滑市の地図情報（公開型ＧＩＳ）,5,下水道,https://webgis.alandis.jp/tokoname23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest13&x={webMercatorX}&y={webMercatorY}&s={alandisZ},2026-03-19T08:16:18.614Z,2026-03-19T08:16:18.614Z
-221309,浜松市地図情報サイト,3,都市計画マップ,https://www2.wagmap.jp/hamamatsu/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:18:33.000Z,2026-03-19T08:18:33.000Z
-221309,浜松市地図情報サイト,4,路線認定図,https://www2.wagmap.jp/hamamatsu/Map?mid=61&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:20:25.297Z,2026-03-19T08:20:25.297Z
+221309,浜松市地図情報サイト,3,都市計画マップ,https://www2.wagmap.jp/hamamatsu/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:22:40.816Z,2026-03-27T01:22:40.816Z
+221309,浜松市地図情報サイト,4,路線認定図,https://www2.wagmap.jp/hamamatsu/Map?mid=61&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:22:46.830Z,2026-03-27T01:22:46.830Z
 221309,浜松市地図情報サイト,6,地番図,https://www2.wagmap.jp/hamamatsu/Map?mid=64&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:21:01.806Z,2026-03-19T08:21:01.806Z
 221309,浜松市地図情報サイト,5,下水道管網図,https://www2.wagmap.jp/hamamatsu/Map?mid=67&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-19T08:21:31.290Z,2026-03-19T08:21:31.290Z
 282031,あかし地図情報,3,都市計画情報,https://webgis.alandis.jp/akashi-cp28/webgis/index.php/autologin_jswebgis?u=ToshiKeikaku&ap=jsWebGIS&m=2&op=search_drilldown_2&x={webMercatorX}&y={webMercatorY}&s={alandisZ},2026-03-19T08:25:29.358Z,2026-03-19T08:25:29.358Z
