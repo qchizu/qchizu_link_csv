@@ -151,7 +151,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272060,おづマップなび,5,下水道,https://webgis.alandis.jp/izumiotsu27/webgis/index.php/autologin_jswebgis?u=guest_gesui&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T05:24:46.059Z,2026-03-23T05:24:46.059Z
 272060,おづマップなび,4,道路台帳,https://webgis.alandis.jp/izumiotsu27/webgis/index.php/autologin_jswebgis?u=guest_doro&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-23T05:26:06.200Z,2026-03-23T05:26:06.200Z
 272078,わが街高槻ガイド,3,都市計画情報,https://www2.wagmap.jp/takatsuki/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:31:12.994Z,2026-03-27T01:31:12.994Z
-272078,わが街高槻ガイド,7,水害・土砂災害ハザードマップ,https://www2.wagmap.jp/takatsuki/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:28:23.668Z,2026-03-23T05:28:23.668Z
+272078,わが街高槻ガイド,7,水害・土砂災害ハザードマップ,https://www2.wagmap.jp/takatsuki/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:31:27.983Z,2026-03-27T01:31:27.983Z
 272078,わが街高槻ガイド,4,認定路線マップ,https://www2.wagmap.jp/takatsuki/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:31:17.862Z,2026-03-27T01:31:17.862Z
 272078,わが街高槻ガイド,5,汚水（汚水管・合流管）,https://www2.wagmap.jp/takatsuki/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:31:22.217Z,2026-03-27T01:31:22.217Z
 272086,地図情報サービス かいづかデジタルマップ,3,都市計画図,https://www.sonicweb-asp.jp/kaizuka/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-23T05:31:58.171Z,2026-03-23T05:31:58.171Z
