@@ -676,3 +676,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 102016,さーちずまえばし,4,道路台帳平面図,https://searchizu-maebashi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=141-20,2026-03-27T01:50:51.061Z,2026-03-27T01:50:51.061Z
 102016,さーちずまえばし,7,防災マップ,https://searchizu-maebashi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=121-43,2026-03-27T01:51:54.208Z,2026-03-27T01:51:54.208Z
 102024,まっぷｄｅたかさき,1,地形図,https://www.sonicweb-asp.jp/takasaki2/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T01:54:05.183Z,2026-03-27T01:54:05.183Z
+102024,まっぷｄｅたかさき,2,航空写真,https://www.sonicweb-asp.jp/takasaki2/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=ortho,2026-03-27T01:54:46.127Z,2026-03-27T01:54:46.127Z
