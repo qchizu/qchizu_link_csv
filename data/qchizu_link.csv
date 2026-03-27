@@ -838,3 +838,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 234427,ひがしうらマップ,5,下水道台帳図,https://www2.wagmap.jp/higashiuratown/Map?mid=50&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T08:16:11.424Z,2026-03-27T08:16:11.424Z
 234427,ひがしうらマップ,7,防災マップ,https://www2.wagmap.jp/higashiuratown/Map?mid=30&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T08:17:03.410Z,2026-03-27T08:17:03.410Z
 234451,みなみちたミーナまっぷ,3,都市計画情報,https://minamichita.cloudgis.jp/miena/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T08:18:55.291Z,2026-03-27T08:18:55.291Z
+234460,美浜町都市計画マップ,3,都市計画,https://www.open-map.jp/aichi-mihama/map.html#lat={lat}&lng={lng}&z={z}&layers=区域区分%2C用途地域%2C準防火区域%2C地区計画%2C都市計画道路,2026-03-27T08:21:48.957Z,2026-03-27T08:21:48.957Z
