@@ -829,3 +829,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 233617,大口町くらしマップ,4,道路・河川,https://webgis.alandis.jp/oguchi23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=dourokasen&li=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-27T08:07:23.823Z,2026-03-27T08:07:23.823Z
 234249,はるちず,3,都市計画情報,https://www2.wagmap.jp/oharutown/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T08:09:06.003Z,2026-03-27T08:09:06.003Z
 234249,はるちず,4,道路情報,https://www2.wagmap.jp/oharutown/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T08:09:58.747Z,2026-03-27T08:09:58.747Z
+234249,はるちず,5,下水道情報,https://www2.wagmap.jp/oharutown/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T08:10:27.168Z,2026-03-27T08:10:27.168Z
