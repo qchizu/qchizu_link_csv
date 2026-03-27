@@ -736,5 +736,5 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232025,岡崎市わが街ガイド,3,都市計画情報,https://www2.wagmap.jp/okazakicity/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:13:51.428Z,2026-03-27T05:13:51.428Z
 232025,岡崎市わが街ガイド,4,市道認定路線図,https://www2.wagmap.jp/okazakicity/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:14:20.350Z,2026-03-27T05:14:20.350Z
 232025,岡崎市わが街ガイド,5,下水道台帳情報,https://www2.wagmap.jp/okazakicity/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:14:37.659Z,2026-03-27T05:14:37.659Z
-232033,一宮市地図情報サイト「１３８マップ」,3,航空写真・地形図（Ａ４）,https://www.sonicweb-asp.jp/ichinomiya/map?theme=th_23#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T05:16:37.886Z,2026-03-27T05:16:37.886Z
+232033,一宮市地図情報サイト「１３８マップ」,3,都市計画情報（Ａ４）,https://www.sonicweb-asp.jp/ichinomiya/map?theme=th_90#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T05:17:27.399Z,2026-03-27T05:17:27.399Z
 232033,一宮市地図情報サイト「１３８マップ」,2,航空写真・地形図（Ａ４）,https://www.sonicweb-asp.jp/ichinomiya/map?theme=th_23#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T05:17:10.531Z,2026-03-27T05:17:10.531Z
