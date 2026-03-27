@@ -680,3 +680,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 102024,まっぷｄｅたかさき,3,都市計画情報マップ（Ａ４）,https://www.sonicweb-asp.jp/takasaki2/map?theme=toshikeikaku2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T01:55:59.349Z,2026-03-27T01:55:59.349Z
 102024,まっぷｄｅたかさき,4,市道路線網図,https://www.sonicweb-asp.jp/takasaki2/map?theme=th_52#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T01:56:42.530Z,2026-03-27T01:56:42.530Z
 102024,まっぷｄｅたかさき,6,地番図,https://www.sonicweb-asp.jp/takasaki2/map?theme=th_66#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T01:57:14.543Z,2026-03-27T01:57:14.543Z
+102024,まっぷｄｅたかさき,7,土砂災害警戒区域,https://www.sonicweb-asp.jp/takasaki2/map?theme=th_55#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T01:57:37.681Z,2026-03-27T01:57:37.681Z
