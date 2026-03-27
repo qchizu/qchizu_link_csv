@@ -689,3 +689,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 102041,いせさきくわまっぷ,3,伊勢崎市都市計画,https://www2.wagmap.jp/isesaki/Map?mid=2003&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T02:03:32.884Z,2026-03-27T02:03:32.884Z
 102041,いせさきくわまっぷ,4,伊勢崎市道路台帳図,https://www2.wagmap.jp/isesaki/Map?mid=2011&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T02:04:56.489Z,2026-03-27T02:04:56.489Z
 102083,しぶかわ情報マップ,1,地形図,https://www2.wagmap.jp/shibukawa/Map?mid=200&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=dm_shibukawa,2026-03-27T02:11:33.011Z,2026-03-27T02:11:33.011Z
+102083,しぶかわ情報マップ,2,航空写真,https://www2.wagmap.jp/shibukawa/Map?mid=200&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=ortho_shibukawa2019,2026-03-27T02:12:21.677Z,2026-03-27T02:12:21.677Z
