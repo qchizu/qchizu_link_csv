@@ -668,3 +668,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 234478,武豊町 たけとよマップ,3,都市計画情報,https://www2.wagmap.jp/taketoyotown/Map?mid=50&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T01:25:58.295Z,2026-03-27T01:25:58.295Z
 234478,武豊町 たけとよマップ,4,道路情報,https://www2.wagmap.jp/taketoyotown/Map?mid=60&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T01:26:34.838Z,2026-03-27T01:26:34.838Z
 234478,武豊町 たけとよマップ,5,下水道情報,https://www2.wagmap.jp/taketoyotown/Map?mid=80&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T01:26:55.751Z,2026-03-27T01:26:55.751Z
+234478,武豊町 たけとよマップ,7,防災情報,https://www2.wagmap.jp/taketoyotown/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T01:27:56.582Z,2026-03-27T01:27:56.582Z
