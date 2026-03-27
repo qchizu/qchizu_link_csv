@@ -807,3 +807,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232301,にっしんまっぷ,3,都市計画情報,https://www.sonicweb-asp.jp/nisshin/map?theme=th_12#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T07:39:38.239Z,2026-03-27T07:39:38.239Z
 232301,にっしんまっぷ,4,道路台帳図,https://www.sonicweb-asp.jp/nisshin/map?theme=th_16#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T07:39:50.087Z,2026-03-27T07:39:50.087Z
 232301,にっしんまっぷ,5,下水道台帳,https://www.sonicweb-asp.jp/nisshin/map?theme=th_14#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T07:40:07.687Z,2026-03-27T07:40:07.687Z
+232301,にっしんまっぷ,7,土砂災害警戒マップ,https://www.sonicweb-asp.jp/nisshin/map?theme=th_15#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T07:40:33.291Z,2026-03-27T07:40:33.291Z
