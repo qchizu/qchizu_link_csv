@@ -667,3 +667,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 142018,よこすか わが街ガイド,4,道路台帳図,https://www2.wagmap.jp/yokosuka/Map?mid=31&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-26T08:22:15.543Z,2026-03-26T08:22:15.543Z
 234478,武豊町 たけとよマップ,3,都市計画情報,https://www2.wagmap.jp/taketoyotown/Map?mid=50&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T01:25:58.295Z,2026-03-27T01:25:58.295Z
 234478,武豊町 たけとよマップ,4,道路情報,https://www2.wagmap.jp/taketoyotown/Map?mid=60&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T01:26:34.838Z,2026-03-27T01:26:34.838Z
+234478,武豊町 たけとよマップ,5,下水道情報,https://www2.wagmap.jp/taketoyotown/Map?mid=80&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T01:26:55.751Z,2026-03-27T01:26:55.751Z
