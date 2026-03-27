@@ -831,3 +831,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 234249,はるちず,4,道路情報,https://www2.wagmap.jp/oharutown/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T08:09:58.747Z,2026-03-27T08:09:58.747Z
 234249,はるちず,5,下水道情報,https://www2.wagmap.jp/oharutown/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T08:10:27.168Z,2026-03-27T08:10:27.168Z
 234273,飛島村地図情報サービス,2,航空写真 令和６年,https://www.open-map.jp/aichi-tobishima/map.html#lat={lat}&lng={lng}&z={z}&layers=%E8%88%AA%E7%A9%BA%E5%86%99%E7%9C%9F%20%E4%BB%A4%E5%92%8C%EF%BC%96%E5%B9%B4,2026-03-27T08:12:47.283Z,2026-03-27T08:12:47.283Z
+234273,飛島村地図情報サービス,3,用途地域,https://www.open-map.jp/aichi-tobishima/map.html#lat={lat}&lng={lng}&z={z}&layers=用途地域,2026-03-27T08:13:32.261Z,2026-03-27T08:13:32.261Z
