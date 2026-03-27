@@ -786,3 +786,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232220,東海市地図情報,3,都市計画,https://www2.wagmap.jp/tokai/Map?mid=27&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T07:09:20.541Z,2026-03-27T07:09:20.541Z
 232220,東海市地図情報,4,道路台帳平面図,https://www2.wagmap.jp/tokai/Map?mid=31&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T07:10:31.176Z,2026-03-27T07:10:31.176Z
 232220,東海市地図情報,5,公共下水道台帳施設平面図,https://www2.wagmap.jp/tokai/Map?mid=30&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T07:10:56.713Z,2026-03-27T07:10:56.713Z
+232238,大府市公開型ＧＩＳ,3,都市計画,https://webgis.alandis.jp/obu23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=toshikeikaku&li=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-27T07:14:11.216Z,2026-03-27T07:14:11.216Z
