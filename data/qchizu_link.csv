@@ -740,3 +740,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232033,一宮市地図情報サイト「１３８マップ」,2,航空写真・地形図（Ａ４）,https://www.sonicweb-asp.jp/ichinomiya/map?theme=th_23#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T05:17:10.531Z,2026-03-27T05:17:10.531Z
 232033,一宮市地図情報サイト「１３８マップ」,4,市道認定路線網図,https://www.sonicweb-asp.jp/ichinomiya/map?theme=th_105#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T05:18:22.715Z,2026-03-27T05:18:22.715Z
 232050,はんだマップ,1,地形図,https://www.sonicweb-asp.jp/handa/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T05:26:15.066Z,2026-03-27T05:26:15.066Z
+232050,はんだマップ,2,航空写真（令和２年度）,https://www.sonicweb-asp.jp/handa/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T05:26:35.269Z,2026-03-27T05:26:35.269Z
