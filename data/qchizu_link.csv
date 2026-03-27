@@ -673,3 +673,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 100005,マッピングぐんま,8,森林計画図,https://www2.wagmap.jp/pref-gunma/Map?mid=154&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:40:04.965Z,2026-03-27T01:40:04.965Z
 102016,さーちずまえばし,2,航空写真Ｒ０５,https://searchizu-maebashi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=156-0,2026-03-27T01:49:48.228Z,2026-03-27T01:49:48.228Z
 102016,さーちずまえばし,3,用途地域等,https://searchizu-maebashi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=202-17,2026-03-27T01:50:29.171Z,2026-03-27T01:50:29.171Z
+102016,さーちずまえばし,4,道路台帳平面図,https://searchizu-maebashi.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=141-20,2026-03-27T01:50:51.061Z,2026-03-27T01:50:51.061Z
