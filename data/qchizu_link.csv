@@ -753,3 +753,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232076,きらっと☆とよかわっ！ガイドマップ,5,上下水道,https://webgis.alandis.jp/toyokawa23/alandis/webgis/index.php/autologin_jswebgis?u=guest07&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=9&si=0,2026-03-27T05:46:38.743Z,2026-03-27T05:46:38.743Z
 232076,きらっと☆とよかわっ！ガイドマップ,7,防災,https://webgis.alandis.jp/toyokawa23/alandis/webgis/index.php/autologin_jswebgis?u=guest03&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=3&si=0,2026-03-27T05:47:43.587Z,2026-03-27T05:47:43.587Z
 232106,かりマップ（刈谷市地図情報システム）,3,都市計画情報,https://www2.wagmap.jp/kariyacity/Map?mid=150&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T05:55:30.503Z,2026-03-27T05:55:30.503Z
+232106,かりマップ（刈谷市地図情報システム）,4,道路情報,https://www2.wagmap.jp/kariyacity/Map?mid=160&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T05:55:57.850Z,2026-03-27T05:55:57.850Z
