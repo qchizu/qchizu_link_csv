@@ -841,3 +841,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 234460,美浜町都市計画マップ,3,都市計画,https://www.open-map.jp/aichi-mihama/map.html#lat={lat}&lng={lng}&z={z}&layers=区域区分%2C用途地域%2C準防火区域%2C地区計画%2C都市計画道路,2026-03-27T08:21:48.957Z,2026-03-27T08:21:48.957Z
 234460,美浜町都市計画マップ,4,道路台帳,https://www.open-map.jp/aichi-mihama/map.html#lat={lat}&lng={lng}&z={z}&layers=道路網図%2C道路台帳,2026-03-27T08:22:27.408Z,2026-03-27T08:22:27.408Z
 234460,美浜町都市計画マップ,7,土砂災害特別警戒区域、土砂災害警戒区域,https://www.open-map.jp/aichi-mihama/map.html#lat={lat}&lng={lng}&z={z}&layers=(風水害)土砂災害特別警戒区域%2C(風水害)土砂災害警戒区域,2026-03-27T08:23:16.964Z,2026-03-27T08:23:16.964Z
+220001,静岡県地理情報システム,7,みんなのハザードマップ,https://www.gis.pref.shizuoka.jp/?z={z}&ll={lat}%2C{lng}&mp=11001,2026-03-27T08:28:13.381Z,2026-03-27T08:28:13.381Z
