@@ -725,3 +725,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 92011,宇都宮市都市計画情報マップ,3,都市計画情報,https://www.machi-info.jp/machikado/utsunomiya_city2/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ},2026-03-27T04:24:52.455Z,2026-03-27T04:24:52.455Z
 230006,マップあいち,7,土砂災害情報マップ,https://maps.pref.aichi.jp/map/view/?mid=20037&X={lng}&Y={lat}&S={z},2026-03-27T04:58:38.349Z,2026-03-27T04:58:38.349Z
 230006,マップあいち,3,都市計画総括図（令和３年度版）,https://maps.pref.aichi.jp/map//view/?mid=21042&X={lng}&Y={lat}&S={z},2026-03-27T04:58:29.168Z,2026-03-27T04:58:29.168Z
+231002,名古屋市都市計画情報提供サービス,2,都市計画写真地図等情報,https://www2.wagmap.jp/nagoya-tokei/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:01:34.150Z,2026-03-27T05:01:34.150Z
