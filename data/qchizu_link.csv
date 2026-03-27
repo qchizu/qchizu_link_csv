@@ -130,7 +130,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 271403,堺市ｅ－地図帳,4,認定路線情報,https://e-map.city.sakai.lg.jp/sakai/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:29:36.533Z,2026-03-27T01:29:36.533Z
 271403,堺市ｅ－地図帳,5,下水道参考情報（詳細）,https://e-map.city.sakai.lg.jp/sakai/Map?mid=100010&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:29:41.696Z,2026-03-27T01:29:41.696Z
 272027,岸和田市地図情報配信サービス,3,都市計画マップ,https://www2.wagmap.jp/kishiwada/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-27T01:30:25.294Z,2026-03-27T01:30:25.294Z
-272027,岸和田市地図情報配信サービス,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/kishiwada/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-23T05:05:08.161Z,2026-03-23T05:05:08.161Z
+272027,岸和田市地図情報配信サービス,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/kishiwada/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-27T01:30:38.565Z,2026-03-27T01:30:38.565Z
 272027,岸和田市地図情報配信サービス,4,認定路線マップ,https://www2.wagmap.jp/kishiwada/Map?mid=58&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-27T01:30:30.040Z,2026-03-27T01:30:30.040Z
 272035,地図情報 とよなか,3,都市計画情報,https://gis.city.toyonaka.osaka.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=1&vlf=-1,2026-03-23T05:07:57.903Z,2026-03-23T05:07:57.903Z
 272035,地図情報 とよなか,5,下水道情報 （下水道台帳）,https://gis.city.toyonaka.osaka.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=2&bg=BG0&vlf=-1&ar=1,2026-03-23T05:08:57.319Z,2026-03-23T05:08:57.319Z
