@@ -685,3 +685,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 102032,桐生べんりまっぷ,4,道路台帳図,https://www2.wagmap.jp/kiryu/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:59:14.410Z,2026-03-27T01:59:14.410Z
 102032,桐生べんりまっぷ,5,下水道工事情報,https://www2.wagmap.jp/kiryu/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:59:46.844Z,2026-03-27T01:59:46.844Z
 102032,桐生べんりまっぷ,7,土砂災害警戒区域等マップ,https://www2.wagmap.jp/kiryu/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T02:00:15.154Z,2026-03-27T02:00:15.154Z
+102041,いせさきくわまっぷ,1,伊勢崎市白地図,https://www2.wagmap.jp/isesaki/Map?mid=2000&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=dm_isesaki,2026-03-27T02:03:00.297Z,2026-03-27T02:03:00.297Z
