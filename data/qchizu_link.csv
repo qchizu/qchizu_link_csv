@@ -746,3 +746,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232050,はんだマップ,5,下水道情報,https://www.sonicweb-asp.jp/handa/map?theme=th_103#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T05:29:12.666Z,2026-03-27T05:29:12.666Z
 232050,はんだマップ,7,防災情報,https://www.sonicweb-asp.jp/handa/map?theme=th_63#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-27T05:29:36.279Z,2026-03-27T05:29:36.279Z
 232068,道風くんの春日井まっぷ,3,都市計画情報,https://www2.wagmap.jp/kasugai/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:40:14.786Z,2026-03-27T05:40:14.786Z
+232068,道風くんの春日井まっぷ,4,道路台帳平面図（令和６年度）,https://www2.wagmap.jp/kasugai/Map?mid=23&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:40:44.214Z,2026-03-27T05:40:44.214Z
