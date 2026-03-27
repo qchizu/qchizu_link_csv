@@ -733,3 +733,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232017,名古屋市都市計画情報提供サービス,7,土砂災害情報マップ,https://www2.wagmap.jp/toyohashi/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:10:01.780Z,2026-03-27T05:10:01.780Z
 232025,岡崎市わが街ガイド,1,過去の地形図,https://www2.wagmap.jp/okazakicity/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:11:15.486Z,2026-03-27T05:11:15.486Z
 232025,岡崎市わが街ガイド,2,過去の航空写真,https://www2.wagmap.jp/okazakicity/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=ortho,2026-03-27T05:13:26.831Z,2026-03-27T05:13:26.831Z
+232025,岡崎市わが街ガイド,3,都市計画情報,https://www2.wagmap.jp/okazakicity/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:13:51.428Z,2026-03-27T05:13:51.428Z
