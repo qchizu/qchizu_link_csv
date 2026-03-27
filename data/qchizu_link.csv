@@ -730,3 +730,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232017,名古屋市都市計画情報提供サービス,3,都市計画情報マップ,https://www2.wagmap.jp/toyohashi/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:05:04.185Z,2026-03-27T05:05:04.185Z
 232017,名古屋市都市計画情報提供サービス,4,認定路線網図,https://www2.wagmap.jp/toyohashi/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:06:17.349Z,2026-03-27T05:06:17.349Z
 232017,名古屋市都市計画情報提供サービス,5,下水道マップ,https://www2.wagmap.jp/toyohashi/Map?mid=38&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:09:28.942Z,2026-03-27T05:09:28.942Z
+232017,名古屋市都市計画情報提供サービス,7,土砂災害情報マップ,https://www2.wagmap.jp/toyohashi/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:10:01.780Z,2026-03-27T05:10:01.780Z
