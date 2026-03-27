@@ -777,3 +777,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232190,小牧市の地図情報（公開型ＧＩＳ）,3,都市計画,https://webgis.alandis.jp/komaki23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest08&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-27T06:46:30.079Z,2026-03-27T06:46:30.079Z
 232190,小牧市の地図情報（公開型ＧＩＳ）,4,道路,https://webgis.alandis.jp/komaki23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest11&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-27T06:47:23.497Z,2026-03-27T06:47:23.497Z
 232190,小牧市の地図情報（公開型ＧＩＳ）,5,下水道,https://webgis.alandis.jp/komaki23/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest15&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-27T06:48:20.138Z,2026-03-27T06:48:20.138Z
+232203,ＭＡＰ ｄｅ いなざわ,3,都市計画情報,https://www2.wagmap.jp/inazawa/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T06:50:36.647Z,2026-03-27T06:50:36.647Z
