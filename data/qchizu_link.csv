@@ -749,3 +749,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232068,道風くんの春日井まっぷ,4,道路台帳平面図（令和６年度）,https://www2.wagmap.jp/kasugai/Map?mid=23&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:40:44.214Z,2026-03-27T05:40:44.214Z
 232068,道風くんの春日井まっぷ,5,下水道台帳図,https://www2.wagmap.jp/kasugai/Map?mid=24&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T05:41:05.565Z,2026-03-27T05:41:05.565Z
 232076,きらっと☆とよかわっ！ガイドマップ,3,都市計画,https://webgis.alandis.jp/toyokawa23/alandis/webgis/index.php/autologin_jswebgis?u=guest04&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=4&si=0,2026-03-27T05:44:33.695Z,2026-03-27T05:44:33.695Z
+232076,きらっと☆とよかわっ！ガイドマップ,4,道路・工事,https://webgis.alandis.jp/toyokawa23/alandis/webgis/index.php/autologin_jswebgis?u=guest601&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=8&si=0,2026-03-27T05:46:03.689Z,2026-03-27T05:46:03.689Z
