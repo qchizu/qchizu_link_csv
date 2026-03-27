@@ -670,3 +670,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 234478,武豊町 たけとよマップ,5,下水道情報,https://www2.wagmap.jp/taketoyotown/Map?mid=80&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T01:26:55.751Z,2026-03-27T01:26:55.751Z
 234478,武豊町 たけとよマップ,7,防災情報,https://www2.wagmap.jp/taketoyotown/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T01:27:56.582Z,2026-03-27T01:27:56.582Z
 100005,マッピングぐんま,4,道路台帳図閲覧マップ,https://www2.wagmap.jp/pref-gunma/Map?mid=7801&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:38:39.494Z,2026-03-27T01:38:39.494Z
+100005,マッピングぐんま,8,森林計画図,https://www2.wagmap.jp/pref-gunma/Map?mid=154&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:40:04.965Z,2026-03-27T01:40:04.965Z
