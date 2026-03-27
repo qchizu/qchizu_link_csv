@@ -834,3 +834,5 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 234273,飛島村地図情報サービス,3,用途地域,https://www.open-map.jp/aichi-tobishima/map.html#lat={lat}&lng={lng}&z={z}&layers=用途地域,2026-03-27T08:13:32.261Z,2026-03-27T08:13:32.261Z
 234273,飛島村地図情報サービス,4,道路台帳,https://www.open-map.jp/aichi-tobishima/map.html#lat={lat}&lng={lng}&z={z}&layers=道路台帳,2026-03-27T08:13:54.868Z,2026-03-27T08:13:54.868Z
 234427,ひがしうらマップ,3,都市計画情報,https://www2.wagmap.jp/higashiuratown/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T08:15:29.844Z,2026-03-27T08:15:29.844Z
+234427,ひがしうらマップ,4,道路台帳図,https://www2.wagmap.jp/higashiuratown/Map?mid=20&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T08:15:48.749Z,2026-03-27T08:15:48.749Z
+234427,ひがしうらマップ,5,下水道台帳図,https://www2.wagmap.jp/higashiuratown/Map?mid=50&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T08:16:11.424Z,2026-03-27T08:16:11.424Z
