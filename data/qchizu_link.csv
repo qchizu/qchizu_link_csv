@@ -793,3 +793,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 232246,知多市都市計画情報マップ,3,都市計画情報,https://chita.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:17:08.739Z,2026-03-27T07:17:08.739Z
 232246,知多市都市計画情報マップ,4,認定道路情報,https://chita.cloudgis.jp/road/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-27T07:17:38.821Z,2026-03-27T07:17:38.821Z
 232254,知立市 地図閲覧サービス,3,都市計画総括図,https://www2.wagmap.jp/chiryu/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T07:19:14.797Z,2026-03-27T07:19:14.797Z
+232254,知立市 地図閲覧サービス,4,市道認定路線網図,https://www2.wagmap.jp/chiryu/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T07:24:32.412Z,2026-03-27T07:24:32.412Z
