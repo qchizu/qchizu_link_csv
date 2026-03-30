@@ -940,3 +940,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 212113,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た美濃加茂市,https://gis-gifu.jp/gifu/Map?mid=12011&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:30:38.109Z,2026-03-30T06:30:38.109Z
 212121,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た土岐市,https://gis-gifu.jp/gifu/Map?mid=12012&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:30:55.774Z,2026-03-30T06:30:55.774Z
 212130,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た各務原市,https://gis-gifu.jp/gifu/Map?mid=12013&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:31:12.550Z,2026-03-30T06:31:12.550Z
+212148,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た可児市,https://gis-gifu.jp/gifu/Map?mid=12014&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:31:46.802Z,2026-03-30T06:31:46.802Z
