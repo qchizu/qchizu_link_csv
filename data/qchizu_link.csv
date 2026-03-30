@@ -959,3 +959,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 214019,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た揖斐川町,https://gis-gifu.jp/gifu/Map?mid=12030&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:39:19.179Z,2026-03-30T06:39:19.179Z
 214035,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た大野町,https://gis-gifu.jp/gifu/Map?mid=12031&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:39:35.140Z,2026-03-30T06:39:35.140Z
 214043,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た池田町,https://gis-gifu.jp/gifu/Map?mid=12032&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:39:50.951Z,2026-03-30T06:39:50.951Z
+214213,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た北方町,https://gis-gifu.jp/gifu/Map?mid=12033&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:40:08.223Z,2026-03-30T06:40:08.223Z
