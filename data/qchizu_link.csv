@@ -899,3 +899,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 222151,ごてんばＮＡＶＩ,4,道路台帳,https://www2.wagmap.jp/gotembacity/Map?mid=14&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T04:48:55.083Z,2026-03-30T04:48:55.083Z
 222151,ごてんばＮＡＶＩ,5,下水道,https://www2.wagmap.jp/gotembacity/Map?mid=21&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T04:49:26.615Z,2026-03-30T04:49:26.615Z
 222160,どまんなか袋井ｎａｖｉ,3,都市計画マップ,https://www2.wagmap.jp/fukuroi/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:51:45.297Z,2026-03-30T04:51:45.297Z
+222160,どまんなか袋井ｎａｖｉ,4,道路情報マップ,https://www2.wagmap.jp/fukuroi/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:52:29.006Z,2026-03-30T04:52:29.006Z
