@@ -871,3 +871,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 222071,富士宮市わが街ガイド 宮まっぷ,7,風水害による被害想定,https://www2.wagmap.jp/fujinomiyacity/Map?mid=14&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T02:59:24.964Z,2026-03-30T02:59:24.964Z
 222097,島田市わが街ガイド,3,都市計画図,https://www2.wagmap.jp/shimada/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:16:13.736Z,2026-03-30T04:16:13.736Z
 222097,島田市わが街ガイド,4,道路台帳図,https://www2.wagmap.jp/shimada/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:16:51.985Z,2026-03-30T04:16:51.985Z
+222097,島田市わが街ガイド,5,都市下水路,https://www2.wagmap.jp/shimada/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:17:25.184Z,2026-03-30T04:17:25.184Z
