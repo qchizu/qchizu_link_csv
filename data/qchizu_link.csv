@@ -889,3 +889,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 222135,ｅ－地図かけがわ,1,地形図ダウンロードマップ,https://www2.wagmap.jp/kakegawa/Map?mid=23&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:35:56.727Z,2026-03-30T04:35:56.727Z
 222135,ｅ－地図かけがわ,3,都市計画情報マップ,https://www2.wagmap.jp/kakegawa/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:36:39.284Z,2026-03-30T04:36:39.284Z
 222135,ｅ－地図かけがわ,4,市道認定路線マップ,https://www2.wagmap.jp/kakegawa/Map?mid=17&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:37:20.423Z,2026-03-30T04:37:20.423Z
+222135,ｅ－地図かけがわ,5,下水道情報マップ,https://www2.wagmap.jp/kakegawa/Map?mid=18&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:38:01.807Z,2026-03-30T04:38:01.807Z
