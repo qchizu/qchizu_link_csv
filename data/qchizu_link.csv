@@ -1013,3 +1013,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 242071,鈴鹿市,3,都市計画,https://www.sonicweb-asp.jp/city_suzuka/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T07:57:05.644Z,2026-03-30T07:57:05.644Z
 242071,鈴鹿市,4,路線網図,https://www.sonicweb-asp.jp/city_suzuka/map?theme=th_12#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T07:57:30.250Z,2026-03-30T07:57:30.250Z
 242101,亀山市地図情報サービス,1,地形図（白図）,https://www.sonicweb-asp.jp/kameyama/map?theme=th_17#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T07:59:12.937Z,2026-03-30T07:59:12.937Z
+242101,亀山市地図情報サービス,3,都市計画Ⅰ,https://www.sonicweb-asp.jp/kameyama/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T07:59:37.119Z,2026-03-30T07:59:37.119Z
