@@ -908,3 +908,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 222232,御前崎市オンライン地図情報サービス 「うみかぜマップ」,6,地籍参考図,https://www2.wagmap.jp/omaezakicity/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T05:09:09.170Z,2026-03-30T05:09:09.170Z
 222232,御前崎市オンライン地図情報サービス 「うみかぜマップ」,7,土砂災害ハザードマップ,https://www2.wagmap.jp/omaezakicity/Map?mid=29&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T05:09:33.517Z,2026-03-30T05:09:33.517Z
 222241,静岡県 菊川市 きくのんマップ,3,都市計画情報,https://www2.wagmap.jp/kikugawa/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T05:11:41.403Z,2026-03-30T05:11:41.403Z
+222241,静岡県 菊川市 きくのんマップ,4,市道認定路線網図閲覧サービス,https://www2.wagmap.jp/kikugawa/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T05:12:13.009Z,2026-03-30T05:12:13.009Z
