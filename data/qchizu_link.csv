@@ -1017,3 +1017,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 242101,亀山市地図情報サービス,4,路線網図,https://www.sonicweb-asp.jp/kameyama/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T08:00:01.539Z,2026-03-30T08:00:01.539Z
 242101,亀山市地図情報サービス,7,ハザードマップ,https://www.sonicweb-asp.jp/kameyama/map?theme=th_65#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T08:00:31.840Z,2026-03-30T08:00:31.840Z
 242144,いなべ市地理情報システム「いなっぷる」,1,地形図,https://www.sonicweb-asp.jp/inabe2/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T08:01:39.280Z,2026-03-30T08:01:39.280Z
+242144,いなべ市地理情報システム「いなっぷる」,3,航空写真,https://www.sonicweb-asp.jp/inabe2/map?theme=th_13#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T08:02:07.223Z,2026-03-30T08:02:07.223Z
