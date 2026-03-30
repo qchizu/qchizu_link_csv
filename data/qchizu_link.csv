@@ -918,3 +918,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 223255,かんなみ　わが街マップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/kannamitown/Map?mid=51&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T05:20:21.150Z,2026-03-30T05:20:21.150Z
 223417,清水町ガイドマップ,4,道路台帳図,https://www2.wagmap.jp/shimizutown/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T05:21:41.224Z,2026-03-30T05:21:41.224Z
 223425,ながいずみちょうどいいマップ,4,道路情報,https://experience.arcgis.com/experience/e8dc80e8099b4fa59f92fd5c51b3240f#widget_124=level:{z}%2Ccenter:{webMercatorX}%2C{webMercatorY}%2C102100,2026-03-30T05:28:28.420Z,2026-03-30T05:28:28.420Z
+222216,ＧＩＳこさい,3,用途地域,https://experience.arcgis.com/experience/dd07e699e2ce41ac8a265a386f59f6f3/page/地図-都市計画-用途地域?block_id=layout_1_block_146&org=kosai#widget_298=level:{z}%2Ccenter:{webMercatorX}%2C{webMercatorY}%2C102100,2026-03-30T05:35:02.521Z,2026-03-30T05:35:02.521Z
