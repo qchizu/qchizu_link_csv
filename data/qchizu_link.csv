@@ -937,3 +937,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 212083,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た瑞浪市,https://gis-gifu.jp/gifu/Map?mid=12008&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:29:30.067Z,2026-03-30T06:29:30.067Z
 212091,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た羽島市,https://gis-gifu.jp/gifu/Map?mid=12009&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:30:02.417Z,2026-03-30T06:30:02.417Z
 212105,岐阜県 県域統合型ＧＩＳぎふ,3,空から見た恵那市,https://gis-gifu.jp/gifu/Map?mid=12010&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:30:21.226Z,2026-03-30T06:30:21.226Z
+212113,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た美濃加茂市,https://gis-gifu.jp/gifu/Map?mid=12011&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:30:38.109Z,2026-03-30T06:30:38.109Z
