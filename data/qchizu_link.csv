@@ -926,3 +926,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 212016,岐阜県 県域統合型ＧＩＳぎふ,3,岐阜市都市計画情報,https://gis-gifu.jp/gifu/Map?mid=1685&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:20:40.318Z,2026-03-30T06:20:40.318Z
 212016,岐阜県 県域統合型ＧＩＳぎふ,4,岐阜市認定路線網図,https://gis-gifu.jp/gifu/Map?mid=20008&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:22:12.297Z,2026-03-30T06:22:12.297Z
 212016,岐阜県 県域統合型ＧＩＳぎふ,5,岐阜市下水道台帳,https://gis-gifu.jp/gifu/Map?mid=2404&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:23:20.986Z,2026-03-30T06:23:20.986Z
+212016,岐阜県 県域統合型ＧＩＳぎふ,7,岐阜市土砂災害ハザードマップ,https://gis-gifu.jp/gifu/Map?mid=20700&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:23:59.796Z,2026-03-30T06:23:59.796Z
