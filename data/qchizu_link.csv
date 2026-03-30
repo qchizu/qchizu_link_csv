@@ -1011,3 +1011,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 242071,鈴鹿市,1,地形図,https://www.sonicweb-asp.jp/city_suzuka/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T07:56:18.781Z,2026-03-30T07:56:18.781Z
 242071,鈴鹿市,2,航空写真（Ｒ５年度）,https://www.sonicweb-asp.jp/city_suzuka/map?theme=th_46#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T07:56:47.033Z,2026-03-30T07:56:47.033Z
 242071,鈴鹿市,3,都市計画,https://www.sonicweb-asp.jp/city_suzuka/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T07:57:05.644Z,2026-03-30T07:57:05.644Z
+242071,鈴鹿市,4,路線網図,https://www.sonicweb-asp.jp/city_suzuka/map?theme=th_12#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T07:57:30.250Z,2026-03-30T07:57:30.250Z
