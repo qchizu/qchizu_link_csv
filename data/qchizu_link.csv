@@ -1008,3 +1008,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 242047,松阪市公開型ＧＩＳ,4,認定道路網図,https://www2.wagmap.jp/matsusakacity/Map?mid=30&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T07:53:35.811Z,2026-03-30T07:53:35.811Z
 242047,松阪市公開型ＧＩＳ,5,下水道マップ,https://www2.wagmap.jp/matsusakacity/Map?mid=60&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T07:53:58.936Z,2026-03-30T07:53:58.936Z
 242047,松阪市公開型ＧＩＳ,6,地番参考図情報,https://www2.wagmap.jp/matsusakacity/Map?mid=40&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T07:54:25.188Z,2026-03-30T07:54:25.188Z
+242071,鈴鹿市,1,地形図,https://www.sonicweb-asp.jp/city_suzuka/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T07:56:18.781Z,2026-03-30T07:56:18.781Z
