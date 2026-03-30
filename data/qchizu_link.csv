@@ -965,3 +965,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 215031,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た川辺町,https://gis-gifu.jp/gifu/Map?mid=12036&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:41:11.041Z,2026-03-30T06:41:11.041Z
 215040,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た七宗町,https://gis-gifu.jp/gifu/Map?mid=12037&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:41:39.312Z,2026-03-30T06:41:39.312Z
 215058,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た八百津町,https://gis-gifu.jp/gifu/Map?mid=12038&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:41:58.878Z,2026-03-30T06:41:58.878Z
+215066,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た白川町,https://gis-gifu.jp/gifu/Map?mid=12039&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:42:48.869Z,2026-03-30T06:42:48.869Z
