@@ -944,3 +944,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 212156,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た山県市,https://gis-gifu.jp/gifu/Map?mid=12015&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:32:11.324Z,2026-03-30T06:32:11.324Z
 212164,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た瑞穂市,https://gis-gifu.jp/gifu/Map?mid=12016&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:32:55.736Z,2026-03-30T06:32:55.736Z
 212172,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た飛騨市,https://gis-gifu.jp/gifu/Map?mid=12017&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:33:13.783Z,2026-03-30T06:33:13.783Z
+212181,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た本巣市,https://gis-gifu.jp/gifu/Map?mid=12018&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:33:31.440Z,2026-03-30T06:33:31.440Z
