@@ -874,3 +874,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 222097,島田市わが街ガイド,5,都市下水路,https://www2.wagmap.jp/shimada/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:17:25.184Z,2026-03-30T04:17:25.184Z
 222097,島田市わが街ガイド,7,防災マップ,https://www2.wagmap.jp/shimada/Map?mid=14&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:18:04.443Z,2026-03-30T04:18:04.443Z
 222101,ふじタウンマップ,3,都市計画情報マップ,https://www2.wagmap.jp/fujicity/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:19:15.033Z,2026-03-30T04:19:15.033Z
+222101,ふじタウンマップ,4,基準点・道路マップ,https://www2.wagmap.jp/fujicity/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:19:42.038Z,2026-03-30T04:19:42.038Z
