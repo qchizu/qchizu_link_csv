@@ -879,3 +879,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 222101,ふじタウンマップ,7,防災マップ,https://www2.wagmap.jp/fujicity/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:20:36.610Z,2026-03-30T04:20:36.610Z
 222119,磐田市地図情報提供サービス,3,都市計画,https://www.sonicweb-asp.jp/iwata/map?theme=th_9#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T04:22:05.942Z,2026-03-30T04:22:05.942Z
 222119,磐田市地図情報提供サービス,4,道路台帳図,https://www.sonicweb-asp.jp/iwata/map?theme=th_21#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T04:22:27.844Z,2026-03-30T04:22:27.844Z
+222119,磐田市地図情報提供サービス,5,下水道管網図,https://www.sonicweb-asp.jp/iwata/map?theme=th_20#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T04:22:55.444Z,2026-03-30T04:22:55.444Z
