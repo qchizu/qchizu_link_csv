@@ -993,3 +993,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 212148,岐阜県 県域統合型ＧＩＳぎふ,4,可児市道路台帳図,https://gis-gifu.jp/gifu/Map?mid=20010&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:04:39.262Z,2026-03-30T07:04:39.262Z
 212024,岐阜県 県域統合型ＧＩＳぎふ,5,大垣市下水道台帳,https://gis-gifu.jp/gifu/Map?mid=11483&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:05:39.923Z,2026-03-30T07:05:39.923Z
 213616,岐阜県 県域統合型ＧＩＳぎふ,5,垂井町下水道台帳,https://gis-gifu.jp/gifu/Map?mid=3200&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:06:08.724Z,2026-03-30T07:06:08.724Z
+215023,岐阜県 県域統合型ＧＩＳぎふ,5,富加町下水台帳,https://gis-gifu.jp/gifu/Map?mid=3700&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:06:53.221Z,2026-03-30T07:06:53.221Z
