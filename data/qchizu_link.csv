@@ -950,3 +950,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 212211,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た海津市,https://gis-gifu.jp/gifu/Map?mid=12021&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:35:08.978Z,2026-03-30T06:35:08.978Z
 213021,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た岐南町,https://gis-gifu.jp/gifu/Map?mid=12022&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:35:38.896Z,2026-03-30T06:35:38.896Z
 213039,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た笠松町,https://gis-gifu.jp/gifu/Map?mid=12023&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:36:38.700Z,2026-03-30T06:36:38.700Z
+213411,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た養老町,https://gis-gifu.jp/gifu/Map?mid=12024&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:37:02.390Z,2026-03-30T06:37:02.390Z
