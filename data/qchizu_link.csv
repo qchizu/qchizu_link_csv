@@ -1005,3 +1005,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 242021,四日市公開型ＧＩＳ,5,下水道台帳,https://www2.wagmap.jp/yokkaichi/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:50:04.558Z,2026-03-30T07:50:04.558Z
 242021,四日市公開型ＧＩＳ,7,防災情報,https://www2.wagmap.jp/yokkaichi/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:50:36.078Z,2026-03-30T07:50:36.078Z
 242047,松阪市公開型ＧＩＳ,3,都市計画情報,https://www2.wagmap.jp/matsusakacity/Map?mid=20&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T07:53:09.999Z,2026-03-30T07:53:09.999Z
+242047,松阪市公開型ＧＩＳ,4,認定道路網図,https://www2.wagmap.jp/matsusakacity/Map?mid=30&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T07:53:35.811Z,2026-03-30T07:53:35.811Z
