@@ -990,3 +990,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 212083,岐阜県 県域統合型ＧＩＳぎふ,4,瑞穂市道路認定路線網図,https://gis-gifu.jp/gifu/Map?mid=3400&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:02:44.733Z,2026-03-30T07:02:44.733Z
 215023,岐阜県 県域統合型ＧＩＳぎふ,4,富加町道路台帳,https://gis-gifu.jp/gifu/Map?mid=3600&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:03:23.380Z,2026-03-30T07:03:23.380Z
 212130,岐阜県 県域統合型ＧＩＳぎふ,4,各務原市道路台帳,https://gis-gifu.jp/gifu/Map?mid=12105&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:03:59.436Z,2026-03-30T07:03:59.436Z
+212148,岐阜県 県域統合型ＧＩＳぎふ,4,可児市道路台帳図,https://gis-gifu.jp/gifu/Map?mid=20010&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:04:39.262Z,2026-03-30T07:04:39.262Z
