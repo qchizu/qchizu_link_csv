@@ -863,3 +863,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 222054,あたみＭＡＰ,2,航空写真,https://www2.wagmap.jp/atamicity/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T02:51:44.224Z,2026-03-30T02:51:44.224Z
 222054,あたみＭＡＰ,3,都市計画図,https://www2.wagmap.jp/atamicity/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T02:52:32.264Z,2026-03-30T02:52:32.264Z
 222054,あたみＭＡＰ,4,路線網図・道路台帳図,https://www2.wagmap.jp/atamicity/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T02:52:58.544Z,2026-03-30T02:52:58.544Z
+222062,三島市地図情報提供システム,4,道路台帳図,https://webgis.alandis.jp/mishima22/webgis/index.php/autologin_jswebgis?u=road&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-30T02:55:24.467Z,2026-03-30T02:55:24.467Z
