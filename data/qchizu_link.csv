@@ -946,3 +946,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 212172,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た飛騨市,https://gis-gifu.jp/gifu/Map?mid=12017&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:33:13.783Z,2026-03-30T06:33:13.783Z
 212181,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た本巣市,https://gis-gifu.jp/gifu/Map?mid=12018&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:33:31.440Z,2026-03-30T06:33:31.440Z
 212199,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た郡上市,https://gis-gifu.jp/gifu/Map?mid=969&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:34:02.391Z,2026-03-30T06:34:02.391Z
+212202,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た下呂市,https://gis-gifu.jp/gifu/Map?mid=12020&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:34:26.678Z,2026-03-30T06:34:26.678Z
