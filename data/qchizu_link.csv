@@ -956,3 +956,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 213811,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た神戸町,https://gis-gifu.jp/gifu/Map?mid=12027&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:38:12.993Z,2026-03-30T06:38:12.993Z
 213829,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た輪之内町,https://gis-gifu.jp/gifu/Map?mid=12028&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:38:32.537Z,2026-03-30T06:38:32.537Z
 213837,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た安八町,https://gis-gifu.jp/gifu/Map?mid=12029&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:38:55.907Z,2026-03-30T06:38:55.907Z
+214019,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た揖斐川町,https://gis-gifu.jp/gifu/Map?mid=12030&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:39:19.179Z,2026-03-30T06:39:19.179Z
