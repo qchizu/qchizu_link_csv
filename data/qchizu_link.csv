@@ -901,3 +901,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 222160,どまんなか袋井ｎａｖｉ,3,都市計画マップ,https://www2.wagmap.jp/fukuroi/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:51:45.297Z,2026-03-30T04:51:45.297Z
 222160,どまんなか袋井ｎａｖｉ,4,道路情報マップ,https://www2.wagmap.jp/fukuroi/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:52:29.006Z,2026-03-30T04:52:29.006Z
 222160,どまんなか袋井ｎａｖｉ,5,下水道マップ,https://www2.wagmap.jp/fukuroi/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:53:17.359Z,2026-03-30T04:53:17.359Z
+222160,どまんなか袋井ｎａｖｉ,7,防災・災害マップ,https://www2.wagmap.jp/fukuroi/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T04:56:37.089Z,2026-03-30T04:56:37.089Z
