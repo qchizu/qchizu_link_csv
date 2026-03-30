@@ -922,3 +922,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 210005,岐阜県 県域統合型ＧＩＳぎふ,2,航空写真,https://gis-gifu.jp/gifu/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=ortho,2026-03-30T06:12:14.898Z,2026-03-30T06:12:14.898Z
 210005,岐阜県 県域統合型ＧＩＳぎふ,4,道路台帳附図,https://gis-gifu.jp/gifu/Map?mid=3610&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:14:22.551Z,2026-03-30T06:14:22.551Z
 210005,岐阜県 県域統合型ＧＩＳぎふ,7,ぎふ山と川の危険箇所マップ,https://gis-gifu.jp/gifu/Map?mid=4025&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:16:43.448Z,2026-03-30T06:16:43.448Z
+212016,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た岐阜市,https://gis-gifu.jp/gifu/Map?mid=12001&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:18:22.842Z,2026-03-30T06:18:22.842Z
