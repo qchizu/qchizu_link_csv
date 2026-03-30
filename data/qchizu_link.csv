@@ -845,3 +845,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 320005,マップ ｏｎ しまね,4,道路台帳閲覧システム,https://web-gis.pref.shimane.lg.jp/shimane/Map?mid=77&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T01:48:51.284Z,2026-03-30T01:48:51.284Z
 320005,マップ ｏｎ しまね,7,土砂災害警戒区域／土砂災害特別警戒区域,https://web-gis.pref.shimane.lg.jp/shimane/Map?mid=1576&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T01:49:17.260Z,2026-03-30T01:49:17.260Z
 320005,マップ ｏｎ しまね,8,森林ＧＩＳ,https://web-gis.pref.shimane.lg.jp/shimane/Map?mid=800&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T01:49:44.634Z,2026-03-30T01:49:44.634Z
+322016,マップ ｏｎ しまね,3,松江市都市計画情報,https://web-gis.pref.shimane.lg.jp/shimane/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T01:50:44.830Z,2026-03-30T01:50:44.830Z
