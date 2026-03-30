@@ -866,3 +866,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 222062,三島市地図情報提供システム,4,道路台帳図,https://webgis.alandis.jp/mishima22/webgis/index.php/autologin_jswebgis?u=road&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-30T02:55:24.467Z,2026-03-30T02:55:24.467Z
 222062,三島市地図情報提供システム,5,下水道台帳,https://webgis.alandis.jp/mishima22/webgis/index.php/autologin_jswebgis?u=sewer&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-30T02:56:04.516Z,2026-03-30T02:56:04.516Z
 222062,三島市地図情報提供システム,6,住居表示実施区域,https://webgis.alandis.jp/mishima22/webgis/index.php/autologin_jswebgis?u=address&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-30T02:57:12.362Z,2026-03-30T02:57:12.362Z
+222071,富士宮市わが街ガイド 宮まっぷ,3,都市計画情報,https://www2.wagmap.jp/fujinomiyacity/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T02:58:24.627Z,2026-03-30T02:58:24.627Z
