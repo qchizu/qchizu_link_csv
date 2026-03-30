@@ -858,3 +858,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 325015,マップ ｏｎ しまね,7,津和野町防災ＭＡＰ,https://web-gis.pref.shimane.lg.jp/shimane/Map?mid=20099&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T01:56:40.211Z,2026-03-30T01:56:40.211Z
 221007,しずマップ － 静岡市地理情報システム,3,都市計画情報,https://city.shizuoka.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=300,2026-03-30T02:47:25.923Z,2026-03-30T02:47:25.923Z
 221007,しずマップ － 静岡市地理情報システム,4,建築基準法上の指定道路情報,https://city.shizuoka.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=500,2026-03-30T02:48:25.234Z,2026-03-30T02:48:25.234Z
+221007,しずマップ － 静岡市地理情報システム,5,下水道台帳,https://city.shizuoka.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=416,2026-03-30T02:48:53.352Z,2026-03-30T02:48:53.352Z
