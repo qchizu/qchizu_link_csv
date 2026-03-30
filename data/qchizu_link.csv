@@ -1022,3 +1022,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 242144,いなべ市地理情報システム「いなっぷる」,4,路線網図,https://www.sonicweb-asp.jp/inabe2/map?theme=th_9#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T08:03:45.899Z,2026-03-30T08:03:45.899Z
 242144,いなべ市地理情報システム「いなっぷる」,6,地番図,https://www.sonicweb-asp.jp/inabe2/map?theme=th_62#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-30T08:05:16.119Z,2026-03-30T08:05:16.119Z
 243442,三重県 かわごえデジタルマップ,3,都市計画図,https://www2.wagmap.jp/kawagoetown/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T08:09:24.403Z,2026-03-30T08:09:24.403Z
+243442,三重県 かわごえデジタルマップ,4,認定道路網図,https://www2.wagmap.jp/kawagoetown/Map?mid=20&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T08:09:57.142Z,2026-03-30T08:09:57.142Z
