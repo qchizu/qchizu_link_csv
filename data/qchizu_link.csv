@@ -953,3 +953,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 213411,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た養老町,https://gis-gifu.jp/gifu/Map?mid=12024&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:37:02.390Z,2026-03-30T06:37:02.390Z
 213616,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た垂井町,https://gis-gifu.jp/gifu/Map?mid=12025&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:37:29.709Z,2026-03-30T06:37:29.709Z
 213624,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た関ケ原町,https://gis-gifu.jp/gifu/Map?mid=12026&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:37:53.494Z,2026-03-30T06:37:53.494Z
+213811,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た神戸町,https://gis-gifu.jp/gifu/Map?mid=12027&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:38:12.993Z,2026-03-30T06:38:12.993Z
