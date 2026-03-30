@@ -1029,3 +1029,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 260002,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,2,航空写真,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=ortho,2026-03-30T08:15:57.274Z,2026-03-30T08:15:57.274Z
 260002,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,7,土砂災害警戒区域等情報マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=706&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T08:16:20.818Z,2026-03-30T08:16:20.818Z
 260002,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,3,土地利用基本計画マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=654&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T08:17:30.706Z,2026-03-30T08:17:30.706Z
+260002,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,4,京都府管内道路マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=651&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T08:18:17.189Z,2026-03-30T08:18:17.189Z
