@@ -861,3 +861,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 221007,しずマップ － 静岡市地理情報システム,5,下水道台帳,https://city.shizuoka.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=416,2026-03-30T02:48:53.352Z,2026-03-30T02:48:53.352Z
 221007,しずマップ － 静岡市地理情報システム,7,防災マップ,https://city.shizuoka.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=100,2026-03-30T02:49:26.419Z,2026-03-30T02:49:26.419Z
 222054,あたみＭＡＰ,2,航空写真,https://www2.wagmap.jp/atamicity/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T02:51:44.224Z,2026-03-30T02:51:44.224Z
+222054,あたみＭＡＰ,3,都市計画図,https://www2.wagmap.jp/atamicity/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T02:52:32.264Z,2026-03-30T02:52:32.264Z
