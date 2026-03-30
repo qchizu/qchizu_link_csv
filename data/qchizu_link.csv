@@ -1002,3 +1002,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 242012,津市地図情報提供サービス,7,地震・津波・洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/tsu/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:48:24.431Z,2026-03-30T07:48:24.431Z
 242021,四日市公開型ＧＩＳ,3,各種法規制等の地図（都市計画図）,https://www2.wagmap.jp/yokkaichi/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:49:18.867Z,2026-03-30T07:49:18.867Z
 242021,四日市公開型ＧＩＳ,4,認定道路網図,https://www2.wagmap.jp/yokkaichi/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:49:42.959Z,2026-03-30T07:49:42.959Z
+242021,四日市公開型ＧＩＳ,5,下水道台帳,https://www2.wagmap.jp/yokkaichi/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:50:04.558Z,2026-03-30T07:50:04.558Z
