@@ -1033,3 +1033,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 262013,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,4,福知山市市道情報マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=741&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T08:23:27.548Z,2026-03-30T08:23:27.548Z
 262021,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,3,都市計画法規制情報,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=819&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T08:24:52.099Z,2026-03-30T08:24:52.099Z
 262021,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,4,道路台帳図,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=787&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T08:25:15.553Z,2026-03-30T08:25:15.553Z
+262048,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,3,宇治市まちづくりマップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=811&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T08:27:47.241Z,2026-03-30T08:27:47.241Z
