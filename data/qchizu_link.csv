@@ -981,3 +981,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 212148,岐阜県 県域統合型ＧＩＳぎふ,3,可児市都市計画図,https://gis-gifu.jp/gifu/Map?mid=11262&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:53:19.238Z,2026-03-30T06:53:19.238Z
 212181,岐阜県 県域統合型ＧＩＳぎふ,3,本巣市都市計画図,https://gis-gifu.jp/gifu/Map?mid=1792&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:54:12.841Z,2026-03-30T06:54:12.841Z
 212211,岐阜県 県域統合型ＧＩＳぎふ,3,海津市都市計画区域、建築形態規制区域,https://gis-gifu.jp/gifu/Map?mid=2112&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:55:21.541Z,2026-03-30T06:55:21.541Z
+214019,岐阜県 県域統合型ＧＩＳぎふ,3,揖斐都市計画図,https://gis-gifu.jp/gifu/Map?mid=2096&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:56:32.198Z,2026-03-30T06:56:32.198Z
