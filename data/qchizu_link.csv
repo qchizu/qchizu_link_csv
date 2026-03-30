@@ -852,3 +852,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 322024,マップ ｏｎ しまね,7,浜田市防災ハザードマップ,https://web-gis.pref.shimane.lg.jp/shimane/Map?mid=132563&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T01:53:13.137Z,2026-03-30T01:53:13.137Z
 322059,マップ ｏｎ しまね,7,大田市防災ハザードマップ,https://web-gis.pref.shimane.lg.jp/shimane/Map?mid=43000&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T01:53:46.411Z,2026-03-30T01:53:46.411Z
 322075,マップ ｏｎ しまね,3,江津市都市計画図,https://web-gis.pref.shimane.lg.jp/shimane/Map?mid=35000005&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T01:54:25.623Z,2026-03-30T01:54:25.623Z
+322075,マップ ｏｎ しまね,4,江津市道路情報、道路付帯施設情報,https://web-gis.pref.shimane.lg.jp/shimane/Map?mid=8000&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T01:55:00.655Z,2026-03-30T01:55:00.655Z
