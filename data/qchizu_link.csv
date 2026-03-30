@@ -978,3 +978,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 212091,岐阜県 県域統合型ＧＩＳぎふ,3,羽島都市計画図,https://gis-gifu.jp/gifu/Map?mid=1822&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:50:44.204Z,2026-03-30T06:50:44.204Z
 212105,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た恵那市,https://gis-gifu.jp/gifu/Map?mid=12010&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:51:15.727Z,2026-03-30T06:51:15.727Z
 212130,岐阜県 県域統合型ＧＩＳぎふ,3,各務原市都市計画情報,https://gis-gifu.jp/gifu/Map?mid=10406&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:52:52.106Z,2026-03-30T06:52:52.106Z
+212148,岐阜県 県域統合型ＧＩＳぎふ,3,可児市都市計画図,https://gis-gifu.jp/gifu/Map?mid=11262&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:53:19.238Z,2026-03-30T06:53:19.238Z
