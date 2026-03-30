@@ -934,3 +934,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 212059,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た関市,https://gis-gifu.jp/gifu/Map?mid=12005&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:27:23.795Z,2026-03-30T06:27:23.795Z
 212067,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た中津川市,https://gis-gifu.jp/gifu/Map?mid=12006&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:27:42.793Z,2026-03-30T06:27:42.793Z
 212075,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た美濃市,https://gis-gifu.jp/gifu/Map?mid=12007&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:29:06.470Z,2026-03-30T06:29:06.470Z
+212083,岐阜県 県域統合型ＧＩＳぎふ,2,空から見た瑞浪市,https://gis-gifu.jp/gifu/Map?mid=12008&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:29:30.067Z,2026-03-30T06:29:30.067Z
