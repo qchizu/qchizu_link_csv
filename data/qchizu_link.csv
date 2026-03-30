@@ -913,3 +913,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 222241,静岡県 菊川市 きくのんマップ,7,防災情報,https://www2.wagmap.jp/kikugawa/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T05:14:03.283Z,2026-03-30T05:14:03.283Z
 223255,かんなみ　わが街マップ,3,都市計画情報,https://www2.wagmap.jp/kannamitown/Map?mid=20&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T05:17:54.222Z,2026-03-30T05:17:54.222Z
 223255,かんなみ　わが街マップ,4,道路台帳図,https://www2.wagmap.jp/kannamitown/Map?mid=30&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T05:18:18.571Z,2026-03-30T05:18:18.571Z
+223255,かんなみ　わが街マップ,5,下水道台帳図,https://www2.wagmap.jp/kannamitown/Map?mid=81&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T05:18:58.715Z,2026-03-30T05:18:58.715Z
