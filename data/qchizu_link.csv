@@ -984,3 +984,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 214019,岐阜県 県域統合型ＧＩＳぎふ,3,揖斐都市計画図,https://gis-gifu.jp/gifu/Map?mid=2096&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:56:32.198Z,2026-03-30T06:56:32.198Z
 214035,岐阜県 県域統合型ＧＩＳぎふ,3,大野町都市計画情報,https://gis-gifu.jp/gifu/Map?mid=934&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:57:36.407Z,2026-03-30T06:57:36.407Z
 212024,岐阜県 県域統合型ＧＩＳぎふ,4,大垣市道路台帳図,https://gis-gifu.jp/gifu/Map?mid=429&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:59:25.709Z,2026-03-30T06:59:25.709Z
+212067,岐阜県 県域統合型ＧＩＳぎふ,4,中津川市道路台帳網図,https://gis-gifu.jp/gifu/Map?mid=5003&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:01:24.473Z,2026-03-30T07:01:24.473Z
