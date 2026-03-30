@@ -999,3 +999,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 212121,土岐市公開型地理情報システム,3,都市計画情報,https://toki.cloudgis.jp/urban/?lon={lng}&lat={lat}&z={z}&r=0,2026-03-30T07:13:09.782Z,2026-03-30T07:13:09.782Z
 242012,津市地図情報提供サービス,3,都市計画情報マップ,https://www2.wagmap.jp/tsu/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:46:33.650Z,2026-03-30T07:46:33.650Z
 242012,津市地図情報提供サービス,4,道路情報マップ（試験運用版）,https://www2.wagmap.jp/tsu/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:48:01.705Z,2026-03-30T07:48:01.705Z
+242012,津市地図情報提供サービス,7,地震・津波・洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/tsu/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T07:48:24.431Z,2026-03-30T07:48:24.431Z
