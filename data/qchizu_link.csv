@@ -916,3 +916,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 223255,かんなみ　わが街マップ,5,下水道台帳図,https://www2.wagmap.jp/kannamitown/Map?mid=81&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T05:18:58.715Z,2026-03-30T05:18:58.715Z
 223255,かんなみ　わが街マップ,6,土砂災害ハザードマップ,https://www2.wagmap.jp/kannamitown/Map?mid=51&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T05:19:32.054Z,2026-03-30T05:19:32.054Z
 223255,かんなみ　わが街マップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/kannamitown/Map?mid=51&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T05:20:21.150Z,2026-03-30T05:20:21.150Z
+223417,清水町ガイドマップ,4,道路台帳図,https://www2.wagmap.jp/shimizutown/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-30T05:21:41.224Z,2026-03-30T05:21:41.224Z
