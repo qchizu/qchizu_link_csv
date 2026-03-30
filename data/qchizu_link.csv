@@ -973,3 +973,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 212041,岐阜県 県域統合型ＧＩＳぎふ,3,多治見市都市計画情報,https://gis-gifu.jp/gifu/Map?mid=3100&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:48:00.579Z,2026-03-30T06:48:00.579Z
 212059,岐阜県 県域統合型ＧＩＳぎふ,3,関市・都市計画用途図,https://gis-gifu.jp/gifu/Map?mid=932&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:48:37.867Z,2026-03-30T06:48:37.867Z
 212067,岐阜県 県域統合型ＧＩＳぎふ,3,中津川市都市計画情報,https://gis-gifu.jp/gifu/Map?mid=5008&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:49:13.729Z,2026-03-30T06:49:13.729Z
+212075,岐阜県 県域統合型ＧＩＳぎふ,3,美濃市都市計画情報,https://gis-gifu.jp/gifu/Map?mid=2900&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T06:49:39.479Z,2026-03-30T06:49:39.479Z
