@@ -1138,3 +1138,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 283011,兵庫県 兵庫県猪名川町マップ,7,土砂災害,https://www2.wagmap.jp/inagawa/Map?mid=200&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:46:34.800Z,2026-03-31T04:46:34.800Z
 283657,たかみる,1,地形図,https://webgis.alandis.jp/taka28/webgis/index.php/autologin_jswebgis?u=guest01&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T04:48:21.745Z,2026-03-31T04:48:21.745Z
 283657,たかみる,4,認定路線網図,https://webgis.alandis.jp/taka28/webgis/index.php/autologin_jswebgis?u=guest03&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T04:48:54.856Z,2026-03-31T04:48:54.856Z
+283657,たかみる,5,下水道,https://webgis.alandis.jp/taka28/webgis/index.php/autologin_jswebgis?u=guest05&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T04:49:33.577Z,2026-03-31T04:49:33.577Z
