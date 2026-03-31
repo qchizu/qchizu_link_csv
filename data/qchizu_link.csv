@@ -1037,3 +1037,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 262048,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,4,宇治市指定道路マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=752&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-30T08:29:09.741Z,2026-03-30T08:29:09.741Z
 262064,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,3,亀岡市都市計画図,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=830&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T00:52:29.989Z,2026-03-31T00:52:29.989Z
 262072,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,3,城陽市まちづくりマップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=713&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T00:54:33.815Z,2026-03-31T00:54:33.815Z
+262072,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,4,城陽市ライフラインマップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=714&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T00:55:31.470Z,2026-03-31T00:55:31.470Z
