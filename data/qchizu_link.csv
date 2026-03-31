@@ -1063,3 +1063,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 263664,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,4,精華町道路台帳マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=813&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:19:07.641Z,2026-03-31T01:19:07.641Z
 263672,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,4,道路台帳マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=791&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:19:35.842Z,2026-03-31T01:19:35.842Z
 281000,神戸市情報マップ,1,地形図,https://www2.wagmap.jp/kobecity/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=dm,2026-03-31T01:25:49.871Z,2026-03-31T01:25:49.871Z
+281000,神戸市情報マップ,2,航空写真,https://www2.wagmap.jp/kobecity/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=ortho,2026-03-31T01:26:16.491Z,2026-03-31T01:26:16.491Z
