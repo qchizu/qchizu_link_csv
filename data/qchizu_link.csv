@@ -1213,3 +1213,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 302066,たなべＷｅｂＭａｐ,4,市道情報,https://www.sonicweb-asp.jp/tanabecity/map?theme=th_28#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T06:39:53.215Z,2026-03-31T06:39:53.215Z
 302066,たなべＷｅｂＭａｐ,6,住居表示台帳,https://www.sonicweb-asp.jp/tanabecity/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T06:40:58.982Z,2026-03-31T06:40:58.982Z
 302066,たなべＷｅｂＭａｐ,7,防災情報（洪水・土砂）,https://www.sonicweb-asp.jp/tanabecity/map?theme=th_8#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T06:41:26.840Z,2026-03-31T06:41:26.840Z
+302082,紀の川市地図情報,3,都市計画情報,https://www2.wagmap.jp/kinokawa/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:45:53.612Z,2026-03-31T06:45:53.612Z
