@@ -1177,3 +1177,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 293440,いかるがＷＥＢマップ,4,道路,https://www.sonicweb-asp.jp/ikaruga/map?theme=th_43#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T05:48:19.195Z,2026-03-31T05:48:19.195Z
 293440,いかるがＷＥＢマップ,5,下水道,https://www.sonicweb-asp.jp/ikaruga/map?theme=th_47#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T05:48:47.861Z,2026-03-31T05:48:47.861Z
 293440,いかるがＷＥＢマップ,7,ハザードマップ（洪水・土砂災害）,https://www.sonicweb-asp.jp/ikaruga/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T05:49:41.829Z,2026-03-31T05:49:41.829Z
+293610,川西町Ｗｅｂマップ,3,都市計画図,https://www.sonicweb-asp.jp/nara-kawanishi/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T05:53:00.910Z,2026-03-31T05:53:00.910Z
