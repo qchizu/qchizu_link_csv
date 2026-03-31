@@ -1166,3 +1166,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 292095,生駒市地理情報,4,市道情報,https://www2.wagmap.jp/ikoma/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-31T05:38:09.316Z,2026-03-31T05:38:09.316Z
 292095,生駒市地理情報,5,下水道情報,https://www2.wagmap.jp/ikoma/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-31T05:38:37.390Z,2026-03-31T05:38:37.390Z
 292095,生駒市地理情報,7,防災情報,https://www2.wagmap.jp/ikoma/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-31T05:39:34.615Z,2026-03-31T05:39:34.615Z
+292109,香芝市地理情報公開システム,1,地形図,https://city.kashiba.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=401,2026-03-31T05:40:39.859Z,2026-03-31T05:40:39.859Z
