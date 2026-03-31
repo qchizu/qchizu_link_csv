@@ -1133,3 +1133,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 283011,兵庫県 兵庫県猪名川町マップ,2,航空写真マップ,https://www2.wagmap.jp/inagawa/Map?mid=84&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:42:48.693Z,2026-03-31T04:42:48.693Z
 283011,兵庫県 兵庫県猪名川町マップ,3,都市計画情報,https://www2.wagmap.jp/inagawa/Map?mid=50&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:43:14.275Z,2026-03-31T04:43:14.275Z
 283011,兵庫県 兵庫県猪名川町マップ,4,認定路線網図,https://www2.wagmap.jp/inagawa/Map?mid=99&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:43:38.194Z,2026-03-31T04:43:38.194Z
+283011,兵庫県 兵庫県猪名川町マップ,5,上下水道,https://www2.wagmap.jp/inagawa/Map?mid=100&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:44:27.225Z,2026-03-31T04:44:27.225Z
