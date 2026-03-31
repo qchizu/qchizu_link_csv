@@ -1124,3 +1124,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282278,兵庫県 兵庫県宍粟市マップ,3,都市計画図,https://www2.wagmap.jp/shiso/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:36:17.014Z,2026-03-31T04:36:17.014Z
 282278,兵庫県 兵庫県宍粟市マップ,4,認定路線,https://www2.wagmap.jp/shiso/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:36:44.809Z,2026-03-31T04:36:44.809Z
 282278,兵庫県 兵庫県宍粟市マップ,7,ハザードマップ,https://www2.wagmap.jp/shiso/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:37:31.778Z,2026-03-31T04:37:31.778Z
+282294,兵庫県 たつの市Ｗｅｂガイド,3,都市計画,https://www2.wagmap.jp/tatsuno/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:39:15.214Z,2026-03-31T04:39:15.214Z
