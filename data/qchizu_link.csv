@@ -1141,3 +1141,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 283657,たかみる,5,下水道,https://webgis.alandis.jp/taka28/webgis/index.php/autologin_jswebgis?u=guest05&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T04:49:33.577Z,2026-03-31T04:49:33.577Z
 283657,たかみる,6,地番参考図,https://webgis.alandis.jp/taka28/webgis/index.php/autologin_jswebgis?u=guest02&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T04:50:03.960Z,2026-03-31T04:50:03.960Z
 283657,たかみる,7,土砂災害,https://webgis.alandis.jp/taka28/webgis/index.php/autologin_jswebgis?u=guest07&ap=jsWebGIS&m=2&li=3&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T04:50:54.944Z,2026-03-31T04:50:54.944Z
+283827,播磨町都市計画情報電子地図閲覧ページ,3,用途地域,https://www.town.harima.lg.jp/misc/gis/map/index.html#{z}/{lat}/{lng}/&ls=std%7Cid_1,2026-03-31T04:55:11.701Z,2026-03-31T04:55:11.701Z
