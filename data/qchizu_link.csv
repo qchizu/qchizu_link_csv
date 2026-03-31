@@ -1203,3 +1203,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 302031,橋本マップ,3,都市計画情報,https://www2.wagmap.jp/hashimoto/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:26:49.473Z,2026-03-31T06:26:49.473Z
 302031,橋本マップ,4,認定路線,https://www2.wagmap.jp/hashimoto/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:27:25.772Z,2026-03-31T06:27:25.772Z
 302031,橋本マップ,6,地番情報,https://www2.wagmap.jp/hashimoto/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:28:01.728Z,2026-03-31T06:28:01.728Z
+302031,橋本マップ,7,防災情報,https://www2.wagmap.jp/hashimoto/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:28:43.454Z,2026-03-31T06:28:43.454Z
