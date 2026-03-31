@@ -1143,7 +1143,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 283657,たかみる,7,土砂災害,https://webgis.alandis.jp/taka28/webgis/index.php/autologin_jswebgis?u=guest07&ap=jsWebGIS&m=2&li=3&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T04:50:54.944Z,2026-03-31T04:50:54.944Z
 283827,播磨町都市計画情報電子地図閲覧ページ,3,用途地域,https://www.town.harima.lg.jp/misc/gis/map/index.html#{z}/{lat}/{lng}/&ls=std%7Cid_1,2026-03-31T04:55:11.701Z,2026-03-31T04:55:11.701Z
 292010,奈良市地図情報公開サイト,1,地形図,https://naracity.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=9,2026-03-31T05:18:12.643Z,2026-03-31T05:18:12.643Z
-292010,地図情報あまがさき,2,航空写真,https://naracity.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=25,2026-03-31T05:14:02.641Z,2026-03-31T05:14:02.641Z
+292010,奈良市地図情報公開サイト,2,航空写真,https://naracity.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=25,2026-03-31T05:18:17.200Z,2026-03-31T05:18:17.200Z
 292010,地図情報あまがさき,3,用途地域等,https://naracity.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=2,2026-03-31T05:15:35.609Z,2026-03-31T05:15:35.609Z
 292010,地図情報あまがさき,4,道路台帳図,https://naracity.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=31,2026-03-31T05:16:28.517Z,2026-03-31T05:16:28.517Z
 292010,地図情報あまがさき,6,地番図,https://naracity.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=23,2026-03-31T05:17:28.938Z,2026-03-31T05:17:28.938Z
