@@ -1069,4 +1069,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 281000,神戸市情報マップ,5,公共下水道台帳,https://www2.wagmap.jp/kobecity/Map?mid=36&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-31T01:34:01.211Z,2026-03-31T01:34:01.211Z
 281000,神戸市情報マップ,7,土砂災害・水害ハザードマップ,https://www2.wagmap.jp/kobecity/Map?mid=19&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-31T01:35:07.073Z,2026-03-31T01:35:07.073Z
 281000,神戸市情報マップ,8,地域森林整備計画図,https://www2.wagmap.jp/kobecity/Map?mid=96&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-31T01:35:47.664Z,2026-03-31T01:35:47.664Z
-282014,姫路市Ｗｅｂマップ,1,基本地形図（白地図）,https://www2.wagmap.jp/himeji/Map?mid=27&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-31T01:36:53.231Z,2026-03-31T01:36:53.231Z
+282014,姫路市Ｗｅｂマップ,1,基本地形図（白地図）,https://www2.wagmap.jp/himeji/Map?mid=27&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:37:56.232Z,2026-03-31T01:37:56.232Z
