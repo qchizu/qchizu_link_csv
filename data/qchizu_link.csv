@@ -1173,3 +1173,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 292109,香芝市地理情報公開システム,6,地番図,https://city.kashiba.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=400,2026-03-31T05:42:59.690Z,2026-03-31T05:42:59.690Z
 292109,香芝市地理情報公開システム,7,香芝市総合防災地図（水害・土砂災害）,https://city.kashiba.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=200,2026-03-31T05:43:41.054Z,2026-03-31T05:43:41.054Z
 293440,いかるがＷＥＢマップ,1,地形図,https://www.sonicweb-asp.jp/ikaruga/map?theme=th_dm#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T05:47:17.680Z,2026-03-31T05:47:17.680Z
+293440,いかるがＷＥＢマップ,3,都市計画図,https://www.sonicweb-asp.jp/ikaruga/map?theme=th_49#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T05:47:52.819Z,2026-03-31T05:47:52.819Z
