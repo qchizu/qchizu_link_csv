@@ -1209,3 +1209,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 302040,ありだデジタルマップ,7,洪水ハザードマップ,https://aridadigimap.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=4,2026-03-31T06:32:28.530Z,2026-03-31T06:32:28.530Z
 302058,御坊市公開マップ,3,都市計画,https://apps02.chklab.com/LG302058/ciel_public/?citycd=302058&ismapinfofromdb=true&mapindex=5123985&zoom={z}&lat={lat}&lng={lng}&l=3%2C5%2C6%2C7%2C8%2C9%2C10%2C11,2026-03-31T06:35:21.675Z,2026-03-31T06:35:21.675Z
 302058,御坊市公開マップ,4,道路網図,https://apps02.chklab.com/LG302058/ciel_public/?citycd=302058&ismapinfofromdb=true&mapindex=5123985&zoom={z}&lat={lat}&lng={lng}&l=0%2C4,2026-03-31T06:36:37.344Z,2026-03-31T06:36:37.344Z
+302066,たなべＷｅｂＭａｐ,3,都市計画図,https://www.sonicweb-asp.jp/tanabecity/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T06:39:04.212Z,2026-03-31T06:39:04.212Z
