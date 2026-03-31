@@ -1148,3 +1148,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 292010,奈良市地図情報公開サイト,4,道路台帳図,https://naracity.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=31,2026-03-31T05:18:28.527Z,2026-03-31T05:18:28.527Z
 292010,奈良市地図情報公開サイト,6,地番図,https://naracity.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=23,2026-03-31T05:18:37.817Z,2026-03-31T05:18:37.817Z
 292010,奈良市地図情報公開サイト,7,ハザードマップ・避難所等,https://naracity.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=20,2026-03-31T05:18:07.552Z,2026-03-31T05:18:07.552Z
+292036,やまとこおりやまデジタルなび,1,白地図,https://yamatokoriyama.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=23,2026-03-31T05:21:03.277Z,2026-03-31T05:21:03.277Z
