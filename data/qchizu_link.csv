@@ -1192,5 +1192,5 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 294276,都市計画関連情報公開マップ,3,都市計画情報,https://kawaitown.maps.arcgis.com/apps/webappviewer/index.html?id=5c479e62604d49d6ae36a330b210aa44&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-31T06:05:53.857Z,2026-03-31T06:05:53.857Z
 300004,和歌山県地理情報システム,3,都市計画区域・準都市計画区域（概略図）,https://wakayamaken.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=29,2026-03-31T06:10:22.446Z,2026-03-31T06:10:22.446Z
 302015,和歌山市わが街ガイド,1,白地図,https://www2.wagmap.jp/wakayamacity/Map?mid=12000&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-31T06:18:17.597Z,2026-03-31T06:18:17.597Z
-302015,和歌山市わが街ガイド,4,航空写真,https://www2.wagmap.jp/wakayamacity/Map?mid=12007&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-31T06:18:43.731Z,2026-03-31T06:18:43.731Z
+302015,和歌山市わが街ガイド,4,市道路線網図,https://www2.wagmap.jp/wakayamacity/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-31T06:20:05.796Z,2026-03-31T06:20:05.796Z
 302015,和歌山市わが街ガイド,3,都市計画図,https://www2.wagmap.jp/wakayamacity/Map?mid=11015&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-31T06:19:13.898Z,2026-03-31T06:19:13.898Z
