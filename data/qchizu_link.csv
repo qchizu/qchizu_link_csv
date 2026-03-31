@@ -1078,3 +1078,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282022,地図情報あまがさき,1,地形図,https://amagasaki.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=5-1,2026-03-31T01:47:59.019Z,2026-03-31T01:47:59.019Z
 282022,地図情報あまがさき,4,道路情報,https://amagasaki.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=8-71,2026-03-31T01:50:29.344Z,2026-03-31T01:50:29.344Z
 282022,地図情報あまがさき,5,下水道台帳図,https://amagasaki.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=11,2026-03-31T01:50:59.657Z,2026-03-31T01:50:59.657Z
+282022,地図情報あまがさき,6,地番参考図,https://amagasaki.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=15,2026-03-31T01:51:23.545Z,2026-03-31T01:51:23.545Z
