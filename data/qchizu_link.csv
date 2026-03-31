@@ -1047,3 +1047,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 262099,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,5,長岡京市水道マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=823&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:00:46.648Z,2026-03-31T01:00:46.648Z
 262102,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,1,地形図,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=792&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=dm_yawata,2026-03-31T01:02:10.802Z,2026-03-31T01:02:10.802Z
 262102,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,2,航空写真,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=ortho,2026-03-31T01:02:40.351Z,2026-03-31T01:02:40.351Z
+262102,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,3,八幡市都市計画図,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=789&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:03:01.091Z,2026-03-31T01:03:01.091Z
