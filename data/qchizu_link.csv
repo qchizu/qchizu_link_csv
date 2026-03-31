@@ -1216,3 +1216,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 302082,紀の川市地図情報,3,都市計画情報,https://www2.wagmap.jp/kinokawa/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:45:53.612Z,2026-03-31T06:45:53.612Z
 302082,紀の川市地図情報,4,市道認定路線情報,https://www2.wagmap.jp/kinokawa/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:46:17.152Z,2026-03-31T06:46:17.152Z
 302082,紀の川市地図情報,5,下水道情報,https://www2.wagmap.jp/kinokawa/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:46:44.808Z,2026-03-31T06:46:44.808Z
+302082,紀の川市地図情報,6,地番図情報,https://www2.wagmap.jp/kinokawa/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:47:04.021Z,2026-03-31T06:47:04.021Z
