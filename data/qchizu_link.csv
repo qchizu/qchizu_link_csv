@@ -1211,3 +1211,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 302058,御坊市公開マップ,4,道路網図,https://apps02.chklab.com/LG302058/ciel_public/?citycd=302058&ismapinfofromdb=true&mapindex=5123985&zoom={z}&lat={lat}&lng={lng}&l=0%2C4,2026-03-31T06:36:37.344Z,2026-03-31T06:36:37.344Z
 302066,たなべＷｅｂＭａｐ,3,都市計画図,https://www.sonicweb-asp.jp/tanabecity/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T06:39:04.212Z,2026-03-31T06:39:04.212Z
 302066,たなべＷｅｂＭａｐ,4,市道情報,https://www.sonicweb-asp.jp/tanabecity/map?theme=th_28#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T06:39:53.215Z,2026-03-31T06:39:53.215Z
+302066,たなべＷｅｂＭａｐ,6,住居表示台帳,https://www.sonicweb-asp.jp/tanabecity/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T06:40:58.982Z,2026-03-31T06:40:58.982Z
