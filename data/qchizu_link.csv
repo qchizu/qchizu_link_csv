@@ -1050,3 +1050,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 262102,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,3,八幡市都市計画図,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=789&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:03:01.091Z,2026-03-31T01:03:01.091Z
 262102,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,4,八幡市認定路線網図,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=790&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:03:23.828Z,2026-03-31T01:03:23.828Z
 262111,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,3,京田辺市都市計画図,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=812&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:04:29.787Z,2026-03-31T01:04:29.787Z
+262129,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,4,京丹後市市道情報マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=661&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:05:31.584Z,2026-03-31T01:05:31.584Z
