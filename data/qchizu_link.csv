@@ -1175,3 +1175,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 293440,いかるがＷＥＢマップ,1,地形図,https://www.sonicweb-asp.jp/ikaruga/map?theme=th_dm#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T05:47:17.680Z,2026-03-31T05:47:17.680Z
 293440,いかるがＷＥＢマップ,3,都市計画図,https://www.sonicweb-asp.jp/ikaruga/map?theme=th_49#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T05:47:52.819Z,2026-03-31T05:47:52.819Z
 293440,いかるがＷＥＢマップ,4,道路,https://www.sonicweb-asp.jp/ikaruga/map?theme=th_43#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T05:48:19.195Z,2026-03-31T05:48:19.195Z
+293440,いかるがＷＥＢマップ,5,下水道,https://www.sonicweb-asp.jp/ikaruga/map?theme=th_47#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T05:48:47.861Z,2026-03-31T05:48:47.861Z
