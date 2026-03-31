@@ -1181,3 +1181,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 293610,川西町Ｗｅｂマップ,4,道路台帳図,https://www.sonicweb-asp.jp/nara-kawanishi/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T05:53:36.197Z,2026-03-31T05:53:36.197Z
 293610,川西町Ｗｅｂマップ,6,地番参考図,https://www.sonicweb-asp.jp/nara-kawanishi/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T05:53:56.618Z,2026-03-31T05:53:56.618Z
 294241,上牧町地図情報システム,2,航空写真,https://webgis.alandis.jp/kanmaki29/webgis/index.php/autologin_jswebgis?u=Koku&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T05:56:43.655Z,2026-03-31T05:56:43.655Z
+294241,上牧町地図情報システム,3,都市計画基本図,https://webgis.alandis.jp/kanmaki29/webgis/index.php/autologin_jswebgis?u=Toshikeikakukihon&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T05:57:44.660Z,2026-03-31T05:57:44.660Z
