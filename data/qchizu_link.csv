@@ -1152,3 +1152,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 292036,やまとこおりやまデジタルなび,3,都市計画図,https://yamatokoriyama.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=1,2026-03-31T05:23:23.935Z,2026-03-31T05:23:23.935Z
 292036,やまとこおりやまデジタルなび,4,道路台帳図,https://yamatokoriyama.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=5,2026-03-31T05:24:09.873Z,2026-03-31T05:24:09.873Z
 292036,やまとこおりやまデジタルなび,6,地番図,https://yamatokoriyama.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=42,2026-03-31T05:25:17.153Z,2026-03-31T05:25:17.153Z
+292036,やまとこおりやまデジタルなび,7,ハザードマップ,https://yamatokoriyama.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=13,2026-03-31T05:25:47.416Z,2026-03-31T05:25:47.416Z
