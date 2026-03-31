@@ -1041,3 +1041,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 262072,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,5,城陽市ライフラインマップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=714&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T00:55:46.153Z,2026-03-31T00:55:46.153Z
 262081,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,3,向日市都市計画図,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=770&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T00:56:30.613Z,2026-03-31T00:56:30.613Z
 262081,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,4,道路台帳平面図,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=761&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T00:57:14.453Z,2026-03-31T00:57:14.453Z
+262081,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,5,下水道マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=780&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T00:57:54.967Z,2026-03-31T00:57:54.967Z
