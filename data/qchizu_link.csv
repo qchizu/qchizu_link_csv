@@ -1107,3 +1107,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282171,川西市地図情報システム,3,都市計画,https://webgis.alandis.jp/kawanishi28/webgis/index.php/autologin_jswebgis?u=t001_v210&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T04:09:38.703Z,2026-03-31T04:09:38.703Z
 282171,川西市地図情報システム,4,道路台帳図,https://webgis.alandis.jp/kawanishi28/webgis/index.php/autologin_jswebgis?u=d003_v210&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T04:10:57.857Z,2026-03-31T04:10:57.857Z
 282189,兵庫県小野市マップ,3,都市計画情報,https://www2.wagmap.jp/onocity/Map?mid=14&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:14:21.260Z,2026-03-31T04:14:21.260Z
+282189,兵庫県小野市マップ,4,道路台帳図,https://www2.wagmap.jp/onocity/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:15:21.326Z,2026-03-31T04:15:21.326Z
