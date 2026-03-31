@@ -1110,3 +1110,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282189,兵庫県小野市マップ,4,道路台帳図,https://www2.wagmap.jp/onocity/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:15:21.326Z,2026-03-31T04:15:21.326Z
 282189,兵庫県小野市マップ,5,下水道台帳,https://www2.wagmap.jp/onocity/Map?mid=23&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:15:45.668Z,2026-03-31T04:15:45.668Z
 282189,兵庫県小野市マップ,6,地番参考図,https://www2.wagmap.jp/onocity/Map?mid=16&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:16:23.970Z,2026-03-31T04:16:23.970Z
+282189,兵庫県小野市マップ,7,ハザードマップ,https://www2.wagmap.jp/onocity/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:16:48.882Z,2026-03-31T04:16:48.882Z
