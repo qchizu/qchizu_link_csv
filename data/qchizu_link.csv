@@ -1190,3 +1190,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 294268,広陵町Ｗｅｂマップ,4,道路台帳図,https://www.sonicweb-asp.jp/koryo/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T06:03:56.100Z,2026-03-31T06:03:56.100Z
 294268,広陵町Ｗｅｂマップ,6,地番参考図,https://www.sonicweb-asp.jp/koryo/map?theme=th_16#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T06:04:23.997Z,2026-03-31T06:04:23.997Z
 294276,都市計画関連情報公開マップ,3,都市計画情報,https://kawaitown.maps.arcgis.com/apps/webappviewer/index.html?id=5c479e62604d49d6ae36a330b210aa44&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-31T06:05:53.857Z,2026-03-31T06:05:53.857Z
+300004,和歌山県地理情報システム,3,都市計画区域・準都市計画区域（概略図）,https://wakayamaken.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=29,2026-03-31T06:10:22.446Z,2026-03-31T06:10:22.446Z
