@@ -1118,3 +1118,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282197,三田市 地図情報,5,市街地の下水道台帳（汚水・雨水）,https://webgis.alandis.jp/sanda-gs28/webgis/index.php/autologin_jswebgis?u=guest_sewer&ap=jsWebGIS&m=2&li=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T04:24:01.694Z,2026-03-31T04:24:01.694Z
 282201,加西市情報マップ,5,下水道台帳図,https://www2.wagmap.jp/kasai/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:26:40.196Z,2026-03-31T04:26:40.196Z
 282201,加西市情報マップ,6,地番参考図,https://www2.wagmap.jp/kasai/Map?mid=17&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:26:53.468Z,2026-03-31T04:26:53.468Z
+282201,加西市情報マップ,7,河川洪水浸水想定区域図（最大雨量）　［１０００年に１回程度の降雨規模を想定］,https://www2.wagmap.jp/kasai/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:27:39.995Z,2026-03-31T04:27:39.995Z
