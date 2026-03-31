@@ -1112,3 +1112,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282189,兵庫県小野市マップ,6,地番参考図,https://www2.wagmap.jp/onocity/Map?mid=16&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:16:23.970Z,2026-03-31T04:16:23.970Z
 282189,兵庫県小野市マップ,7,ハザードマップ,https://www2.wagmap.jp/onocity/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:16:48.882Z,2026-03-31T04:16:48.882Z
 282197,三田市 地図情報,1,地形図,https://webgis.alandis.jp/sanda28/webgis/index.php/autologin_jswebgis?u=guest01&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T04:19:13.929Z,2026-03-31T04:19:13.929Z
+282197,三田市 地図情報,2,航空写真,https://webgis.alandis.jp/sanda28/webgis/index.php/autologin_jswebgis?u=guest03&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T04:21:28.520Z,2026-03-31T04:21:28.520Z
