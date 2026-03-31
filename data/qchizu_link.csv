@@ -1058,3 +1058,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 263435,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,4,井手町道路台帳マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=797&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:12:43.951Z,2026-03-31T01:12:43.951Z
 263435,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,5,井手町下水道マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=799&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:13:09.170Z,2026-03-31T01:13:09.170Z
 263443,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,3,宇治田原町都市計画マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=765&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:16:17.546Z,2026-03-31T01:16:17.546Z
+263443,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,7,宇治田原町防災マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=602&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:17:07.127Z,2026-03-31T01:17:07.127Z
