@@ -1089,3 +1089,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282103,かこナビ,6,地番参考図,https://www2.wagmap.jp/kakogawa/Map?mid=43&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T02:41:46.680Z,2026-03-31T02:41:46.680Z
 282103,かこナビ,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/kakogawa/Map?mid=18&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T02:42:17.839Z,2026-03-31T02:42:17.839Z
 282120,赤穂市地図情報サービス,3,都市計画情報,https://www2.wagmap.jp/ako/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T02:45:40.094Z,2026-03-31T02:45:40.094Z
+282146,宝塚市地図情報,3,都市計画情報,https://www2.wagmap.jp/takarazuka/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-31T02:50:55.690Z,2026-03-31T02:50:55.690Z
