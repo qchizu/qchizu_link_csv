@@ -1077,3 +1077,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282014,姫路市Ｗｅｂマップ,7,ハザードマップ（土砂災害）,https://www2.wagmap.jp/himeji/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:40:32.740Z,2026-03-31T01:40:32.740Z
 282022,地図情報あまがさき,1,地形図,https://amagasaki.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=5-1,2026-03-31T01:47:59.019Z,2026-03-31T01:47:59.019Z
 282022,地図情報あまがさき,4,道路情報,https://amagasaki.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=8-71,2026-03-31T01:50:29.344Z,2026-03-31T01:50:29.344Z
+282022,地図情報あまがさき,5,下水道台帳図,https://amagasaki.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=11,2026-03-31T01:50:59.657Z,2026-03-31T01:50:59.657Z
