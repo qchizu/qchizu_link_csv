@@ -1056,3 +1056,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 263036,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,3,大山崎町まちづくりマップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=786&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:10:08.143Z,2026-03-31T01:10:08.143Z
 263435,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,3,井手町都市計画マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=800&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:12:14.638Z,2026-03-31T01:12:14.638Z
 263435,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,4,井手町道路台帳マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=797&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:12:43.951Z,2026-03-31T01:12:43.951Z
+263435,京都府・市町村共同 統合型地図情報システム［ＧＩＳ］,5,井手町下水道マップ,https://g-kyoto.gis.pref.kyoto.lg.jp/g-kyoto/Map?mid=799&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:13:09.170Z,2026-03-31T01:13:09.170Z
