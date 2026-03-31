@@ -1073,3 +1073,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282014,姫路市Ｗｅｂマップ,3,都市計画情報について,https://www2.wagmap.jp/himeji/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:38:24.101Z,2026-03-31T01:38:24.101Z
 282014,姫路市Ｗｅｂマップ,4,市道,https://www2.wagmap.jp/himeji/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:38:55.700Z,2026-03-31T01:38:55.700Z
 282014,姫路市Ｗｅｂマップ,5,下水道管路図,https://www2.wagmap.jp/himeji/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:39:32.397Z,2026-03-31T01:39:32.397Z
+282014,姫路市Ｗｅｂマップ,6,地番参考図,https://www2.wagmap.jp/himeji/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T01:40:02.522Z,2026-03-31T01:40:02.522Z
