@@ -1101,3 +1101,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282162,たかさごマップ,3,都市計画情報マップ,https://www2.wagmap.jp/takasago/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:05:35.919Z,2026-03-31T04:05:35.919Z
 282162,たかさごマップ,4,道路台帳図,https://www2.wagmap.jp/takasago/Map?mid=52&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:06:01.282Z,2026-03-31T04:06:01.282Z
 282162,たかさごマップ,6,地番参考図,https://www2.wagmap.jp/takasago/Map?mid=31&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:06:41.303Z,2026-03-31T04:06:41.303Z
+282162,たかさごマップ,7,土砂災害,https://www2.wagmap.jp/takasago/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:07:13.118Z,2026-03-31T04:07:13.118Z
