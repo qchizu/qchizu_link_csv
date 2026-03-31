@@ -1186,3 +1186,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 294241,上牧町地図情報システム,5,下水道,https://webgis.alandis.jp/kanmaki29/webgis/index.php/autologin_jswebgis?u=Gesui&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T05:59:38.954Z,2026-03-31T05:59:38.954Z
 294241,上牧町地図情報システム,6,地番現況図,https://webgis.alandis.jp/kanmaki29/webgis/index.php/autologin_jswebgis?u=Chiban&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T06:00:16.276Z,2026-03-31T06:00:16.276Z
 294241,上牧町地図情報システム,7,ハザードマップ,https://webgis.alandis.jp/kanmaki29/webgis/index.php/autologin_jswebgis?u=Hazardmap&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-03-31T06:00:55.143Z,2026-03-31T06:00:55.143Z
+294268,広陵町Ｗｅｂマップ,3,都市計画情報,https://www.sonicweb-asp.jp/koryo/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T06:03:36.855Z,2026-03-31T06:03:36.855Z
