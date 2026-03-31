@@ -1084,3 +1084,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282073,たみまっぷ,6,地番図（令和７年１月１日時点）,https://itami.maps.arcgis.com/apps/webappviewer/index.html?id=5a248e3c718f48f6bec8d75f160ed00b&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-31T02:23:10.041Z,2026-03-31T02:23:10.041Z
 282073,たみまっぷ,2,伊丹市の航空写真,https://itami.maps.arcgis.com/apps/webappviewer/index.html?id=e999fa912ab8450493b9fe0610cf1e15&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-31T02:23:39.505Z,2026-03-31T02:23:39.505Z
 282103,かこナビ,1,地形図（白地図）,https://www2.wagmap.jp/kakogawa/Map?mid=52&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T02:35:32.415Z,2026-03-31T02:35:32.415Z
+282103,かこナビ,3,都市計画情報マップ,https://www2.wagmap.jp/kakogawa/Map?mid=17&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T02:39:39.365Z,2026-03-31T02:39:39.365Z
