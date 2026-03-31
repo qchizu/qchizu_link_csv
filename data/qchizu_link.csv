@@ -1095,3 +1095,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282146,宝塚市地図情報,2,背景地図マップ（航空写真）,https://www2.wagmap.jp/takarazuka/Map?mid=90&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2&mtp=ortho,2026-03-31T02:53:18.579Z,2026-03-31T02:53:18.579Z
 282154,兵庫県三木市マップ,3,都市計画図,https://www2.wagmap.jp/miki/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T02:54:38.218Z,2026-03-31T02:54:38.218Z
 282154,兵庫県三木市マップ,4,認定路線網図,https://www2.wagmap.jp/miki/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T02:55:31.323Z,2026-03-31T02:55:31.323Z
+282154,兵庫県三木市マップ,1,白地図（地形図）,https://www2.wagmap.jp/miki/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T02:56:04.331Z,2026-03-31T02:56:04.331Z
