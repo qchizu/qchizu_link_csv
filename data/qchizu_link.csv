@@ -1219,3 +1219,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 302082,紀の川市地図情報,6,地番図情報,https://www2.wagmap.jp/kinokawa/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:47:04.021Z,2026-03-31T06:47:04.021Z
 302082,紀の川市地図情報,7,防災情報,https://www2.wagmap.jp/kinokawa/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:48:28.216Z,2026-03-31T06:48:28.216Z
 303666,ありだがわマップ,3,都市計画情報,https://www2.wagmap.jp/aridagawa/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:54:44.620Z,2026-03-31T06:54:44.620Z
+303666,ありだがわマップ,4,町道認定路線情報,https://www2.wagmap.jp/aridagawa/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:55:03.348Z,2026-03-31T06:55:03.348Z
