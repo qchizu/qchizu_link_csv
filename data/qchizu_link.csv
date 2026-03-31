@@ -1120,3 +1120,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282201,加西市情報マップ,6,地番参考図,https://www2.wagmap.jp/kasai/Map?mid=17&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:26:53.468Z,2026-03-31T04:26:53.468Z
 282201,加西市情報マップ,7,河川洪水浸水想定区域図（最大雨量）　［１０００年に１回程度の降雨規模を想定］,https://www2.wagmap.jp/kasai/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T04:27:39.995Z,2026-03-31T04:27:39.995Z
 282260,淡路市地番参考図閲覧マップ,6,地番図,https://open-map.jp/hyogo-awaji/map.html#lat={lat}&lng={lng}&z={z}&layers=地番図,2026-03-31T04:31:52.382Z,2026-03-31T04:31:52.382Z
+282260,Ｇｏｏｇｌｅマイマップ,4,淡路市道路網図,https://www.google.com/maps/d/viewer?mid=1kG_-T6Xn6m9W-dwE5INkgIoreWfNcpKj&ll={lat}%2C{lng}&z={z},2026-03-31T04:35:03.857Z,2026-03-31T04:35:03.857Z
