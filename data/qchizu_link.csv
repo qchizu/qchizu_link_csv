@@ -1082,3 +1082,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282057,洲本市地番参考図閲覧マップ,1,地番参考図,https://open-map.jp/hyogo-sumoto/map.html#lat={lat}&lng={lng}&z={z}&layers=地番参考図,2026-03-31T02:05:11.576Z,2026-03-31T02:05:11.576Z
 282073,たみまっぷ,4,道路台帳,https://itami.maps.arcgis.com/apps/webappviewer/index.html?id=bfd893d279574d7580fee80b6cc3c67e&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-31T02:22:14.401Z,2026-03-31T02:22:14.401Z
 282073,たみまっぷ,6,地番図（令和７年１月１日時点）,https://itami.maps.arcgis.com/apps/webappviewer/index.html?id=5a248e3c718f48f6bec8d75f160ed00b&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-31T02:23:10.041Z,2026-03-31T02:23:10.041Z
+282073,たみまっぷ,2,伊丹市の航空写真,https://itami.maps.arcgis.com/apps/webappviewer/index.html?id=e999fa912ab8450493b9fe0610cf1e15&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-03-31T02:23:39.505Z,2026-03-31T02:23:39.505Z
