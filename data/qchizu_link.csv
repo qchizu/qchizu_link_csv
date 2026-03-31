@@ -1205,3 +1205,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 302031,橋本マップ,6,地番情報,https://www2.wagmap.jp/hashimoto/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:28:01.728Z,2026-03-31T06:28:01.728Z
 302031,橋本マップ,7,防災情報,https://www2.wagmap.jp/hashimoto/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:28:43.454Z,2026-03-31T06:28:43.454Z
 302040,ありだデジタルマップ,3,都市計画図,https://aridadigimap.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=1,2026-03-31T06:29:40.406Z,2026-03-31T06:29:40.406Z
+302040,ありだデジタルマップ,4,道路台帳,https://aridadigimap.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=2,2026-03-31T06:31:37.504Z,2026-03-31T06:31:37.504Z
