@@ -1207,3 +1207,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 302040,ありだデジタルマップ,3,都市計画図,https://aridadigimap.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=1,2026-03-31T06:29:40.406Z,2026-03-31T06:29:40.406Z
 302040,ありだデジタルマップ,4,道路台帳,https://aridadigimap.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=2,2026-03-31T06:31:37.504Z,2026-03-31T06:31:37.504Z
 302040,ありだデジタルマップ,7,洪水ハザードマップ,https://aridadigimap.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=4,2026-03-31T06:32:28.530Z,2026-03-31T06:32:28.530Z
+302058,御坊市公開マップ,3,都市計画,https://apps02.chklab.com/LG302058/ciel_public/?citycd=302058&ismapinfofromdb=true&mapindex=5123985&zoom={z}&lat={lat}&lng={lng}&l=3%2C5%2C6%2C7%2C8%2C9%2C10%2C11,2026-03-31T06:35:21.675Z,2026-03-31T06:35:21.675Z
