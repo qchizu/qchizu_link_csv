@@ -1199,3 +1199,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 302023,海南市地図情報サイト　かいなんＭＡＰ,3,都市計画等情報,https://www.sonicweb-asp.jp/kainan/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T06:23:20.161Z,2026-03-31T06:23:20.161Z
 302023,海南市地図情報サイト　かいなんＭＡＰ,4,認定路線,https://www.sonicweb-asp.jp/kainan/map?theme=th_35#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T06:23:59.488Z,2026-03-31T06:23:59.488Z
 302023,海南市地図情報サイト　かいなんＭＡＰ,7,防災情報（水害・土砂災害）,https://www.sonicweb-asp.jp/kainan/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-03-31T06:24:28.906Z,2026-03-31T06:24:28.906Z
+302031,橋本マップ,1,地形図,https://www2.wagmap.jp/hashimoto/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:26:17.329Z,2026-03-31T06:26:17.329Z
