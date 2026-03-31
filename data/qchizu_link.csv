@@ -1161,4 +1161,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 292079,ゴーカスターナビ,3,都市計画図,https://city.gojo.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=10,2026-03-31T05:34:01.257Z,2026-03-31T05:34:01.257Z
 292079,ゴーカスターナビ,6,地番図,https://city.gojo.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=20,2026-03-31T05:34:28.080Z,2026-03-31T05:34:28.080Z
 292095,生駒市地理情報,1,白地図,https://www2.wagmap.jp/ikoma/Map?mid=14&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-31T05:36:35.408Z,2026-03-31T05:36:35.408Z
-292095,生駒市地理情報,2,航空写真,https://www2.wagmap.jp/ikoma/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2&mtp=ortho,2026-03-31T05:36:59.755Z,2026-03-31T05:36:59.755Z
+292095,生駒市地理情報,2,航空写真,https://www2.wagmap.jp/ikoma/Map?mid=14&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2&mtp=ortho,2026-03-31T05:37:15.773Z,2026-03-31T05:37:15.773Z
