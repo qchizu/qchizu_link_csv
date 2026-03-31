@@ -1154,3 +1154,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 292036,やまとこおりやまデジタルなび,6,地番図,https://yamatokoriyama.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=42,2026-03-31T05:25:17.153Z,2026-03-31T05:25:17.153Z
 292036,やまとこおりやまデジタルなび,7,ハザードマップ,https://yamatokoriyama.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=13,2026-03-31T05:25:47.416Z,2026-03-31T05:25:47.416Z
 292052,かしはらのちず（橿原市地理情報システム）,1,白地図,https://www2.wagmap.jp/kashihara/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-31T05:28:39.448Z,2026-03-31T05:28:39.448Z
+292052,かしはらのちず（橿原市地理情報システム）,2,白地図（航空写真）,https://www2.wagmap.jp/kashihara/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=ortho_kashihara,2026-03-31T05:29:15.453Z,2026-03-31T05:29:15.453Z
