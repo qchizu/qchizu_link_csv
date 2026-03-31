@@ -1092,3 +1092,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 282146,宝塚市地図情報,3,都市計画情報,https://www2.wagmap.jp/takarazuka/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-31T02:50:55.690Z,2026-03-31T02:50:55.690Z
 282146,宝塚市地図情報,4,認定道路情報,https://www2.wagmap.jp/takarazuka/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-03-31T02:51:46.753Z,2026-03-31T02:51:46.753Z
 282146,宝塚市地図情報,1,背景地図マップ（地形図）,https://www2.wagmap.jp/takarazuka/Map?mid=90&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2&mtp=dm,2026-03-31T02:52:51.745Z,2026-03-31T02:52:51.745Z
+282146,宝塚市地図情報,2,背景地図マップ（航空写真）,https://www2.wagmap.jp/takarazuka/Map?mid=90&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2&mtp=ortho,2026-03-31T02:53:18.579Z,2026-03-31T02:53:18.579Z
