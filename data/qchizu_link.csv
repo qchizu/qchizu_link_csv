@@ -1223,3 +1223,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 303666,ありだがわマップ,5,下水道情報,https://www2.wagmap.jp/aridagawa/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:55:29.254Z,2026-03-31T06:55:29.254Z
 303666,ありだがわマップ,6,地番参考図,https://www2.wagmap.jp/aridagawa/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:55:52.762Z,2026-03-31T06:55:52.762Z
 303666,ありだがわマップ,7,防災情報,https://www2.wagmap.jp/aridagawa/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:56:15.564Z,2026-03-31T06:56:15.564Z
+303925,日高川町わが街ガイド,7,防災マップ,https://www2.wagmap.jp/hidakagawa/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:58:49.727Z,2026-03-31T06:58:49.727Z
