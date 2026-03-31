@@ -1066,3 +1066,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 281000,神戸市情報マップ,2,航空写真,https://www2.wagmap.jp/kobecity/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=ortho,2026-03-31T01:26:16.491Z,2026-03-31T01:26:16.491Z
 281000,神戸市情報マップ,3,用途地域,https://www2.wagmap.jp/kobecity/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-31T01:26:51.357Z,2026-03-31T01:26:51.357Z
 281000,神戸市情報マップ,4,道路台帳平面図,https://www2.wagmap.jp/kobecity/Map?mid=97&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-31T01:33:34.659Z,2026-03-31T01:33:34.659Z
+281000,神戸市情報マップ,5,公共下水道台帳,https://www2.wagmap.jp/kobecity/Map?mid=36&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-31T01:34:01.211Z,2026-03-31T01:34:01.211Z
