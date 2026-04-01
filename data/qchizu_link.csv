@@ -1240,3 +1240,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 252034,地図情報サービス　ながはまっぷ,4,市道情報マップ,https://www.sonicweb-asp.jp/nagahama2/map?theme=th_17#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T01:46:36.450Z,2026-04-01T01:46:36.450Z
 252034,地図情報サービス　ながはまっぷ,6,地番参考図情報,https://www.sonicweb-asp.jp/nagahama2/map?theme=th_14#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T01:47:10.204Z,2026-04-01T01:47:10.204Z
 252042,近江八幡市マップ公開サイト,1,近江八幡市白地図Ｒ０７（印刷用）,https://omihachiman.maps.arcgis.com/apps/webappviewer/index.html?id=91d831bc31d24559a60bf63c58549f2f&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-04-01T01:51:10.679Z,2026-04-01T01:51:10.679Z
+252042,近江八幡市マップ公開サイト,3,都市計画図Ｒ０７,https://omihachiman.maps.arcgis.com/apps/webappviewer/index.html?id=fba2253f2b154a328327c3f6c5d0cb5c&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-04-01T01:51:59.757Z,2026-04-01T01:51:59.757Z
