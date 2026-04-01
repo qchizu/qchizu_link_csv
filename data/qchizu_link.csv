@@ -1304,3 +1304,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 402028,おおむた地図ナビ,2,航空写真,https://www2.wagmap.jp/omuta/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=ortho_omuta&mcl=-1%2C-1%2C-1%2C-1,2026-04-01T07:45:09.748Z,2026-04-01T07:45:09.748Z
 402028,おおむた地図ナビ,3,都市計画情報マップ,https://www2.wagmap.jp/omuta/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T07:47:36.336Z,2026-04-01T07:47:36.336Z
 402028,おおむた地図ナビ,4,道路・交通情報マップ,https://www2.wagmap.jp/omuta/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T07:48:21.722Z,2026-04-01T07:48:21.722Z
+402028,おおむた地図ナビ,7,防災情報マップ,https://www2.wagmap.jp/omuta/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T07:48:51.581Z,2026-04-01T07:48:51.581Z
