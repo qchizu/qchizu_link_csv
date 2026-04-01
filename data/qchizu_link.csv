@@ -1246,3 +1246,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 252069,くさつマップ,3,都市計画図,https://webgis.alandis.jp/kusatsu25/webgis/index.php/autologin_jswebgis?u=toshikeikaku&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&m=2,2026-04-01T02:03:15.740Z,2026-04-01T02:03:15.740Z
 252069,くさつマップ,4,市道認定路線網図,https://webgis.alandis.jp/kusatsu25/webgis/index.php/autologin_jswebgis?u=shidounintei&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&m=2,2026-04-01T02:06:31.469Z,2026-04-01T02:06:31.469Z
 252069,くさつマップ,5,下水道施設（汚水）,https://webgis.alandis.jp/kusatsu25/webgis/index.php/autologin_jswebgis?u=gesuidouosui&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&m=2,2026-04-01T02:07:22.232Z,2026-04-01T02:07:22.232Z
+252077,守山マップ,1,都市計画基本図（地形図）,https://www2.wagmap.jp/moriyama/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T02:12:36.831Z,2026-04-01T02:12:36.831Z
