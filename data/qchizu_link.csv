@@ -1226,3 +1226,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 303925,日高川町わが街ガイド,7,防災マップ,https://www2.wagmap.jp/hidakagawa/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:58:49.727Z,2026-03-31T06:58:49.727Z
 273228,能勢町地図情報,4,道路台帳,https://webgis.alandis.jp/nose27/webgis/index.php/autologin_jswebgis?u=guest_douro&ap=jsWebGIS&m=2&li=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-01T01:19:47.243Z,2026-04-01T01:19:47.243Z
 252018,ＭｙＴｏｗｎおおつ,3,都市計画図,https://www2.wagmap.jp/otsu/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T01:33:49.075Z,2026-04-01T01:33:49.075Z
+252018,ＭｙＴｏｗｎおおつ,4,市道認定路線網図,https://www2.wagmap.jp/otsu/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T01:34:16.286Z,2026-04-01T01:34:16.286Z
