@@ -1249,3 +1249,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 252077,守山マップ,1,都市計画基本図（地形図）,https://www2.wagmap.jp/moriyama/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T02:12:36.831Z,2026-04-01T02:12:36.831Z
 252077,守山マップ,2,航空写真,https://www2.wagmap.jp/moriyama/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T02:17:52.206Z,2026-04-01T02:17:52.206Z
 252077,守山マップ,3,都市計画図,https://www2.wagmap.jp/moriyama/Map?mid=16&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T02:21:51.880Z,2026-04-01T02:21:51.880Z
+252077,守山マップ,4,認定道路網図,https://www2.wagmap.jp/moriyama/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T02:22:51.993Z,2026-04-01T02:22:51.993Z
