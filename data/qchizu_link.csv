@@ -1230,3 +1230,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 252018,ＭｙＴｏｗｎおおつ,7,ハザードマップ,https://www2.wagmap.jp/otsu/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T01:35:19.725Z,2026-04-01T01:35:19.725Z
 131156,すぎナビ － 杉並区公式電子地図サービス,3,都市計画情報,https://suginami.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=300,2026-04-01T01:37:35.416Z,2026-04-01T01:37:35.416Z
 131156,すぎナビ － 杉並区公式電子地図サービス,4,道路台帳平面図,https://suginami.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=401,2026-04-01T01:38:14.391Z,2026-04-01T01:38:14.391Z
+131156,すぎナビ － 杉並区公式電子地図サービス,7,土砂災害ハザードマップ,https://suginami.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=202,2026-04-01T01:39:04.221Z,2026-04-01T01:39:04.221Z
