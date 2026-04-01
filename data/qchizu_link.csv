@@ -1251,3 +1251,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 252077,守山マップ,3,都市計画図,https://www2.wagmap.jp/moriyama/Map?mid=16&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T02:21:51.880Z,2026-04-01T02:21:51.880Z
 252077,守山マップ,4,認定道路網図,https://www2.wagmap.jp/moriyama/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T02:22:51.993Z,2026-04-01T02:22:51.993Z
 252077,守山マップ,6,地番参考図情報,https://www2.wagmap.jp/moriyama/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T02:24:33.448Z,2026-04-01T02:24:33.448Z
+252093,こうかちず,1,地形図,https://webgis.alandis.jp/koka25/webgis/index.php/autologin_jswebgis?u=guest01&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-01T02:56:46.498Z,2026-04-01T02:56:46.498Z
