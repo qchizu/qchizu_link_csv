@@ -1288,3 +1288,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 182028,福井県敦賀市マップ,6,地番参考図,https://www2.wagmap.jp/tsuruga/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T05:00:03.112Z,2026-04-01T05:00:03.112Z
 182052,越前おおの結マップ,3,都市計画情報,https://www2.wagmap.jp/ono/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-04-01T05:09:25.124Z,2026-04-01T05:09:25.124Z
 182052,越前おおの結マップ,7,防災情報,https://www2.wagmap.jp/ono/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-04-01T05:10:22.239Z,2026-04-01T05:10:22.239Z
+182095,越前市ぐるぐるマップ,1,白地図,https://www.sonicweb-asp.jp/echizen2/map?theme=th_dm#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T05:13:10.745Z,2026-04-01T05:13:10.745Z
