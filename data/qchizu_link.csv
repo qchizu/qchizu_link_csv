@@ -1257,3 +1257,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 252093,こうかちず,6,地番図,https://webgis.alandis.jp/koka25/webgis/index.php/autologin_jswebgis?u=guest08&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-01T02:58:30.392Z,2026-04-01T02:58:30.392Z
 252093,こうかちず,7,ハザードマップ,https://webgis.alandis.jp/koka25/webgis/index.php/autologin_jswebgis?u=guest04&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-01T02:59:08.969Z,2026-04-01T02:59:08.969Z
 142182,あやせびゅ～まっぷ,4,認定路線網図,https://www2.wagmap.jp/ayasecity/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T04:29:47.541Z,2026-04-01T04:29:47.541Z
+252107,滋賀県 滋賀県野洲市マップ,1,白地図,https://www2.wagmap.jp/yasu/Map?mid=30&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T04:34:14.869Z,2026-04-01T04:34:14.869Z
