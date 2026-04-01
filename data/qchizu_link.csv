@@ -1290,3 +1290,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 182052,越前おおの結マップ,7,防災情報,https://www2.wagmap.jp/ono/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-04-01T05:10:22.239Z,2026-04-01T05:10:22.239Z
 182095,越前市ぐるぐるマップ,1,白地図,https://www.sonicweb-asp.jp/echizen2/map?theme=th_dm#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T05:13:10.745Z,2026-04-01T05:13:10.745Z
 182095,越前市ぐるぐるマップ,3,都市計画情報,https://www.sonicweb-asp.jp/echizen2/map?theme=th_32#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T05:13:48.003Z,2026-04-01T05:13:48.003Z
+182095,越前市ぐるぐるマップ,4,道路図２０２２年１月２８日更新,https://www.sonicweb-asp.jp/echizen2/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T05:14:18.086Z,2026-04-01T05:14:18.086Z
