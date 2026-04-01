@@ -1224,3 +1224,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 303666,ありだがわマップ,6,地番参考図,https://www2.wagmap.jp/aridagawa/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:55:52.762Z,2026-03-31T06:55:52.762Z
 303666,ありだがわマップ,7,防災情報,https://www2.wagmap.jp/aridagawa/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:56:15.564Z,2026-03-31T06:56:15.564Z
 303925,日高川町わが街ガイド,7,防災マップ,https://www2.wagmap.jp/hidakagawa/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-31T06:58:49.727Z,2026-03-31T06:58:49.727Z
+273228,能勢町地図情報,4,道路台帳,https://webgis.alandis.jp/nose27/webgis/index.php/autologin_jswebgis?u=guest_douro&ap=jsWebGIS&m=2&li=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-01T01:19:47.243Z,2026-04-01T01:19:47.243Z
