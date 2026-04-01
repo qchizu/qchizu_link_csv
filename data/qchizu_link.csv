@@ -1263,3 +1263,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 252107,滋賀県 滋賀県野洲市マップ,5,下水道配管参考図,https://www2.wagmap.jp/yasu/Map?mid=46&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T04:35:57.165Z,2026-04-01T04:35:57.165Z
 252107,滋賀県 滋賀県野洲市マップ,6,地番参考図,https://www2.wagmap.jp/yasu/Map?mid=29&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T04:36:24.554Z,2026-04-01T04:36:24.554Z
 252107,滋賀県 滋賀県野洲市マップ,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/yasu/Map?mid=35&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T04:37:04.012Z,2026-04-01T04:37:04.012Z
+252115,ＫＯＮＡＮ ＭＡＰ,3,都市計画マップ,https://www.sonicweb-asp.jp/konan/map?theme=th_6#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T04:38:32.984Z,2026-04-01T04:38:32.984Z
