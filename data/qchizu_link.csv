@@ -1285,3 +1285,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 182010,ふくいマップ,4,道路台帳,https://webgis.alandis.jp/fukui18/webgis/index.php/autologin_jswebgis?u=guest01&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-01T04:56:10.582Z,2026-04-01T04:56:10.582Z
 182028,福井県敦賀市マップ,1,敦賀市都市計画マップ,https://www2.wagmap.jp/tsuruga/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mcl=-1%2C-1%2C-1%2C-1,2026-04-01T04:59:37.664Z,2026-04-01T04:59:37.664Z
 182028,福井県敦賀市マップ,3,敦賀市都市計画マップ,https://www2.wagmap.jp/tsuruga/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T04:58:51.164Z,2026-04-01T04:58:51.164Z
+182028,福井県敦賀市マップ,6,地番参考図,https://www2.wagmap.jp/tsuruga/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T05:00:03.112Z,2026-04-01T05:00:03.112Z
