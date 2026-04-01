@@ -1270,3 +1270,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 252123,高島市地図情報サービス　たかしまっぷ,3,都市計画図,https://www.sonicweb-asp.jp/takashima/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T04:41:07.321Z,2026-04-01T04:41:07.321Z
 252123,高島市地図情報サービス　たかしまっぷ,4,市道認定路線網図,https://www.sonicweb-asp.jp/takashima/map?theme=th_38#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T04:41:30.460Z,2026-04-01T04:41:30.460Z
 252123,高島市地図情報サービス　たかしまっぷ,5,下水道台帳図,https://www.sonicweb-asp.jp/takashima/map?theme=th_15#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T04:41:56.715Z,2026-04-01T04:41:56.715Z
+252123,高島市地図情報サービス　たかしまっぷ,6,地番参考図情報,https://www.sonicweb-asp.jp/takashima/map?theme=th_37#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T04:42:12.084Z,2026-04-01T04:42:12.084Z
