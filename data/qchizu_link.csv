@@ -1267,3 +1267,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 252115,ＫＯＮＡＮ ＭＡＰ,4,道路台帳認定路線網図,https://www.sonicweb-asp.jp/konan/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T04:38:52.275Z,2026-04-01T04:38:52.275Z
 252115,ＫＯＮＡＮ ＭＡＰ,7,ハザードマップ,https://www.sonicweb-asp.jp/konan/map?theme=th_8#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T04:39:44.100Z,2026-04-01T04:39:44.100Z
 252123,高島市地図情報サービス　たかしまっぷ,1,白地図,https://www.sonicweb-asp.jp/takashima/map?theme=th_chikei#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T04:40:46.580Z,2026-04-01T04:40:46.580Z
+252123,高島市地図情報サービス　たかしまっぷ,3,都市計画図,https://www.sonicweb-asp.jp/takashima/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T04:41:07.321Z,2026-04-01T04:41:07.321Z
