@@ -1274,3 +1274,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 252123,高島市地図情報サービス　たかしまっぷ,7,防災マップ（洪水・土砂災害）,https://www.sonicweb-asp.jp/takashima/map?theme=th_16#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T04:42:25.222Z,2026-04-01T04:42:25.222Z
 252131,東近江市森林クラウドシステム,8,東近江市森林情報,https://webgis.alandis.jp/higashiomi25/webgis/index.php/autologin_jswebgis?u=guest&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-01T04:43:33.472Z,2026-04-01T04:43:33.472Z
 252140,米原市地図情報システム,1,白地図,https://webgis.alandis.jp/maibara25/webgis/index.php/autologin_jswebgis?u=guest4&li=3&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-01T04:44:56.444Z,2026-04-01T04:44:56.444Z
+252140,米原市地図情報システム,3,都市計画情報,https://webgis.alandis.jp/maibara25/webgis/index.php/autologin_jswebgis?u=guest5&li=3&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-01T04:45:26.566Z,2026-04-01T04:45:26.566Z
