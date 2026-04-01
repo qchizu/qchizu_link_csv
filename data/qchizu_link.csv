@@ -1237,3 +1237,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 252026,彦根まっぷ,7,防災マップ,https://www2.wagmap.jp/hikone/Map?mid=23&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-01T01:43:56.927Z,2026-04-01T01:43:56.927Z
 252034,地図情報サービス　ながはまっぷ,1,白地図,https://www.sonicweb-asp.jp/nagahama2/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T01:45:51.543Z,2026-04-01T01:45:51.543Z
 252034,地図情報サービス　ながはまっぷ,3,都市計画マップ,https://www.sonicweb-asp.jp/nagahama2/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T01:46:20.820Z,2026-04-01T01:46:20.820Z
+252034,地図情報サービス　ながはまっぷ,4,市道情報マップ,https://www.sonicweb-asp.jp/nagahama2/map?theme=th_17#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-01T01:46:36.450Z,2026-04-01T01:46:36.450Z
