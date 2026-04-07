@@ -1308,3 +1308,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 402036,くるめＭＡＰ,3,都市計画総合情報,https://city.kurume.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=4,2026-04-01T08:28:22.094Z,2026-04-01T08:28:22.094Z
 402036,くるめＭＡＰ,7,土砂災害（土砂災害ハザードマップ）,https://city.kurume.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=5,2026-04-01T08:30:10.830Z,2026-04-01T08:30:10.830Z
 132039,むさしのマップ － 公開型地理情報システム,3,都市計画図,https://musashino.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=1,2026-04-07T01:00:01.953Z,2026-04-07T01:00:01.953Z
+132039,むさしのマップ － 公開型地理情報システム,4,武蔵野市道路台帳現況平面図,https://musashino.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=2,2026-04-07T01:00:29.258Z,2026-04-07T01:00:29.258Z
