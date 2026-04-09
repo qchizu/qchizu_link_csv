@@ -1348,3 +1348,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 402249,福津市地図サービス,4,路線網図,https://www.sonicweb-asp.jp/fukutsu2/map?theme=th_16#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:25:08.838Z,2026-04-09T08:25:08.838Z
 402249,福津市地図サービス,7,防災マップ,https://www.sonicweb-asp.jp/fukutsu2/map?theme=th_14#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:25:59.749Z,2026-04-09T08:25:59.749Z
 402303,糸島市Ｗｅｂマップ,3,都市計画情報マップ,https://www2.wagmap.jp/itoshima/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-09T08:28:33.103Z,2026-04-09T08:28:33.103Z
+402303,糸島市Ｗｅｂマップ,4,道路情報マップ,https://www2.wagmap.jp/itoshima/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-09T08:28:59.780Z,2026-04-09T08:28:59.780Z
