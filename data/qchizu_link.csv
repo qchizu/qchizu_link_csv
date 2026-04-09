@@ -1310,3 +1310,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132039,むさしのマップ － 公開型地理情報システム,3,都市計画図,https://musashino.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=1,2026-04-07T01:00:01.953Z,2026-04-07T01:00:01.953Z
 132039,むさしのマップ － 公開型地理情報システム,4,武蔵野市道路台帳現況平面図,https://musashino.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=2,2026-04-07T01:00:29.258Z,2026-04-07T01:00:29.258Z
 132039,むさしのマップ － 公開型地理情報システム,5,【上下水道・水循環】上水道施設図、下水道系統図、雨水浸透施設等,https://musashino.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=17,2026-04-07T01:01:12.593Z,2026-04-07T01:01:12.593Z
+402052,Ｇｏｏｇｌｅマイマップ,3,飯塚市都市計画マップＲ６,https://www.google.com/maps/d/viewer?mid=1xkrseYjjyIH6XC31HHJPpH5D5vZj0NA&ll={lat}%2C{lng}&z={z},2026-04-09T07:48:31.037Z,2026-04-09T07:48:31.037Z
