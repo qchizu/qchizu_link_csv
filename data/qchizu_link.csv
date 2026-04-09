@@ -1320,3 +1320,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 402133,行橋市地図情報サービス,3,都市計画図,https://www.sonicweb-asp.jp/yukuhashi/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T07:56:33.392Z,2026-04-09T07:56:33.392Z
 402133,行橋市地図情報サービス,4,市道網図,https://www.sonicweb-asp.jp/yukuhashi/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T07:56:57.139Z,2026-04-09T07:56:57.139Z
 402133,行橋市地図情報サービス,6,地番参考図,https://www.sonicweb-asp.jp/yukuhashi/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T07:57:17.791Z,2026-04-09T07:57:17.791Z
+402150,中間市行政情報マップ,3,都市計画マップ,https://www2.wagmap.jp/nakama/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-09T07:59:26.348Z,2026-04-09T07:59:26.348Z
