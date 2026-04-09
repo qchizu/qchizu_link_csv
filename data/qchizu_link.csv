@@ -1317,3 +1317,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 402052,いいづかシティマップ －飯塚市地図情報システム－,8,森林,https://www.sonicweb-asp.jp/iizuka/map?theme=th_47#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T07:51:54.448Z,2026-04-09T07:51:54.448Z
 402079,柳川市Ｗｅｂまっぷ,3,都市計画情報マップ,https://www2.wagmap.jp/yanagawa/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-09T07:53:39.639Z,2026-04-09T07:53:39.639Z
 402079,柳川市Ｗｅｂまっぷ,4,道路台帳マップ,https://www2.wagmap.jp/yanagawa/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-09T07:53:57.933Z,2026-04-09T07:53:57.933Z
+402133,行橋市地図情報サービス,3,都市計画図,https://www.sonicweb-asp.jp/yukuhashi/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T07:56:33.392Z,2026-04-09T07:56:33.392Z
