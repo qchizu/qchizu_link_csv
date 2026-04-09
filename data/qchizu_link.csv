@@ -1313,3 +1313,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 402052,Ｇｏｏｇｌｅマイマップ,3,飯塚市都市計画マップＲ６,https://www.google.com/maps/d/viewer?mid=1xkrseYjjyIH6XC31HHJPpH5D5vZj0NA&ll={lat}%2C{lng}&z={z},2026-04-09T07:48:31.037Z,2026-04-09T07:48:31.037Z
 402052,いいづかシティマップ －飯塚市地図情報システム－,4,道路台帳,https://www.sonicweb-asp.jp/iizuka/map?theme=th_29#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T07:49:57.954Z,2026-04-09T07:49:57.954Z
 402052,いいづかシティマップ －飯塚市地図情報システム－,5,下水道管網図,https://www.sonicweb-asp.jp/iizuka/map?theme=th_48#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T07:50:34.486Z,2026-04-09T07:50:34.486Z
+402052,いいづかシティマップ －飯塚市地図情報システム－,7,防災情報,https://www.sonicweb-asp.jp/iizuka/map?theme=th_19#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T07:51:24.927Z,2026-04-09T07:51:24.927Z
