@@ -1336,3 +1336,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 402192,大野城まどかマップ,6,住居表示台帳,https://www2.wagmap.jp/onojo/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-09T08:07:42.193Z,2026-04-09T08:07:42.193Z
 402192,大野城まどかマップ,7,ハザードマップ,https://www2.wagmap.jp/onojo/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-09T08:08:00.417Z,2026-04-09T08:08:00.417Z
 402206,宗像市都市計画情報,1,背景（地形図）,https://www.sonicweb-asp.jp/munakata/map?theme=th_27#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:08:59.216Z,2026-04-09T08:08:59.216Z
+402206,宗像市都市計画情報,3,都市計画,https://www.sonicweb-asp.jp/munakata/map?theme=th_14#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:11:08.981Z,2026-04-09T08:11:08.981Z
