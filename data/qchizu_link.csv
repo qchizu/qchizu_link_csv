@@ -1326,4 +1326,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 402150,中間市行政情報マップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/nakama/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-09T08:00:47.182Z,2026-04-09T08:00:47.182Z
 402184,かすがデジタルマップ,1,背景（地形図）,https://www.sonicweb-asp.jp/kasuga/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=dm,2026-04-09T08:02:35.219Z,2026-04-09T08:02:35.219Z
 402184,かすがデジタルマップ,2,背景（航空写真）,https://www.sonicweb-asp.jp/kasuga/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=ortho,2026-04-09T08:03:14.286Z,2026-04-09T08:03:14.286Z
-402184,かすがデジタルマップ,3,まちづくり情報,https://www.sonicweb-asp.jp/kasuga/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:04:00.562Z,2026-04-09T08:04:00.562Z
+402184,かすがデジタルマップ,3,都市計画図,https://www.sonicweb-asp.jp/kasuga/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:04:18.109Z,2026-04-09T08:04:18.109Z
