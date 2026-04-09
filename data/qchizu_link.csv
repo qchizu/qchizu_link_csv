@@ -1344,3 +1344,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 402231,こがまっぷ,5,下水道管路図,https://www.sonicweb-asp.jp/fukuoka-koga/map?theme=th_21#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:23:00.673Z,2026-04-09T08:23:00.673Z
 402231,こがまっぷ,7,土砂災害ハザードマップ,https://www.sonicweb-asp.jp/fukuoka-koga/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:23:22.951Z,2026-04-09T08:23:22.951Z
 402249,福津市地図サービス,2,背景（航空写真）,https://www.sonicweb-asp.jp/fukutsu2/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=ortho,2026-04-09T08:24:27.713Z,2026-04-09T08:24:27.713Z
+402249,福津市地図サービス,3,都市計画,https://www.sonicweb-asp.jp/fukutsu2/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:24:48.767Z,2026-04-09T08:24:48.767Z
