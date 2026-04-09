@@ -1329,3 +1329,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 402184,かすがデジタルマップ,3,都市計画図,https://www.sonicweb-asp.jp/kasuga/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:04:18.109Z,2026-04-09T08:04:18.109Z
 402184,かすがデジタルマップ,4,道路台帳図,https://www.sonicweb-asp.jp/kasuga/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:04:33.760Z,2026-04-09T08:04:33.760Z
 402184,かすがデジタルマップ,5,下水道台帳図,https://www.sonicweb-asp.jp/kasuga/map?theme=th_33#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:04:52.654Z,2026-04-09T08:04:52.654Z
+402184,かすがデジタルマップ,7,ハザードマップ,https://www.sonicweb-asp.jp/kasuga/map?theme=th_35#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:05:26.020Z,2026-04-09T08:05:26.020Z
