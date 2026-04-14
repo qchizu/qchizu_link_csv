@@ -1531,3 +1531,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 41009,せんだいくらしのマップ,4,市道路線認定網図・道路台帳図,https://www2.wagmap.jp/sendaicity/Map?mid=161&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:16:19.460Z,2026-04-14T06:16:19.460Z
 41009,せんだいくらしのマップ,6,地番図（参考図）,https://www2.wagmap.jp/sendaicity/Map?mid=299&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:17:12.135Z,2026-04-14T06:17:12.135Z
 41009,せんだいくらしのマップ,7,土砂災害危険地マップ,https://www2.wagmap.jp/sendaicity/Map?mid=308&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:18:31.295Z,2026-04-14T06:18:31.295Z
+42021,石巻まちづくりマップ,3,都市計画情報マップ,https://www2.wagmap.jp/ishinomaki/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:29:21.262Z,2026-04-14T06:29:21.262Z
