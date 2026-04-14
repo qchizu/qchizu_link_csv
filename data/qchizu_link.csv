@@ -1575,3 +1575,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 74667,矢吹タウンマップ,3,都市計画,https://www.mtc-service.jp/MapPocketBookPublicYabuki/maps.html?latitude={lat}&longitude={lng}&zoom={sonicwebZ}&groupid=4,2026-04-14T07:47:47.409Z,2026-04-14T07:47:47.409Z
 74667,矢吹タウンマップ,8,農林業,https://www.mtc-service.jp/MapPocketBookPublicYabuki/maps.html?latitude={lat}&longitude={lng}&zoom={sonicwebZ}&groupid=4,2026-04-14T07:48:38.426Z,2026-04-14T07:48:38.426Z
 74811,たなまっぷ,3,都市計画情報,https://www2.wagmap.jp/tanagura/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:49:58.206Z,2026-04-14T07:49:58.206Z
+74811,たなまっぷ,4,道路情報,https://www2.wagmap.jp/tanagura/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:50:15.348Z,2026-04-14T07:50:15.348Z
