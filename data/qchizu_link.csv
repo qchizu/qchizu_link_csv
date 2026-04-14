@@ -1584,3 +1584,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 75477,わが街ガイド浪江,7,防災情報,https://www2.wagmap.jp/namie/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T08:02:16.519Z,2026-04-14T08:02:16.519Z
 30007,いわてデジタルマップ,4,指定道路図,https://www.sonicweb-asp.jp/iwate/map?theme=th_158#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T08:06:29.883Z,2026-04-14T08:06:29.883Z
 30007,いわてデジタルマップ,7,土砂災害に関する規制図,https://www.sonicweb-asp.jp/iwate/map?theme=th_59#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T08:07:35.088Z,2026-04-14T08:07:35.088Z
+30007,いわてデジタルマップ,8,森林資源,https://www.sonicweb-asp.jp/iwate/map?theme=th_163#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T08:07:51.752Z,2026-04-14T08:07:51.752Z
