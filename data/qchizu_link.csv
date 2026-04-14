@@ -1518,3 +1518,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 352161,山陽小野田市　Ｗｅｂマップ,5,下水道施設,https://www.sonicweb-asp.jp/sanyo-onoda/map?theme=th_39#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:50:57.769Z,2026-04-14T05:50:57.769Z
 352161,山陽小野田市　Ｗｅｂマップ,7,ハザードマップ,https://www.sonicweb-asp.jp/sanyo-onoda/map?theme=th_29#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:51:54.641Z,2026-04-14T05:51:54.641Z
 322032,出雲市地図情報,1,白地図,https://gis4.city.izumo.shimane.jp/alandis/webgis/index.php/autologin_jswebgis?u=u01&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T05:55:53.399Z,2026-04-14T05:55:53.399Z
+322032,出雲市地図情報,2,航空写真,https://gis4.city.izumo.shimane.jp/alandis/webgis/index.php/autologin_jswebgis?u=u02&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T05:56:48.243Z,2026-04-14T05:56:48.243Z
