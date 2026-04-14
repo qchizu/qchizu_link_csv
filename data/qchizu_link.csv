@@ -1400,3 +1400,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 332038,津山市統合型ＧＩＳきらきらつやまっぷ,3,都市計画参考図,https://www.gis.pref.okayama.jp/tsuyama/Map?mid=7006&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:36:45.994Z,2026-04-14T02:36:45.994Z
 332038,津山市統合型ＧＩＳきらきらつやまっぷ,4,市道認定網図,https://www.gis.pref.okayama.jp/tsuyama/Map?mid=7007&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:37:28.811Z,2026-04-14T02:37:28.811Z
 332038,津山市統合型ＧＩＳきらきらつやまっぷ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/tsuyama/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:38:42.491Z,2026-04-14T02:38:42.491Z
+332046,玉野市統合型ＧＩＳ,3,土地利用基本計画図,https://www.gis.pref.okayama.jp/tamano/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:39:56.169Z,2026-04-14T02:39:56.169Z
