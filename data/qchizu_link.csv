@@ -1485,3 +1485,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 352021,うべマップ,7,ハザードマップ（洪水・土砂災害）,https://www.sonicweb-asp.jp/ube/map?theme=th_25#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:18:04.966Z,2026-04-14T05:18:04.966Z
 352039,山口県山口市マップ,3,都市計画情報,https://www2.wagmap.jp/yamaguchi/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:20:40.781Z,2026-04-14T05:20:40.781Z
 352039,山口県山口市マップ,4,認定市道,https://www2.wagmap.jp/yamaguchi/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:21:36.659Z,2026-04-14T05:21:36.659Z
+352039,山口県山口市マップ,7,洪水・土砂ハザードマップ,https://www2.wagmap.jp/yamaguchi/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:22:14.292Z,2026-04-14T05:22:14.292Z
