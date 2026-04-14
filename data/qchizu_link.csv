@@ -1440,3 +1440,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 341002,ひろしま地図ナビ,7,土砂災害警戒区域,https://www2.wagmap.jp/hiroshimacity/Map?mid=14&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:21:26.577Z,2026-04-14T04:21:26.577Z
 342025,呉地理情報マップ,3,都市計画情報,https://www2.wagmap.jp/kurecity/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-04-14T04:23:41.434Z,2026-04-14T04:23:41.434Z
 342025,呉地理情報マップ,4,道路情報,https://www2.wagmap.jp/kurecity/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-04-14T04:24:17.679Z,2026-04-14T04:24:17.679Z
+342025,呉地理情報マップ,5,下水道情報,https://www2.wagmap.jp/kurecity/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-04-14T04:24:45.682Z,2026-04-14T04:24:45.682Z
