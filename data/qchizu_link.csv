@@ -1538,3 +1538,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 42072,なとりマップ,7,土砂災害警戒区域等指定箇所マップ,https://www2.wagmap.jp/natori/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:42:48.936Z,2026-04-14T06:42:48.936Z
 42081,角田市防災マップ（ｗｅｂ版）,7,防災マップ,https://www2.wagmap.jp/kakuda/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:54:56.768Z,2026-04-14T06:54:56.768Z
 42099,宮城県 多賀城市わが街ガイド,3,都市計画,https://www2.wagmap.jp/tagajo/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:01:38.318Z,2026-04-14T07:01:38.318Z
+42099,宮城県 多賀城市わが街ガイド,4,道路,https://www2.wagmap.jp/tagajo/Map?mid=31&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:02:03.658Z,2026-04-14T07:02:03.658Z
