@@ -1530,3 +1530,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 41009,仙台市都市計画情報インターネット提供サービス,3,都市計画情報,https://www2.wagmap.jp/sendai_tokei/Map?mid=601&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:14:48.126Z,2026-04-14T06:14:48.126Z
 41009,せんだいくらしのマップ,4,市道路線認定網図・道路台帳図,https://www2.wagmap.jp/sendaicity/Map?mid=161&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:16:19.460Z,2026-04-14T06:16:19.460Z
 41009,せんだいくらしのマップ,6,地番図（参考図）,https://www2.wagmap.jp/sendaicity/Map?mid=299&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:17:12.135Z,2026-04-14T06:17:12.135Z
+41009,せんだいくらしのマップ,7,土砂災害危険地マップ,https://www2.wagmap.jp/sendaicity/Map?mid=308&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:18:31.295Z,2026-04-14T06:18:31.295Z
