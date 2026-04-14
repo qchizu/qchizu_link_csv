@@ -1353,3 +1353,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 403423,ささぐりマップ,3,都市計画,https://www.sonicweb-asp.jp/sasaguri/map?theme=th_32#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:30:41.420Z,2026-04-09T08:30:41.420Z
 403423,ささぐりマップ,7,防災,https://www.sonicweb-asp.jp/sasaguri/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:31:09.715Z,2026-04-09T08:31:09.715Z
 403431,タウンマップしめ,3,都市計画総括図,https://town.shime.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=25,2026-04-14T01:17:59.379Z,2026-04-14T01:17:59.379Z
+403431,タウンマップしめ,7,防災マップ,https://town.shime.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=26,2026-04-14T01:18:34.954Z,2026-04-14T01:18:34.954Z
