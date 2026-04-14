@@ -1462,3 +1462,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 342106,庄原市マップ,4,道路台帳,https://www.sonicweb-asp.jp/shobara/map?theme=th_12#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:55:27.883Z,2026-04-14T04:55:27.883Z
 342106,庄原市マップ,5,下水道台帳,https://www.sonicweb-asp.jp/shobara/map?theme=th_16#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:55:46.824Z,2026-04-14T04:55:46.824Z
 342106,庄原市マップ,7,防災ハザードマップ,https://www.sonicweb-asp.jp/shobara/map?theme=th_42#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:56:09.935Z,2026-04-14T04:56:09.935Z
+342122,ひがしひろしまっぷ,2,航空写真（４時期）,https://www.sonicweb-asp.jp/higashihiroshima/map?theme=th_ortho#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:58:03.691Z,2026-04-14T04:58:03.691Z
