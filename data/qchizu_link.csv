@@ -1366,3 +1366,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 403491,かすやマップ,5,下水道台帳図,https://www.sonicweb-asp.jp/kasuya/map?theme=th_15#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T01:33:10.372Z,2026-04-14T01:33:10.372Z
 403491,かすやマップ,7,土砂災害警戒区域図,https://www.sonicweb-asp.jp/kasuya/map?theme=th_27#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T01:34:27.419Z,2026-04-14T01:34:27.419Z
 406252,みやこ町Ｗｅｂマップ,2,航空写真,https://www2.wagmap.jp/miyako/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T01:40:33.399Z,2026-04-14T01:40:33.399Z
+406252,みやこ町Ｗｅｂマップ,4,道路情報,https://www2.wagmap.jp/miyako/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T01:41:06.475Z,2026-04-14T01:41:06.475Z
