@@ -1475,3 +1475,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 343048,かいた　ひまナビ,5,下水道台帳図,https://www.sonicweb-asp.jp/kaitahimanavi/map?theme=th_24#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:06:29.582Z,2026-04-14T05:06:29.582Z
 343048,かいた　ひまナビ,7,土砂災害情報,https://www.sonicweb-asp.jp/kaitahimanavi/map?theme=th_17#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:07:03.639Z,2026-04-14T05:07:03.639Z
 350001,山口県土砂災害警戒区域等マップ,7,土砂災害警戒区域及び特別警戒区域,https://d-keikai.pref.yamaguchi.lg.jp/MapKeikai.aspx?lon={lng}&lat={lat}&z={z},2026-04-14T05:11:00.210Z,2026-04-14T05:11:00.210Z
+352012,しものせき情報マップ,3,都市計画等の情報,https://www2.wagmap.jp/shimonoseki/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:13:46.370Z,2026-04-14T05:13:46.370Z
