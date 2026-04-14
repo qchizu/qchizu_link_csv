@@ -1448,3 +1448,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 342033,たけはらマップ,7,ハザードマップ,https://webgis.alandis.jp/takehara34/webgis/index.php/autologin_jswebgis?u=guest_main&ap=jsWebGIS&m=2&li=5&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T04:28:33.769Z,2026-04-14T04:28:33.769Z
 342041,デジタルマップみはら,3,都市計画情報,https://www2.wagmap.jp/mihara/Map?mid=24&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:31:49.492Z,2026-04-14T04:31:49.492Z
 342041,デジタルマップみはら,4,道路台帳図,https://www2.wagmap.jp/mihara/Map?mid=19&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:32:12.215Z,2026-04-14T04:32:12.215Z
+342041,デジタルマップみはら,5,下水道マップ,https://www2.wagmap.jp/mihara/Map?mid=25&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:32:35.382Z,2026-04-14T04:32:35.382Z
