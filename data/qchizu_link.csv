@@ -1370,3 +1370,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 406252,みやこ町Ｗｅｂマップ,5,上・下水道情報,https://www2.wagmap.jp/miyako/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T01:41:29.303Z,2026-04-14T01:41:29.303Z
 406252,みやこ町Ｗｅｂマップ,6,地番現況図,https://www2.wagmap.jp/miyako/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T01:41:59.714Z,2026-04-14T01:41:59.714Z
 406252,みやこ町Ｗｅｂマップ,7,防災ハザードマップ,https://www2.wagmap.jp/miyako/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T01:42:48.244Z,2026-04-14T01:42:48.244Z
+406473,築上町ＧＩＳ,3,第１種区域等指定図,https://apps02.chklab.com/LG406473/ciel_public/?citycd=406473&ismapinfofromdb=true&mapindex=114132216&zoom={z}&lat={lat}&lng={lng},2026-04-14T01:46:07.078Z,2026-04-14T01:46:07.078Z
