@@ -1470,3 +1470,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 342131,廿日市市地図情報システム,3,都市計画情報,https://webgis.alandis.jp/hatsukaichi34/webgis/index.php/autologin_jswebgis?u=guest04&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T05:00:27.805Z,2026-04-14T05:00:27.805Z
 342131,廿日市市地図情報システム,4,認定路線網図,https://webgis.alandis.jp/hatsukaichi34/webgis/index.php/autologin_jswebgis?u=guest05&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T05:01:08.915Z,2026-04-14T05:01:08.915Z
 343021,府中町Ｗｅｂハザードマップ,7,土砂災害（土石流、がけ崩れ）,https://town-fuchu-webmap.jp/#{z}/{lat}/{lng}/&base=pale&ls=pale%7Chutyu_border%7Chutyu_dosya_dosekiryu%7Chutyu_dosya_gakekuzure,2026-04-14T05:04:33.817Z,2026-04-14T05:04:33.817Z
+343048,かいた　ひまナビ,3,都市計画情報,https://www.sonicweb-asp.jp/kaitahimanavi/map?theme=th_18#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:05:43.243Z,2026-04-14T05:05:43.243Z
