@@ -1473,3 +1473,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 343048,かいた　ひまナビ,3,都市計画情報,https://www.sonicweb-asp.jp/kaitahimanavi/map?theme=th_18#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:05:43.243Z,2026-04-14T05:05:43.243Z
 343048,かいた　ひまナビ,4,道路台帳情報,https://www.sonicweb-asp.jp/kaitahimanavi/map?theme=th_19#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:06:08.148Z,2026-04-14T05:06:08.148Z
 343048,かいた　ひまナビ,5,下水道台帳図,https://www.sonicweb-asp.jp/kaitahimanavi/map?theme=th_24#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:06:29.582Z,2026-04-14T05:06:29.582Z
+343048,かいた　ひまナビ,7,土砂災害情報,https://www.sonicweb-asp.jp/kaitahimanavi/map?theme=th_17#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:07:03.639Z,2026-04-14T05:07:03.639Z
