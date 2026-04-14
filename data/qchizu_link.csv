@@ -1416,3 +1416,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 332119,備前市統合型ＧＩＳ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/bizen/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:53:12.212Z,2026-04-14T02:53:12.212Z
 332143,真庭市統合型ＧＩＳ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/maniwa/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:54:40.643Z,2026-04-14T02:54:40.643Z
 332151,美作市地図情報システム,4,市道路線情報,https://www.gis.pref.okayama.jp/mimasaka/Map?mid=40004&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:55:42.520Z,2026-04-14T02:55:42.520Z
+332151,美作市地図情報システム,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/mimasaka/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:56:15.653Z,2026-04-14T02:56:15.653Z
