@@ -1482,3 +1482,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 352021,うべマップ,1,地形図,https://www.sonicweb-asp.jp/ube/map?theme=th_dm#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:16:40.357Z,2026-04-14T05:16:40.357Z
 352021,うべマップ,3,都市計画,https://www.sonicweb-asp.jp/ube/map?theme=th_10#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:16:59.722Z,2026-04-14T05:16:59.722Z
 352021,うべマップ,4,道路情報,https://www.sonicweb-asp.jp/ube/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:17:20.925Z,2026-04-14T05:17:20.925Z
+352021,うべマップ,7,ハザードマップ（洪水・土砂災害）,https://www.sonicweb-asp.jp/ube/map?theme=th_25#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:18:04.966Z,2026-04-14T05:18:04.966Z
