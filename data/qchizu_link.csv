@@ -1376,3 +1376,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 310000,とっとりジオマップ（鳥取県）,3,都市計画情報,https://pref-tottori.tottori-geomap.jp/#/?center={lng}%2F{lat}&zoom={z}&layers=6vfuyn4JtYNX,2026-04-14T01:59:23.598Z,2026-04-14T01:59:23.598Z
 310000,とっとりジオマップ（鳥取県）,7,防災情報（土砂災害警戒区、 土砂災害特別警戒区域）,https://pref-tottori.tottori-geomap.jp/#/?center={lng}%2F{lat}&zoom={z}&layers=3GGxuR,2026-04-14T02:00:46.128Z,2026-04-14T02:00:46.128Z
 310000,とっとりジオマップ（鳥取県）,8,森林情報,https://pref-tottori.tottori-geomap.jp/#/?center={lng}%2F{lat}&zoom={z}&layers=UUFStRtpTUn9bla,2026-04-14T02:01:10.594Z,2026-04-14T02:01:10.594Z
+312029,米子市地図情報システム,1,基盤地図,https://webgis.alandis.jp/yonago31/webgis/index.php/autologin_jswebgis?u=guest1&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T02:09:28.900Z,2026-04-14T02:09:28.900Z
