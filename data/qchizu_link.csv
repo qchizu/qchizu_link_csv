@@ -1574,3 +1574,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 74641,泉崎村地図情報サービス,7,ハザードマップ,https://www.mtc-service.jp/MapPocketBookPublicIzumizaki/maps.html?latitude={lat}&longitude={lng}&zoom={sonicwebZ}&groupid=2,2026-04-14T07:45:21.504Z,2026-04-14T07:45:21.504Z
 74667,矢吹タウンマップ,3,都市計画,https://www.mtc-service.jp/MapPocketBookPublicYabuki/maps.html?latitude={lat}&longitude={lng}&zoom={sonicwebZ}&groupid=4,2026-04-14T07:47:47.409Z,2026-04-14T07:47:47.409Z
 74667,矢吹タウンマップ,8,農林業,https://www.mtc-service.jp/MapPocketBookPublicYabuki/maps.html?latitude={lat}&longitude={lng}&zoom={sonicwebZ}&groupid=4,2026-04-14T07:48:38.426Z,2026-04-14T07:48:38.426Z
+74811,たなまっぷ,3,都市計画情報,https://www2.wagmap.jp/tanagura/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:49:58.206Z,2026-04-14T07:49:58.206Z
