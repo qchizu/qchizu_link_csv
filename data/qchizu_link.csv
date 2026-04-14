@@ -1569,3 +1569,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 74471,会津美里町公開型ＧＩＳ,3,都市計画図,https://www.sonicweb-asp.jp/aizumisato/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:37:53.340Z,2026-04-14T07:37:53.340Z
 74471,会津美里町公開型ＧＩＳ,4,道路網図,https://www.sonicweb-asp.jp/aizumisato/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:38:17.547Z,2026-04-14T07:38:17.547Z
 74471,会津美里町公開型ＧＩＳ,6,地番参考図,https://www.sonicweb-asp.jp/aizumisato/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:38:35.198Z,2026-04-14T07:38:35.198Z
+74471,会津美里町公開型ＧＩＳ,6,地番参考図,https://www.sonicweb-asp.jp/aizumisato/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:38:42.487Z,2026-04-14T07:38:42.487Z
