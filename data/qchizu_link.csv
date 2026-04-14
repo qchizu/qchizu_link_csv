@@ -1361,3 +1361,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 403482,ひさやまデジタルマップ,4,公開型＿道路,https://webgis.alandis.jp/hisayama40/webgis/index.php/autologin_jswebgis?u=g_road&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1,2026-04-14T01:28:06.755Z,2026-04-14T01:28:06.755Z
 403482,ひさやまデジタルマップ,5,公開型＿下水道,https://webgis.alandis.jp/hisayama40/webgis/index.php/autologin_jswebgis?u=g_sewer&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1,2026-04-14T01:28:37.878Z,2026-04-14T01:28:37.878Z
 403482,ひさやまデジタルマップ,7,公開型＿ハザードマップ,https://webgis.alandis.jp/hisayama40/webgis/index.php/autologin_jswebgis?u=g_hazard&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1,2026-04-14T01:29:17.000Z,2026-04-14T01:29:17.000Z
+403491,かすやマップ,3,都市計画規制情報,https://www.sonicweb-asp.jp/kasuya/map?theme=th_41#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T01:31:56.376Z,2026-04-14T01:31:56.376Z
