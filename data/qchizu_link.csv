@@ -1358,3 +1358,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 403458,新宮町Ｗｅｂマップ,6,字図（地番現況図）,https://www2.wagmap.jp/shingu/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T01:21:35.435Z,2026-04-14T01:21:35.435Z
 403458,新宮町Ｗｅｂマップ,7,総合ハザードマップ,https://www2.wagmap.jp/shingu/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T01:21:59.685Z,2026-04-14T01:21:59.685Z
 403482,ひさやまデジタルマップ,1,公開型＿都市計画基礎調査,https://webgis.alandis.jp/hisayama40/webgis/index.php/autologin_jswebgis?u=g_toshikiso&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1,2026-04-14T01:27:33.771Z,2026-04-14T01:27:33.771Z
+403482,ひさやまデジタルマップ,4,公開型＿道路,https://webgis.alandis.jp/hisayama40/webgis/index.php/autologin_jswebgis?u=g_road&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1,2026-04-14T01:28:06.755Z,2026-04-14T01:28:06.755Z
