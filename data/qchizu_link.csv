@@ -1553,3 +1553,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 44245,富谷・黒川地区わがまちマップ,7,防災マップ,https://www2.wagmap.jp/kurokawa/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:16:38.577Z,2026-04-14T07:16:38.577Z
 72010,ふくしまｅマップ,3,都市計画情報,https://www.sonicweb-asp.jp/fukushimacity/map?theme=th_13#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:21:43.610Z,2026-04-14T07:21:43.610Z
 72010,ふくしまｅマップ,4,市道網図,https://www.sonicweb-asp.jp/fukushimacity/map?theme=th_15#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:22:06.733Z,2026-04-14T07:22:06.733Z
+72010,ふくしまｅマップ,5,下水道計画区域,https://www.sonicweb-asp.jp/fukushimacity/map?theme=th_33#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:22:34.714Z,2026-04-14T07:22:34.714Z
