@@ -1578,3 +1578,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 74811,たなまっぷ,4,道路情報,https://www2.wagmap.jp/tanagura/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:50:15.348Z,2026-04-14T07:50:15.348Z
 74811,たなまっぷ,5,下水道情報,https://www2.wagmap.jp/tanagura/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:50:38.476Z,2026-04-14T07:50:38.476Z
 74811,たなまっぷ,6,地番図,https://www2.wagmap.jp/tanagura/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:51:17.024Z,2026-04-14T07:51:17.024Z
+74811,たなまっぷ,7,防災情報,https://www2.wagmap.jp/tanagura/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:51:54.661Z,2026-04-14T07:51:54.661Z
