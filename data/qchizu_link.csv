@@ -1441,3 +1441,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 342025,呉地理情報マップ,3,都市計画情報,https://www2.wagmap.jp/kurecity/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-04-14T04:23:41.434Z,2026-04-14T04:23:41.434Z
 342025,呉地理情報マップ,4,道路情報,https://www2.wagmap.jp/kurecity/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-04-14T04:24:17.679Z,2026-04-14T04:24:17.679Z
 342025,呉地理情報マップ,5,下水道情報,https://www2.wagmap.jp/kurecity/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=2,2026-04-14T04:24:45.682Z,2026-04-14T04:24:45.682Z
+342033,たけはらマップ,3,地形図,https://webgis.alandis.jp/takehara34/webgis/index.php/autologin_jswebgis?u=guest_main&ap=jsWebGIS&m=2&li=8&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T04:25:56.805Z,2026-04-14T04:25:56.805Z
