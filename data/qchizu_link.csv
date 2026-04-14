@@ -1556,3 +1556,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 72010,ふくしまｅマップ,5,下水道計画区域,https://www.sonicweb-asp.jp/fukushimacity/map?theme=th_33#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:22:34.714Z,2026-04-14T07:22:34.714Z
 72010,ふくしまｅマップ,6,地番参考図,https://www.sonicweb-asp.jp/fukushimacity/map?theme=th_31#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:22:48.676Z,2026-04-14T07:22:48.676Z
 72010,ふくしまｅマップ,7,各種ハザードマップ（洪水／内水／土砂災害／ため池／火山）,https://www.sonicweb-asp.jp/fukushimacity/map?theme=th_19#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:23:17.685Z,2026-04-14T07:23:17.685Z
+72036,郡山市地理情報システム,3,都市計画,https://www.sonicweb-asp.jp/koriyama2/map?theme=th_9#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:24:40.542Z,2026-04-14T07:24:40.542Z
