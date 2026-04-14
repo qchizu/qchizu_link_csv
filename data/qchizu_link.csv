@@ -1378,3 +1378,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 310000,とっとりジオマップ（鳥取県）,8,森林情報,https://pref-tottori.tottori-geomap.jp/#/?center={lng}%2F{lat}&zoom={z}&layers=UUFStRtpTUn9bla,2026-04-14T02:01:10.594Z,2026-04-14T02:01:10.594Z
 312029,米子市地図情報システム,1,基盤地図,https://webgis.alandis.jp/yonago31/webgis/index.php/autologin_jswebgis?u=guest1&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T02:09:28.900Z,2026-04-14T02:09:28.900Z
 312029,米子市地図情報システム,3,都市計画図,https://webgis.alandis.jp/yonago31/webgis/index.php/autologin_jswebgis?u=guest6&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T02:09:56.080Z,2026-04-14T02:09:56.080Z
+312029,米子市地図情報システム,4,道路台帳,https://webgis.alandis.jp/yonago31/webgis/index.php/autologin_jswebgis?u=guest3&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T02:10:24.636Z,2026-04-14T02:10:24.636Z
