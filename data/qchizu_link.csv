@@ -1466,3 +1466,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 342122,ひがしひろしまっぷ,3,都市計画,https://www.sonicweb-asp.jp/higashihiroshima/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:58:25.124Z,2026-04-14T04:58:25.124Z
 342122,ひがしひろしまっぷ,4,道路・河川,https://www.sonicweb-asp.jp/higashihiroshima/map?theme=th_61#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:58:56.065Z,2026-04-14T04:58:56.065Z
 342122,ひがしひろしまっぷ,5,下水道,https://www.sonicweb-asp.jp/higashihiroshima/map?theme=th_29#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:59:16.459Z,2026-04-14T04:59:16.459Z
+342122,ひがしひろしまっぷ,7,ハザードマップ,https://www.sonicweb-asp.jp/higashihiroshima/map?theme=th_20#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:59:49.058Z,2026-04-14T04:59:49.058Z
