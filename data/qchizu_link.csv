@@ -1409,3 +1409,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 332071,井原市統合型ＧＩＳ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/ibara/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:45:11.219Z,2026-04-14T02:45:11.219Z
 332089,総社市統合型ＧＩＳ,2,航空写真（昭和４４年）,https://www.gis.pref.okayama.jp/soja/Map?mid=220000&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:46:36.433Z,2026-04-14T02:46:36.433Z
 332089,総社市統合型ＧＩＳ,3,都市計画参考図,https://www.gis.pref.okayama.jp/soja/Map?mid=7104&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:47:05.352Z,2026-04-14T02:47:05.352Z
+332089,総社市統合型ＧＩＳ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/soja/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:48:05.797Z,2026-04-14T02:48:05.797Z
