@@ -1506,3 +1506,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 352128,柳井市地図情報サイト　ＹＡＮＡＶＩ（ヤナビ）,6,地番参考図,https://www.sonicweb-asp.jp/yanai/map?theme=th_14#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:40:49.610Z,2026-04-14T05:40:49.610Z
 352136,みね情報マップ,3,都市計画情報,https://www2.wagmap.jp/minecity/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-14T05:42:46.716Z,2026-04-14T05:42:46.716Z
 352136,みね情報マップ,5,水道情報,https://www2.wagmap.jp/minecity/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-14T05:43:03.805Z,2026-04-14T05:43:03.805Z
+352136,みね情報マップ,7,災害情報,https://www2.wagmap.jp/minecity/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-14T05:43:33.433Z,2026-04-14T05:43:33.433Z
