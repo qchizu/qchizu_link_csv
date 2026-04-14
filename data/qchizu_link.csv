@@ -1388,3 +1388,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 313718,琴浦町公開マップ,7,防災マップ,https://apps02.chklab.com/LG313718/ciel_public/?citycd=313718&ismapinfofromdb=true&mapindex=73260528&zoom={z}&lat={lat}&lng={lng},2026-04-14T02:19:13.316Z,2026-04-14T02:19:13.316Z
 313718,琴浦町公開マップ,8,森林マップ,https://apps02.chklab.com/LG313718/ciel_public/?citycd=313718&ismapinfofromdb=true&mapindex=86315616&zoom={z}&lat={lat}&lng={lng},2026-04-14T02:19:37.798Z,2026-04-14T02:19:37.798Z
 330001,おかやま全県統合型ＧＩＳ,3,土地利用基本計画図,https://www.gis.pref.okayama.jp/pref-okayama/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:25:33.418Z,2026-04-14T02:25:33.418Z
+330001,おかやま全県統合型ＧＩＳ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/pref-okayama/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:26:40.095Z,2026-04-14T02:26:40.095Z
