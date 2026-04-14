@@ -1397,3 +1397,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 332020,倉敷市統合型ＧＩＳ,4,倉敷市認定路線網図および道路台帳図,https://www.gis.pref.okayama.jp/kurashiki/Map?mid=2062&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:34:01.832Z,2026-04-14T02:34:01.832Z
 332020,倉敷市統合型ＧＩＳ,5,倉敷市下水道管路図,https://www.gis.pref.okayama.jp/kurashiki/Map?mid=70003&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:34:45.646Z,2026-04-14T02:34:45.646Z
 332020,倉敷市統合型ＧＩＳ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/kurashiki/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:35:20.887Z,2026-04-14T02:35:20.887Z
+332038,津山市統合型ＧＩＳきらきらつやまっぷ,3,都市計画参考図,https://www.gis.pref.okayama.jp/tsuyama/Map?mid=7006&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:36:45.994Z,2026-04-14T02:36:45.994Z
