@@ -1479,3 +1479,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 352012,しものせき情報マップ,4,道路情報,https://www2.wagmap.jp/shimonoseki/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:14:12.559Z,2026-04-14T05:14:12.559Z
 352012,しものせき情報マップ,5,下水道情報,https://www2.wagmap.jp/shimonoseki/Map?mid=14&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:14:55.642Z,2026-04-14T05:14:55.642Z
 352012,しものせき情報マップ,7,土砂災害（特別）警戒区域図,https://www2.wagmap.jp/shimonoseki/Map?mid=24&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:15:48.439Z,2026-04-14T05:15:48.439Z
+352021,うべマップ,1,地形図,https://www.sonicweb-asp.jp/ube/map?theme=th_dm#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:16:40.357Z,2026-04-14T05:16:40.357Z
