@@ -1542,3 +1542,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 42099,宮城県 多賀城市わが街ガイド,5,下水道台帳（汚水）マップ,https://www2.wagmap.jp/tagajo/Map?mid=102&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:02:34.930Z,2026-04-14T07:02:34.930Z
 42099,宮城県 多賀城市わが街ガイド,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/tagajo/Map?mid=105&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:03:06.991Z,2026-04-14T07:03:06.991Z
 42137,栗原市わが街ガイド,3,都市計画情報マップ,https://www2.wagmap.jp/kurihara/Map?mid=1101&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:05:05.354Z,2026-04-14T07:05:05.354Z
+42137,栗原市わが街ガイド,7,土砂災害ハザードマップ,https://www2.wagmap.jp/kurihara/Map?mid=702&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:05:30.486Z,2026-04-14T07:05:30.486Z
