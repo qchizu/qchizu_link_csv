@@ -1373,3 +1373,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 406473,築上町ＧＩＳ,3,第１種区域等指定図,https://apps02.chklab.com/LG406473/ciel_public/?citycd=406473&ismapinfofromdb=true&mapindex=114132216&zoom={z}&lat={lat}&lng={lng},2026-04-14T01:46:07.078Z,2026-04-14T01:46:07.078Z
 406473,築上町ＧＩＳ,6,地番参考図,https://apps02.chklab.com/LG406473/ciel_public/?citycd=406473&ismapinfofromdb=true&mapindex=10283021&zoom={z}&lat={lat}&lng={lng},2026-04-14T01:46:42.150Z,2026-04-14T01:46:42.150Z
 406473,築上町ＧＩＳ,7,土砂災害マップ,https://apps02.chklab.com/LG406473/ciel_public/?citycd=406473&ismapinfofromdb=true&mapindex=88941047&zoom={z}&lat={lat}&lng={lng},2026-04-14T01:47:14.637Z,2026-04-14T01:47:14.637Z
+310000,とっとりジオマップ（鳥取県）,3,都市計画情報,https://pref-tottori.tottori-geomap.jp/#/?center={lng}%2F{lat}&zoom={z}&layers=6vfuyn4JtYNX,2026-04-14T01:59:23.598Z,2026-04-14T01:59:23.598Z
