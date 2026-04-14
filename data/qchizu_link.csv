@@ -1550,3 +1550,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 44211,富谷・黒川地区わがまちマップ,3,都市計画図,https://www2.wagmap.jp/kurokawa/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:14:40.419Z,2026-04-14T07:14:40.419Z
 44211,富谷・黒川地区わがまちマップ,7,防災マップ,https://www2.wagmap.jp/kurokawa/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:15:03.065Z,2026-04-14T07:15:03.065Z
 44229,富谷・黒川地区わがまちマップ,7,防災マップ,https://www2.wagmap.jp/kurokawa/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:16:08.589Z,2026-04-14T07:16:08.589Z
+44245,富谷・黒川地区わがまちマップ,7,防災マップ,https://www2.wagmap.jp/kurokawa/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:16:38.577Z,2026-04-14T07:16:38.577Z
