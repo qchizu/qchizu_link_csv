@@ -1564,3 +1564,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 72044,いわきｉマップ,4,市道路線認定網図情報,https://www.sonicweb-asp.jp/iwaki/map?theme=th_4#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:27:56.048Z,2026-04-14T07:27:56.048Z
 72079,須賀川市地図情報システム,3,都市計画情報,https://www.sonicweb-asp.jp/sukagawa/map?theme=th_4#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:28:58.597Z,2026-04-14T07:28:58.597Z
 72079,須賀川市地図情報システム,4,道路網図,https://www.sonicweb-asp.jp/sukagawa/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:29:19.792Z,2026-04-14T07:29:19.792Z
+72079,須賀川市地図情報システム,7,ハザードマップ,https://www.sonicweb-asp.jp/sukagawa/map?theme=th_22#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:29:36.370Z,2026-04-14T07:29:36.370Z
