@@ -1513,3 +1513,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 352152,しゅうなんデジタルまっぷ,4,市道情報,https://webgis.alandis.jp/shunan35/webgis/index.php/autologin_jswebgis?u=guest_road&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1,2026-04-14T05:46:31.946Z,2026-04-14T05:46:31.946Z
 352152,しゅうなんデジタルまっぷ,6,地番参考図,https://webgis.alandis.jp/shunan35/webgis/index.php/autologin_jswebgis?u=guest_chiban&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1,2026-04-14T05:47:10.216Z,2026-04-14T05:47:10.216Z
 352152,しゅうなんデジタルまっぷ,7,ハザード情報,https://webgis.alandis.jp/shunan35/webgis/index.php/autologin_jswebgis?u=guest_hazard&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1,2026-04-14T05:47:52.995Z,2026-04-14T05:47:52.995Z
+352161,山陽小野田市　Ｗｅｂマップ,3,都市計画情報,https://www.sonicweb-asp.jp/sanyo-onoda/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:50:05.514Z,2026-04-14T05:50:05.514Z
