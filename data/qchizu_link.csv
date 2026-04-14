@@ -30,7 +30,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 380008,愛媛県都市計画情報,3,都市計画情報,https://www.pref.ehime.jp/h40800/johomap/index.html#{z}/{lat}/{lng}/&base=std&ls=std&disp=1&vs=c1j0h0k0l0u0t0z0r0s0m0f1&d=m,2024-11-10T06:34:55.333Z,2024-11-10T06:34:55.333Z
 412023,唐津デジタルマップ,6,地番参考図,https://www.sonicweb-asp.jp/karatsu/map?pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_2,2024-11-10T07:00:46.984Z,2024-11-10T07:00:46.984Z
 442046,日田市Ｗｅｂマップ,4,道路情報マップ,https://www2.wagmap.jp/hita/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=doro&gprj=3,2024-11-17T12:29:19.031Z,2024-11-17T12:29:19.031Z
-32018,もりおか便利マップ,4,道路情報,https://www2.wagmap.jp/morioka/Map?mid=4&&mpx={lng}&mpy={lat}&mps={wagmapZ}&mtp=dm&gprj=3,2024-11-30T12:41:21.654Z,2024-11-30T12:41:21.654Z
+32018,もりおか便利マップ,4,道路情報,https://www2.wagmap.jp/morioka/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T08:10:55.403Z,2026-04-14T08:10:55.403Z
 402249,福津市地図サービス,5,下水道,https://www.sonicweb-asp.jp/fukutsu2/map?theme=th_20#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:25:33.472Z,2026-04-09T08:25:33.472Z
 82163,笠間市地理情報システム,3,都市計画用途地域図,https://www2.wagmap.jp/kasamacity/Map?mid=104&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:47:42.074Z,2026-03-27T01:47:42.074Z
 80004,いばらきデジタルまっぷ,8,森林計画図（茨城県）,https://www2.wagmap.jp/ibaraki/Map?mid=87&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-03-27T01:45:20.613Z,2026-03-27T01:45:20.613Z
@@ -1587,3 +1587,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 30007,いわてデジタルマップ,8,森林資源,https://www.sonicweb-asp.jp/iwate/map?theme=th_163#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T08:07:51.752Z,2026-04-14T08:07:51.752Z
 30007,もりおか便利マップ,3,土地情報,https://www2.wagmap.jp/morioka/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T08:09:50.554Z,2026-04-14T08:09:50.554Z
 32018,もりおか便利マップ,3,土地情報,https://www2.wagmap.jp/morioka/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T08:10:31.022Z,2026-04-14T08:10:31.022Z
+32018,もりおか便利マップ,7,洪水・土砂災害等ハザードマップ,https://www2.wagmap.jp/morioka/Map?mid=21&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T08:11:25.245Z,2026-04-14T08:11:25.245Z
