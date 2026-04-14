@@ -1424,3 +1424,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 334235,早島町統合型ＧＩＳ,4,認定路線網図,https://www.gis.pref.okayama.jp/hayashima/Map?mid=202&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:05:36.693Z,2026-04-14T04:05:36.693Z
 334235,早島町統合型ＧＩＳ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/hayashima/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:06:29.588Z,2026-04-14T04:06:29.588Z
 334618,矢掛町統合型ＧＩＳ,3,都市計画情報関連,https://www.gis.pref.okayama.jp/yakage/Map?mid=8005&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:07:54.864Z,2026-04-14T04:07:54.864Z
+334618,矢掛町統合型ＧＩＳ,4,道路情報関連,https://www.gis.pref.okayama.jp/yakage/Map?mid=85000&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:08:30.031Z,2026-04-14T04:08:30.031Z
