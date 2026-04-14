@@ -1489,3 +1489,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 352063,山口県防府市マップ,3,都市計画等情報,https://www2.wagmap.jp/hofu/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:24:12.901Z,2026-04-14T05:24:12.901Z
 352063,山口県防府市マップ,4,道路情報,https://www2.wagmap.jp/hofu/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:25:07.829Z,2026-04-14T05:25:07.829Z
 352063,山口県防府市マップ,7,防災情報,https://www2.wagmap.jp/hofu/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:25:50.512Z,2026-04-14T05:25:50.512Z
+352071,くだまつデジタルマップ,3,都市計画図,https://www.sonicweb-asp.jp/kudamatsu/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:27:23.797Z,2026-04-14T05:27:23.797Z
