@@ -1527,3 +1527,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 322041,益田市地図情報システム,7,ハザードマップ,https://webgis.alandis.jp/masuda32/webgis/index.php/autologin_jswebgis?u=guest_hazard&li=3&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T06:02:46.884Z,2026-04-14T06:02:46.884Z
 322041,益田市地図情報システム,8,林地台帳地図,https://webgis.alandis.jp/masuda32/webgis/index.php/autologin_jswebgis?u=guest_rinchidaicho&li=3&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T06:03:20.694Z,2026-04-14T06:03:20.694Z
 323438,奥出雲町ハザードマップ,7,奥出雲町ハザードマップ,https://www.town.okuizumo.shimane.jp/qgis2web/#{z}/{lat}/{lng},2026-04-14T06:07:27.865Z,2026-04-14T06:07:27.865Z
+41009,仙台市都市計画情報インターネット提供サービス,3,都市計画情報,https://www2.wagmap.jp/sendai_tokei/Map?mid=601&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:14:48.126Z,2026-04-14T06:14:48.126Z
