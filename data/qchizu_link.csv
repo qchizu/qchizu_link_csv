@@ -1502,3 +1502,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 352101,ひかりピカピカマップ,7,ハザードマップ,https://webgis.alandis.jp/hikari35/webgis/index.php/autologin_jswebgis?u=bousai&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T05:35:32.352Z,2026-04-14T05:35:32.352Z
 352128,柳井市地図情報サイト　ＹＡＮＡＶＩ（ヤナビ）,3,都市計画,https://www.sonicweb-asp.jp/yanai/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:39:01.397Z,2026-04-14T05:39:01.397Z
 352128,柳井市地図情報サイト　ＹＡＮＡＶＩ（ヤナビ）,4,市道認定路線網図,https://www.sonicweb-asp.jp/yanai/map?theme=th_13#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:39:35.970Z,2026-04-14T05:39:35.970Z
+352128,柳井市地図情報サイト　ＹＡＮＡＶＩ（ヤナビ）,7,ハザードマップ（洪水・土砂災害）,https://www.sonicweb-asp.jp/yanai/map?theme=th_15#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:40:15.189Z,2026-04-14T05:40:15.189Z
