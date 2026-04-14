@@ -1495,3 +1495,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 352071,くだまつデジタルマップ,6,地番参考図,https://www.sonicweb-asp.jp/kudamatsu/map?theme=th_56#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:28:39.757Z,2026-04-14T05:28:39.757Z
 352071,くだまつデジタルマップ,7,洪水・土砂災害ハザードマップ,https://www.sonicweb-asp.jp/kudamatsu/map?theme=th_21#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:29:04.515Z,2026-04-14T05:29:04.515Z
 352080,いわくにマップ,3,都市計画情報,https://www2.wagmap.jp/iwakuni/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:30:54.058Z,2026-04-14T05:30:54.058Z
+352080,いわくにマップ,4,道路情報,https://www2.wagmap.jp/iwakuni/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:31:30.429Z,2026-04-14T05:31:30.429Z
