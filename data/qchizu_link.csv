@@ -1560,3 +1560,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 72036,郡山市地理情報システム,4,道路台帳図,https://www.sonicweb-asp.jp/koriyama2/map?theme=th_2005#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:25:02.152Z,2026-04-14T07:25:02.152Z
 72036,郡山市地理情報システム,5,下水道台帳図,https://www.sonicweb-asp.jp/koriyama2/map?theme=th_55#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:25:20.345Z,2026-04-14T07:25:20.345Z
 72036,郡山市地理情報システム,6,地番参考図,https://www.sonicweb-asp.jp/koriyama2/map?theme=th_18#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:25:46.546Z,2026-04-14T07:25:46.546Z
+72036,郡山市地理情報システム,7,土砂災害（特別）警戒区域,https://www.sonicweb-asp.jp/koriyama2/map?theme=th_21#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T07:26:12.909Z,2026-04-14T07:26:12.909Z
