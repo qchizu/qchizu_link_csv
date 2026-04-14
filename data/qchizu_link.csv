@@ -1588,3 +1588,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 30007,もりおか便利マップ,3,土地情報,https://www2.wagmap.jp/morioka/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T08:09:50.554Z,2026-04-14T08:09:50.554Z
 32018,もりおか便利マップ,3,土地情報,https://www2.wagmap.jp/morioka/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T08:10:31.022Z,2026-04-14T08:10:31.022Z
 32018,もりおか便利マップ,7,洪水・土砂災害等ハザードマップ,https://www2.wagmap.jp/morioka/Map?mid=21&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T08:11:25.245Z,2026-04-14T08:11:25.245Z
+32026,みやこｉマップ,1,背景（地形図（Ｒ０６））,https://www.sonicweb-asp.jp/miyako/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=dm_r06,2026-04-14T08:12:45.559Z,2026-04-14T08:12:45.559Z
