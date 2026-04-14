@@ -1430,3 +1430,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 336220,勝央町統合型ＧＩＳ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/shoo/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:11:47.249Z,2026-04-14T04:11:47.249Z
 336238,奈義町統合型ＧＩＳ,4,奈義町道路網図,https://www.gis.pref.okayama.jp/nagi/Map?mid=368&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:13:03.375Z,2026-04-14T04:13:03.375Z
 336238,奈義町統合型ＧＩＳ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/nagi/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:13:34.273Z,2026-04-14T04:13:34.273Z
+336637,久米南町統合型ＧＩＳ,4,路線網図,https://www.gis.pref.okayama.jp/kumenan/Map?mid=80003&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:15:18.905Z,2026-04-14T04:15:18.905Z
