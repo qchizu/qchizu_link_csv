@@ -1455,3 +1455,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 342076,ふくやまっぷ,4,道路台帳,https://www.sonicweb-asp.jp/fukuyama/map?theme=th_17#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:37:04.935Z,2026-04-14T04:37:04.935Z
 342076,ふくやまっぷ,5,下水道管路図,https://www.sonicweb-asp.jp/fukuyama/map?theme=th_29#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:37:24.677Z,2026-04-14T04:37:24.677Z
 342084,備後府中マップ,1,白図,https://webgis.alandis.jp/fuchu34/webgis/index.php/autologin_jswebgis?u=guest02&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T04:50:59.941Z,2026-04-14T04:50:59.941Z
+342084,備後府中マップ,3,都市計画図（用途地域等）,https://webgis.alandis.jp/fuchu34/webgis/index.php/autologin_jswebgis?u=guest10&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T04:52:09.909Z,2026-04-14T04:52:09.909Z
