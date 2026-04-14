@@ -1393,3 +1393,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 331007,岡山市地図情報,4,認定路線網図・道路台帳図マップ,https://www.gis.pref.okayama.jp/okayamacity/Map?mid=8018&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:29:11.021Z,2026-04-14T02:29:11.021Z
 331007,岡山市地図情報,5,岡山市公共下水道等管路台帳マップ,https://www.gis.pref.okayama.jp/okayamacity/Map?mid=80000&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:29:35.275Z,2026-04-14T02:29:35.275Z
 332020,倉敷市統合型ＧＩＳ,1,都市計画参考図（白図）,https://www.gis.pref.okayama.jp/kurashiki/Map?mid=2081&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:32:48.504Z,2026-04-14T02:32:48.504Z
+332020,倉敷市統合型ＧＩＳ,3,都市計画参考図,https://www.gis.pref.okayama.jp/kurashiki/Map?mid=2063&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:33:35.375Z,2026-04-14T02:33:35.375Z
