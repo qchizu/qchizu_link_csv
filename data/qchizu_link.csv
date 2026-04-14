@@ -1536,3 +1536,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 42072,なとりマップ,1,道路網図マップ（Ｒ７．３．３１現在）,https://www2.wagmap.jp/natori/Map?mid=35&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:40:57.039Z,2026-04-14T06:40:57.039Z
 42072,なとりマップ,4,道路網図マップ（Ｒ７．３．３１現在）,https://www2.wagmap.jp/natori/Map?mid=35&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:42:09.440Z,2026-04-14T06:42:09.440Z
 42072,なとりマップ,7,土砂災害警戒区域等指定箇所マップ,https://www2.wagmap.jp/natori/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:42:48.936Z,2026-04-14T06:42:48.936Z
+42081,角田市防災マップ（ｗｅｂ版）,7,防災マップ,https://www2.wagmap.jp/kakuda/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:54:56.768Z,2026-04-14T06:54:56.768Z
