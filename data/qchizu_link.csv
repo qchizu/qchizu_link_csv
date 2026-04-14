@@ -1493,3 +1493,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 352071,くだまつデジタルマップ,4,道路台帳図,https://www.sonicweb-asp.jp/kudamatsu/map?theme=th_14#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:27:44.011Z,2026-04-14T05:27:44.011Z
 352071,くだまつデジタルマップ,5,下水道台帳,https://www.sonicweb-asp.jp/kudamatsu/map?theme=th_15#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:28:21.685Z,2026-04-14T05:28:21.685Z
 352071,くだまつデジタルマップ,6,地番参考図,https://www.sonicweb-asp.jp/kudamatsu/map?theme=th_56#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:28:39.757Z,2026-04-14T05:28:39.757Z
+352071,くだまつデジタルマップ,7,洪水・土砂災害ハザードマップ,https://www.sonicweb-asp.jp/kudamatsu/map?theme=th_21#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:29:04.515Z,2026-04-14T05:29:04.515Z
