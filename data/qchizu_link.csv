@@ -1452,3 +1452,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 342041,デジタルマップみはら,7,土砂災害ハザードマップ,https://www2.wagmap.jp/mihara/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:33:16.489Z,2026-04-14T04:33:16.489Z
 342076,ふくやまっぷ,1,地形図,https://www.sonicweb-asp.jp/fukuyama/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:36:23.135Z,2026-04-14T04:36:23.135Z
 342076,ふくやまっぷ,3,都市計画,https://www.sonicweb-asp.jp/fukuyama/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:36:48.332Z,2026-04-14T04:36:48.332Z
+342076,ふくやまっぷ,4,道路台帳,https://www.sonicweb-asp.jp/fukuyama/map?theme=th_17#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:37:04.935Z,2026-04-14T04:37:04.935Z
