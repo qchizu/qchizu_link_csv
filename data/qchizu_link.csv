@@ -1461,3 +1461,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 342106,庄原市マップ,3,都市計画情報,https://www.sonicweb-asp.jp/shobara/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:55:06.429Z,2026-04-14T04:55:06.429Z
 342106,庄原市マップ,4,道路台帳,https://www.sonicweb-asp.jp/shobara/map?theme=th_12#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:55:27.883Z,2026-04-14T04:55:27.883Z
 342106,庄原市マップ,5,下水道台帳,https://www.sonicweb-asp.jp/shobara/map?theme=th_16#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:55:46.824Z,2026-04-14T04:55:46.824Z
+342106,庄原市マップ,7,防災ハザードマップ,https://www.sonicweb-asp.jp/shobara/map?theme=th_42#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:56:09.935Z,2026-04-14T04:56:09.935Z
