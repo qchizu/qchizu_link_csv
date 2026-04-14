@@ -1434,3 +1434,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 336661,美咲町統合型ＧＩＳ,4,美咲町道路網図マップ,https://www.gis.pref.okayama.jp/misaki/Map?mid=21000&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:16:25.710Z,2026-04-14T04:16:25.710Z
 336661,美咲町統合型ＧＩＳ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/misaki/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:16:48.985Z,2026-04-14T04:16:48.985Z
 336815,吉備中央町統合型ＧＩＳ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/kibichuo/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:17:37.350Z,2026-04-14T04:17:37.350Z
+341002,ひろしま地図ナビ,3,都市計画情報,https://www2.wagmap.jp/hiroshimacity/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T04:20:06.968Z,2026-04-14T04:20:06.968Z
