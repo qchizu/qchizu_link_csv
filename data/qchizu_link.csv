@@ -1534,3 +1534,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 42021,石巻まちづくりマップ,3,都市計画情報マップ,https://www2.wagmap.jp/ishinomaki/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:29:21.262Z,2026-04-14T06:29:21.262Z
 42021,石巻まちづくりマップ,7,洪水ハザードマップ,https://www2.wagmap.jp/ishinomaki/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:33:59.748Z,2026-04-14T06:33:59.748Z
 42072,なとりマップ,1,道路網図マップ（Ｒ７．３．３１現在）,https://www2.wagmap.jp/natori/Map?mid=35&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:40:57.039Z,2026-04-14T06:40:57.039Z
+42072,なとりマップ,4,道路網図マップ（Ｒ７．３．３１現在）,https://www2.wagmap.jp/natori/Map?mid=35&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T06:42:09.440Z,2026-04-14T06:42:09.440Z
