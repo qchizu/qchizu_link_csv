@@ -1468,3 +1468,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 342122,ひがしひろしまっぷ,5,下水道,https://www.sonicweb-asp.jp/higashihiroshima/map?theme=th_29#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:59:16.459Z,2026-04-14T04:59:16.459Z
 342122,ひがしひろしまっぷ,7,ハザードマップ,https://www.sonicweb-asp.jp/higashihiroshima/map?theme=th_20#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T04:59:49.058Z,2026-04-14T04:59:49.058Z
 342131,廿日市市地図情報システム,3,都市計画情報,https://webgis.alandis.jp/hatsukaichi34/webgis/index.php/autologin_jswebgis?u=guest04&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T05:00:27.805Z,2026-04-14T05:00:27.805Z
+342131,廿日市市地図情報システム,4,認定路線網図,https://webgis.alandis.jp/hatsukaichi34/webgis/index.php/autologin_jswebgis?u=guest05&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-14T05:01:08.915Z,2026-04-14T05:01:08.915Z
