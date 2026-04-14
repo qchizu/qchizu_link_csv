@@ -1352,3 +1352,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 402303,糸島市Ｗｅｂマップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/itoshima/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-09T08:29:35.600Z,2026-04-09T08:29:35.600Z
 403423,ささぐりマップ,3,都市計画,https://www.sonicweb-asp.jp/sasaguri/map?theme=th_32#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:30:41.420Z,2026-04-09T08:30:41.420Z
 403423,ささぐりマップ,7,防災,https://www.sonicweb-asp.jp/sasaguri/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-09T08:31:09.715Z,2026-04-09T08:31:09.715Z
+403431,タウンマップしめ,3,都市計画総括図,https://town.shime.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=25,2026-04-14T01:17:59.379Z,2026-04-14T01:17:59.379Z
