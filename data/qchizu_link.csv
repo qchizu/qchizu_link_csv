@@ -1581,3 +1581,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 74811,たなまっぷ,7,防災情報,https://www2.wagmap.jp/tanagura/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T07:51:54.661Z,2026-04-14T07:51:54.661Z
 75477,わが街ガイド浪江,3,都市計画関連情報,https://www2.wagmap.jp/namie/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T08:01:32.230Z,2026-04-14T08:01:32.230Z
 75477,わが街ガイド浪江,4,道路情報,https://www2.wagmap.jp/namie/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T08:01:54.038Z,2026-04-14T08:01:54.038Z
+75477,わが街ガイド浪江,7,防災情報,https://www2.wagmap.jp/namie/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T08:02:16.519Z,2026-04-14T08:02:16.519Z
