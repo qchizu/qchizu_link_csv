@@ -1486,3 +1486,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 352039,山口県山口市マップ,3,都市計画情報,https://www2.wagmap.jp/yamaguchi/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:20:40.781Z,2026-04-14T05:20:40.781Z
 352039,山口県山口市マップ,4,認定市道,https://www2.wagmap.jp/yamaguchi/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:21:36.659Z,2026-04-14T05:21:36.659Z
 352039,山口県山口市マップ,7,洪水・土砂ハザードマップ,https://www2.wagmap.jp/yamaguchi/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:22:14.292Z,2026-04-14T05:22:14.292Z
+352063,山口県防府市マップ,3,都市計画等情報,https://www2.wagmap.jp/hofu/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T05:24:12.901Z,2026-04-14T05:24:12.901Z
