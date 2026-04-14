@@ -1414,3 +1414,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 332101,新見まちかどマップ,4,道路情報マップ,https://www.gis.pref.okayama.jp/niimi/Map?mid=311&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:50:28.587Z,2026-04-14T02:50:28.587Z
 332101,新見まちかどマップ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/niimi/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:51:03.692Z,2026-04-14T02:51:03.692Z
 332119,備前市統合型ＧＩＳ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/bizen/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:53:12.212Z,2026-04-14T02:53:12.212Z
+332143,真庭市統合型ＧＩＳ,7,土砂災害警戒区域・特別警戒区域情報,https://www.gis.pref.okayama.jp/maniwa/Map?mid=5002&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-14T02:54:40.643Z,2026-04-14T02:54:40.643Z
