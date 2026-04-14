@@ -1472,3 +1472,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 343021,府中町Ｗｅｂハザードマップ,7,土砂災害（土石流、がけ崩れ）,https://town-fuchu-webmap.jp/#{z}/{lat}/{lng}/&base=pale&ls=pale%7Chutyu_border%7Chutyu_dosya_dosekiryu%7Chutyu_dosya_gakekuzure,2026-04-14T05:04:33.817Z,2026-04-14T05:04:33.817Z
 343048,かいた　ひまナビ,3,都市計画情報,https://www.sonicweb-asp.jp/kaitahimanavi/map?theme=th_18#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:05:43.243Z,2026-04-14T05:05:43.243Z
 343048,かいた　ひまナビ,4,道路台帳情報,https://www.sonicweb-asp.jp/kaitahimanavi/map?theme=th_19#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:06:08.148Z,2026-04-14T05:06:08.148Z
+343048,かいた　ひまナビ,5,下水道台帳図,https://www.sonicweb-asp.jp/kaitahimanavi/map?theme=th_24#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T05:06:29.582Z,2026-04-14T05:06:29.582Z
