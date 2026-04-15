@@ -1595,3 +1595,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 12246,ちとせまるごとマップ,3,まちづくり,https://www2.wagmap.jp/chitose/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-15T00:25:18.309Z,2026-04-15T00:25:18.309Z
 12246,ちとせまるごとマップ,4,道路台帳図,https://www2.wagmap.jp/chitose/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-15T00:25:56.541Z,2026-04-15T00:25:56.541Z
 12246,ちとせまるごとマップ,6,地番図,https://www2.wagmap.jp/chitose/Map?mid=204&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-15T00:26:30.824Z,2026-04-15T00:26:30.824Z
+12246,ちとせまるごとマップ,7,防災情報,https://www2.wagmap.jp/chitose/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-15T00:26:57.824Z,2026-04-15T00:26:57.824Z
