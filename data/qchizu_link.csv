@@ -1594,3 +1594,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 32034,大船渡市地理情報システム,3,都市計画マップ,https://www.sonicweb-asp.jp/ofunato/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T08:15:13.577Z,2026-04-14T08:15:13.577Z
 12246,ちとせまるごとマップ,3,まちづくり,https://www2.wagmap.jp/chitose/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-15T00:25:18.309Z,2026-04-15T00:25:18.309Z
 12246,ちとせまるごとマップ,4,道路台帳図,https://www2.wagmap.jp/chitose/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-15T00:25:56.541Z,2026-04-15T00:25:56.541Z
+12246,ちとせまるごとマップ,6,地番図,https://www2.wagmap.jp/chitose/Map?mid=204&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-15T00:26:30.824Z,2026-04-15T00:26:30.824Z
