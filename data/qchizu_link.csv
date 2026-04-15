@@ -1592,3 +1592,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 32026,みやこｉマップ,2,背景（航空写真）,https://www.sonicweb-asp.jp/miyako/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=ortho,2026-04-14T08:13:14.508Z,2026-04-14T08:13:14.508Z
 32026,みやこｉマップ,3,都市計画決定情報,https://www.sonicweb-asp.jp/miyako/map?theme=th_6#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T08:13:32.668Z,2026-04-14T08:13:32.668Z
 32034,大船渡市地理情報システム,3,都市計画マップ,https://www.sonicweb-asp.jp/ofunato/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-14T08:15:13.577Z,2026-04-14T08:15:13.577Z
+12246,ちとせまるごとマップ,3,まちづくり,https://www2.wagmap.jp/chitose/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-15T00:25:18.309Z,2026-04-15T00:25:18.309Z
