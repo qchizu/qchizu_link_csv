@@ -1627,3 +1627,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 20001,青森市地理情報公開サービス「あおまっぷ」,4,道路台帳図マップ,https://www2.wagmap.jp/aomoricity/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:43:36.467Z,2026-04-16T04:43:36.467Z
 20001,青森市地理情報公開サービス「あおまっぷ」,5,受益者負担金情報,https://www2.wagmap.jp/aomoricity/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:47:05.656Z,2026-04-16T04:47:05.656Z
 20001,青森市地理情報公開サービス「あおまっぷ」,7,土砂災害ハザードマップ,https://www2.wagmap.jp/aomoricity/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:47:30.032Z,2026-04-16T04:47:30.032Z
+22080,むつ市都市計画マップ（Ｇｏｏｇｌｅマイマップ）,3,都市計画マップ,https://www.google.com/maps/d/viewer?mid=1Dg9Zl-3AP3xRpcGdvHvUGcc0bx41GDQ&ll={lat}%2C{lng}&z={z},2026-04-16T04:51:07.863Z,2026-04-16T04:51:07.863Z
