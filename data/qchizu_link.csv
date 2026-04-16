@@ -1661,3 +1661,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 422053,おおむらマップ,3,都市計画,https://webgis.alandis.jp/omura42/webgis/index.php/autologin_jswebgis?u=guest&ap=jsWebGIS&m=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=2&si=0,2026-04-16T05:54:27.890Z,2026-04-16T05:54:27.890Z
 422053,おおむらマップ,4,道路,https://webgis.alandis.jp/omura42/webgis/index.php/autologin_jswebgis?u=guest&ap=jsWebGIS&m=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-04-16T05:55:17.513Z,2026-04-16T05:55:17.513Z
 422053,おおむらマップ,7,防災マップ,https://webgis.alandis.jp/omura42/webgis/index.php/autologin_jswebgis?u=guest&ap=jsWebGIS&m=1&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=9&si=0,2026-04-16T05:55:53.432Z,2026-04-16T05:55:53.432Z
+422070,ひらどマップ,2,航空写真,https://www.sonicweb-asp.jp/hirado/map?theme=th_ortho#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T06:51:32.714Z,2026-04-16T06:51:32.714Z
