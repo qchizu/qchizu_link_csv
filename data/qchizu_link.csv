@@ -1716,3 +1716,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 12106,岩見沢市公開型ＧＩＳ（いわまっぷ）,3,都市計画図,https://www2.wagmap.jp/iwamizawa/Map?mid=71&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-16T08:12:20.552Z,2026-04-16T08:12:20.552Z
 12106,岩見沢市公開型ＧＩＳ（いわまっぷ）,4,道路台帳,https://www2.wagmap.jp/iwamizawa/Map?mid=63&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-16T08:12:44.721Z,2026-04-16T08:12:44.721Z
 12106,岩見沢市公開型ＧＩＳ（いわまっぷ）,7,ハザードマップ,https://www2.wagmap.jp/iwamizawa/Map?mid=51&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-16T08:13:35.338Z,2026-04-16T08:13:35.338Z
+12190,紋別市わが街ガイド,3,都市計画情報,https://www2.wagmap.jp/mombetsu/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-16T08:23:24.356Z,2026-04-16T08:23:24.356Z
