@@ -1613,3 +1613,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 32115,かまいしｅ－マップ,3,都市計画マップ,https://www2.wagmap.jp/kamaishi/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:20:41.238Z,2026-04-16T04:20:41.238Z
 32115,かまいしｅ－マップ,4,道路関連マップ,https://www2.wagmap.jp/kamaishi/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:21:01.349Z,2026-04-16T04:21:01.349Z
 32115,かまいしｅ－マップ,5,下水道マップ,https://www2.wagmap.jp/kamaishi/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:21:30.273Z,2026-04-16T04:21:30.273Z
+32166,たきざわｅマップ,3,都市計画情報,https://e-map.takizawa.iwate.jp/maps?mode=theme&lid=3&mid=9&z={z}&lat={lat}&{lng},2026-04-16T04:23:11.171Z,2026-04-16T04:23:11.171Z
