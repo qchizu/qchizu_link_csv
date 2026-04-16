@@ -1630,3 +1630,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 22080,むつ市都市計画マップ（Ｇｏｏｇｌｅマイマップ）,3,都市計画マップ,https://www.google.com/maps/d/viewer?mid=1Dg9Zl-3AP3xRpcGdvHvUGcc0bx41GDQ&ll={lat}%2C{lng}&z={z},2026-04-16T04:51:07.863Z,2026-04-16T04:51:07.863Z
 23817,板柳町 あぷりんマップ,3,都市計画図,https://www2.wagmap.jp/itayanagi/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:56:18.111Z,2026-04-16T04:56:18.111Z
 23817,板柳町 あぷりんマップ,4,道路台帳図,https://www2.wagmap.jp/itayanagi/Map?mid=31&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:56:38.627Z,2026-04-16T04:56:38.627Z
+24023,しちのへ便利マップ,3,都市計画図,https://www2.wagmap.jp/shichinohe/Map?mid=20&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T05:01:12.405Z,2026-04-16T05:01:12.405Z
