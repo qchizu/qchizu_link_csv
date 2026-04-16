@@ -1616,3 +1616,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 32166,たきざわｅマップ,3,都市計画情報,https://e-map.takizawa.iwate.jp/maps?mode=theme&lid=3&mid=9&z={z}&lat={lat}&{lng},2026-04-16T04:23:11.171Z,2026-04-16T04:23:11.171Z
 32166,たきざわｅマップ,4,道路,https://e-map.takizawa.iwate.jp/maps?mode=theme&lid=4&mid=10&z={z}&lat={lat}&{lng},2026-04-16T04:23:37.629Z,2026-04-16T04:23:37.629Z
 32166,たきざわｅマップ,7,土砂災害警戒区域等,https://e-map.takizawa.iwate.jp/maps?mode=theme&lid=0&mid=2&z={z}&lat={lat}&{lng},2026-04-16T04:24:14.996Z,2026-04-16T04:24:14.996Z
+284645,たいしデジまっぷ,1,地形図,https://webgis.alandis.jp/taishi28/webgis/index.php/autologin_jswebgis?u=chikei&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-16T04:30:02.585Z,2026-04-16T04:30:02.585Z
