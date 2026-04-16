@@ -1714,3 +1714,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 12033,でじ樽なび,6,地番図,https://otaru.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=61,2026-04-16T08:08:33.693Z,2026-04-16T08:08:33.693Z
 12033,でじ樽なび,7,防災マップ（土砂災害）,https://otaru.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=50,2026-04-16T08:09:16.411Z,2026-04-16T08:09:16.411Z
 12106,岩見沢市公開型ＧＩＳ（いわまっぷ）,3,都市計画図,https://www2.wagmap.jp/iwamizawa/Map?mid=71&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-16T08:12:20.552Z,2026-04-16T08:12:20.552Z
+12106,岩見沢市公開型ＧＩＳ（いわまっぷ）,4,道路台帳,https://www2.wagmap.jp/iwamizawa/Map?mid=63&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-16T08:12:44.721Z,2026-04-16T08:12:44.721Z
