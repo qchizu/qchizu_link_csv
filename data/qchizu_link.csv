@@ -1710,3 +1710,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 12025,函館市都市計画関連地図情報インターネット配信サービス,3,都市計画区域・用途地域・都市計画道路,https://hakodate-tokei.maps.arcgis.com/apps/webappviewer/index.html?id=24f3abd1e4de4d649aee5ee73fbc6d10&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-04-16T08:05:23.814Z,2026-04-16T08:05:23.814Z
 12033,でじ樽なび,1,地形図（現況図）,https://otaru.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=60,2026-04-16T08:06:55.807Z,2026-04-16T08:06:55.807Z
 12033,でじ樽なび,3,都市計画指定状況等,https://otaru.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=30,2026-04-16T08:07:30.140Z,2026-04-16T08:07:30.140Z
+12033,でじ樽なび,4,認定路線,https://otaru.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=40,2026-04-16T08:07:57.885Z,2026-04-16T08:07:57.885Z
