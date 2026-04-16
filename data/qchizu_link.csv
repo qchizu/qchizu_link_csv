@@ -1701,3 +1701,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 12041,あさひかわデジタルマップ　－旭川市公開型ＧＩＳ－,8,森林資源,https://www2.wagmap.jp/asahikawa-city/Map?mid=21&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-16T07:47:16.116Z,2026-04-16T07:47:16.116Z
 285013,さよ☆マップ,1,白地図,https://www.sonicweb-asp.jp/sayotown/map?theme=th_dm#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:50:45.391Z,2026-04-16T07:50:45.391Z
 285013,さよ☆マップ,4,認定路線網図,https://www.sonicweb-asp.jp/sayotown/map?theme=th_10#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:51:10.130Z,2026-04-16T07:51:10.130Z
+285013,さよ☆マップ,5,下水道台帳図,https://www.sonicweb-asp.jp/sayotown/map?theme=th_19#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:51:29.684Z,2026-04-16T07:51:29.684Z
