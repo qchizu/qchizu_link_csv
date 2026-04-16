@@ -1682,3 +1682,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 372021,まるがめマップ,7,ハザードマップ（洪水・土砂災害）,https://www.sonicweb-asp.jp/marugame/map?theme=th_8#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:16:45.575Z,2026-04-16T07:16:45.575Z
 372030,さかいでオンラインＭＡＰ,4,坂出市認定道路網図,https://www.city.sakaide.lg.jp/opendata/#{z}/{lat}/{lng}/&base=std&ls=std%7Cid_200&disp=11&lcd=id_200&vs=c1j0h0k0l0u0t0z0r0s0m0f1&d=m,2026-04-16T07:22:20.061Z,2026-04-16T07:22:20.061Z
 372030,さかいでオンラインＭＡＰ,7,土砂災害警戒区域・特別警戒区域,https://www.city.sakaide.lg.jp/opendata/#{z}/{lat}/{lng}/&base=std&ls=std%7Cid_009&disp=11&lcd=id_009&vs=c1j0h0k0l0u0t0z0r0s0m0f1&d=m,2026-04-16T07:23:40.121Z,2026-04-16T07:23:40.121Z
+372048,ＺＥＮまっぷ,3,都市計画図,https://www.sonicweb-asp.jp/zentsuji-city/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:24:47.467Z,2026-04-16T07:24:47.467Z
