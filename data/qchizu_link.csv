@@ -1607,3 +1607,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 32069,北上市わが街ガイド,7,防災情報,https://www2.wagmap.jp/kitakami/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:11:03.407Z,2026-04-16T04:11:03.407Z
 32093,いちのせきｅマップ,3,都市計画情報,https://ichinoseki.geogeo.jp/maps?mode=theme&lid=5&mid=11&z={z}&lat={lat}&{lng},2026-04-16T04:14:18.039Z,2026-04-16T04:14:18.039Z
 32093,いちのせきｅマップ,4,道路,https://ichinoseki.geogeo.jp/maps?mode=theme&lid=9&mid=15&z={z}&lat={lat}&{lng},2026-04-16T04:14:57.441Z,2026-04-16T04:14:57.441Z
+32093,いちのせきｅマップ,5,下水道,https://ichinoseki.geogeo.jp/maps?mode=theme&lid=6&mid=12&z={z}&lat={lat}&{lng},2026-04-16T04:15:25.584Z,2026-04-16T04:15:25.584Z
