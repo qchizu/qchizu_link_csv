@@ -1649,3 +1649,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 422011,ながさきマップ,3,都市計画,https://www.sonicweb-asp.jp/nagasakicity/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T05:38:52.763Z,2026-04-16T05:38:52.763Z
 422011,ながさきマップ,4,道路台帳図・認定路線網図,https://www.sonicweb-asp.jp/nagasakicity/map?theme=th_69#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T05:39:12.696Z,2026-04-16T05:39:12.696Z
 422011,ながさきマップ,5,下水道管路図,https://www.sonicweb-asp.jp/nagasakicity/map?theme=th_94#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T05:39:39.308Z,2026-04-16T05:39:39.308Z
+422011,ながさきマップ,6,地番参考図,https://www.sonicweb-asp.jp/nagasakicity/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T05:39:56.667Z,2026-04-16T05:39:56.667Z
