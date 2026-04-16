@@ -1686,3 +1686,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 372048,ＺＥＮまっぷ,4,道路台帳図,https://www.sonicweb-asp.jp/zentsuji-city/map?theme=th_6#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:25:05.686Z,2026-04-16T07:25:05.686Z
 372048,ＺＥＮまっぷ,6,地番参考図,https://www.sonicweb-asp.jp/zentsuji-city/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:25:29.413Z,2026-04-16T07:25:29.413Z
 372064,さぬきＷｅｂまっぷ,3,都市計画情報,https://www.sonicweb-asp.jp/sanuki/map?theme=th_55#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:27:52.953Z,2026-04-16T07:27:52.953Z
+372064,さぬきＷｅｂまっぷ,4,路線網図,https://www.sonicweb-asp.jp/sanuki/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:28:17.821Z,2026-04-16T07:28:17.821Z
