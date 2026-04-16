@@ -1708,3 +1708,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 11002,札幌市地図情報サービス,3,都市計画,https://www.sonicweb-asp.jp/sapporo/map?theme=th_28#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T08:00:28.734Z,2026-04-16T08:00:28.734Z
 11002,札幌市地図情報サービス,4,道路,https://www.sonicweb-asp.jp/sapporo/map?theme=th_29#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T08:01:04.144Z,2026-04-16T08:01:04.144Z
 12025,函館市都市計画関連地図情報インターネット配信サービス,3,都市計画区域・用途地域・都市計画道路,https://hakodate-tokei.maps.arcgis.com/apps/webappviewer/index.html?id=24f3abd1e4de4d649aee5ee73fbc6d10&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-04-16T08:05:23.814Z,2026-04-16T08:05:23.814Z
+12033,でじ樽なび,1,地形図（現況図）,https://otaru.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=60,2026-04-16T08:06:55.807Z,2026-04-16T08:06:55.807Z
