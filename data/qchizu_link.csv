@@ -1690,3 +1690,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 372064,さぬきＷｅｂまっぷ,5,下水道管内図,https://www.sonicweb-asp.jp/sanuki/map?theme=th_53#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:28:37.312Z,2026-04-16T07:28:37.312Z
 372064,さぬきＷｅｂまっぷ,7,ハザードマップ（地震・土砂災害）,https://www.sonicweb-asp.jp/sanuki/map?theme=th_41#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:29:22.064Z,2026-04-16T07:29:22.064Z
 374067,まんのうマップ,3,都市計画図,https://webgis.alandis.jp/manno37/webgis/index.php/autologin_jswebgis?u=toshikeikakuzu&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-16T07:32:06.316Z,2026-04-16T07:32:06.316Z
+374067,まんのうマップ,4,道路,https://webgis.alandis.jp/manno37/webgis/index.php/autologin_jswebgis?u=dourodaichou&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-16T07:32:53.341Z,2026-04-16T07:32:53.341Z
