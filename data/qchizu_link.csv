@@ -1624,3 +1624,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 284645,たいしデジまっぷ,6,地番参考図,https://webgis.alandis.jp/taishi28/webgis/index.php/autologin_jswebgis?u=chiban&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-16T04:32:28.017Z,2026-04-16T04:32:28.017Z
 284645,たいしデジまっぷ,7,防災情報,https://webgis.alandis.jp/taishi28/webgis/index.php/autologin_jswebgis?u=bosai&ap=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-16T04:33:26.694Z,2026-04-16T04:33:26.694Z
 20001,青森市地理情報公開サービス「あおまっぷ」,3,都市計画マップ,https://www2.wagmap.jp/aomoricity/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:43:09.809Z,2026-04-16T04:43:09.809Z
+20001,青森市地理情報公開サービス「あおまっぷ」,4,道路台帳図マップ,https://www2.wagmap.jp/aomoricity/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:43:36.467Z,2026-04-16T04:43:36.467Z
