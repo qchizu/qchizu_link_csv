@@ -1642,3 +1642,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 442011,おおいたマップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/oitacity/Map?mid=17&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T05:12:17.086Z,2026-04-16T05:12:17.086Z
 442046,日田市Ｗｅｂマップ,3,都市計画情報マップ,https://www2.wagmap.jp/hita/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T05:16:57.255Z,2026-04-16T05:16:57.255Z
 442046,日田市Ｗｅｂマップ,6,字図（地番現況図）,https://www2.wagmap.jp/hita/Map?mid=17&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T05:19:27.755Z,2026-04-16T05:19:27.755Z
+442046,日田市Ｗｅｂマップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/hita/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T05:20:11.244Z,2026-04-16T05:20:11.244Z
