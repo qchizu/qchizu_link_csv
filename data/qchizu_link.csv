@@ -1693,3 +1693,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 374067,まんのうマップ,4,道路,https://webgis.alandis.jp/manno37/webgis/index.php/autologin_jswebgis?u=dourodaichou&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-16T07:32:53.341Z,2026-04-16T07:32:53.341Z
 374067,まんのうマップ,5,下水道,https://webgis.alandis.jp/manno37/webgis/index.php/autologin_jswebgis?u=gesui&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-16T07:33:29.163Z,2026-04-16T07:33:29.163Z
 374067,まんのうマップ,7,土砂災害ハザードマップ,https://webgis.alandis.jp/manno37/webgis/index.php/autologin_jswebgis?u=dosyasaigai&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-04-16T07:34:02.151Z,2026-04-16T07:34:02.151Z
+12041,あさひかわデジタルマップ　－旭川市公開型ＧＩＳ－,2,旭川市航空写真,https://www2.wagmap.jp/asahikawa-city/Map?mid=30&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-16T07:43:15.247Z,2026-04-16T07:43:15.247Z
