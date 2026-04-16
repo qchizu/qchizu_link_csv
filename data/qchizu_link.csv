@@ -1678,3 +1678,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 372013,高松市スマートマップ ＆ 都市情報ＡＰＩ,2,高松市航空写真,https://maps.takamatsu-fact.com/?baseMap=gsi-base#map={z}/{lat}/{lng}&layers=2Zw,2026-04-16T07:11:09.755Z,2026-04-16T07:11:09.755Z
 372013,たかまっぷ,4,市道路線名マップ,https://takamatsu.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=110,2026-04-16T07:12:50.891Z,2026-04-16T07:12:50.891Z
 372021,まるがめマップ,1,都市計画情報,https://www.sonicweb-asp.jp/marugame/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:15:25.995Z,2026-04-16T07:15:25.995Z
+372021,まるがめマップ,5,下水道台帳,https://www.sonicweb-asp.jp/marugame/map?theme=th_30#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:16:12.737Z,2026-04-16T07:16:12.737Z
