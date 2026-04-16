@@ -1653,3 +1653,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 422011,ながさきマップ,7,防災情報（土砂・洪水・津波・災害履歴）※表示切替可能,https://www.sonicweb-asp.jp/nagasakicity/map?theme=th_175#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T05:40:28.335Z,2026-04-16T05:40:28.335Z
 422029,佐世保市地図情報配信サービス,3,都市計画情報,https://www.machi-info.jp/machikado/sasebo_city2/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ},2026-04-16T05:44:05.132Z,2026-04-16T05:44:05.132Z
 422029,させぼ街ナビ｜佐世保市地図情報検索サービス,4,市道網図,https://www.machi-info.jp/machikado/sasebo_city/index.jsp?lon={lng}&lat={lat}&scale={wagmapZ}&mode=53,2026-04-16T05:45:40.350Z,2026-04-16T05:45:40.350Z
+422045,諫早市デジタルマップ,3,都市計画,https://www.sonicweb-asp.jp/isahaya/map?theme=th_34#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T05:47:18.854Z,2026-04-16T05:47:18.854Z
