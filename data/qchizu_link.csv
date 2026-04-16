@@ -1604,3 +1604,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 32069,北上市わが街ガイド,3,都市計画図,https://www2.wagmap.jp/kitakami/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:09:09.312Z,2026-04-16T04:09:09.312Z
 32069,北上市わが街ガイド,4,道路網図,https://www2.wagmap.jp/kitakami/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:09:15.009Z,2026-04-16T04:09:15.009Z
 32069,北上市わが街ガイド,5,下水道台帳図,https://www2.wagmap.jp/kitakami/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:09:34.900Z,2026-04-16T04:09:34.900Z
+32069,北上市わが街ガイド,7,防災情報,https://www2.wagmap.jp/kitakami/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:11:03.407Z,2026-04-16T04:11:03.407Z
