@@ -1657,3 +1657,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 422045,諫早市デジタルマップ,4,道路台帳図,https://www.sonicweb-asp.jp/isahaya/map?theme=th_6#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T05:51:48.688Z,2026-04-16T05:51:48.688Z
 422045,諫早市デジタルマップ,5,下水道供用開始区域図,https://www.sonicweb-asp.jp/isahaya/map?theme=th_18#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T05:52:35.239Z,2026-04-16T05:52:35.239Z
 422045,諫早市デジタルマップ,6,地番参考図,https://www.sonicweb-asp.jp/isahaya/map?theme=th_33#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T05:52:52.646Z,2026-04-16T05:52:52.646Z
+422045,諫早市デジタルマップ,7,ハザードマップ,https://www.sonicweb-asp.jp/isahaya/map?theme=th_54#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T05:53:09.269Z,2026-04-16T05:53:09.269Z
