@@ -1665,3 +1665,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 422070,ひらどマップ,4,道路台帳図,https://www.sonicweb-asp.jp/hirado/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T06:51:48.527Z,2026-04-16T06:51:48.527Z
 422070,ひらどマップ,6,地番参考図,https://www.sonicweb-asp.jp/hirado/map?theme=th_4#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T06:52:14.426Z,2026-04-16T06:52:14.426Z
 422070,ひらどマップ,7,防災マップ,https://www.sonicweb-asp.jp/hirado/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T06:52:30.062Z,2026-04-16T06:52:30.062Z
+422096,つしまっぷ,2,航空写真,https://www.sonicweb-asp.jp/tsushima/map?theme=th_23#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T06:53:32.509Z,2026-04-16T06:53:32.509Z
