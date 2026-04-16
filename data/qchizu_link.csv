@@ -1645,3 +1645,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 442046,日田市Ｗｅｂマップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/hita/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T05:20:11.244Z,2026-04-16T05:20:11.244Z
 442135,ゆふマップ,3,都市計画マップ,https://apps02.chklab.com/LG442135/ciel_public/?citycd=442135&ismapinfofromdb=true&mapindex=14&zoom={z}&lat={lat}&lng={lng},2026-04-16T05:35:28.759Z,2026-04-16T05:35:28.759Z
 442135,ゆふマップ,7,ハザードマップ,https://apps02.chklab.com/LG442135/ciel_public/?citycd=442135&ismapinfofromdb=true&mapindex=12&zoom={z}&lat={lat}&lng={lng},2026-04-16T05:36:02.580Z,2026-04-16T05:36:02.580Z
+422011,ながさきマップ,2,航空写真,https://www.sonicweb-asp.jp/nagasakicity/map?theme=th_98#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T05:38:28.589Z,2026-04-16T05:38:28.589Z
