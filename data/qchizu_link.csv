@@ -1704,3 +1704,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 285013,さよ☆マップ,5,下水道台帳図,https://www.sonicweb-asp.jp/sayotown/map?theme=th_19#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:51:29.684Z,2026-04-16T07:51:29.684Z
 285013,さよ☆マップ,6,地番参考図,https://www.sonicweb-asp.jp/sayotown/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:51:44.557Z,2026-04-16T07:51:44.557Z
 285013,さよ☆マップ,7,水害・土砂災害ハザードマップ,https://www.sonicweb-asp.jp/sayotown/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:52:12.876Z,2026-04-16T07:52:12.876Z
+11002,札幌市地図情報サービス,1,地形のみ,https://www.sonicweb-asp.jp/sapporo/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T08:00:09.715Z,2026-04-16T08:00:09.715Z
