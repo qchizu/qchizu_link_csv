@@ -1697,3 +1697,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 12041,あさひかわデジタルマップ　－旭川市公開型ＧＩＳ－,3,都市計画図,https://www2.wagmap.jp/asahikawa-city/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-16T07:44:12.200Z,2026-04-16T07:44:12.200Z
 12041,あさひかわデジタルマップ　－旭川市公開型ＧＩＳ－,4,市道認定路線網図,https://www2.wagmap.jp/asahikawa-city/Map?mid=18&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-16T07:44:47.964Z,2026-04-16T07:44:47.964Z
 12041,あさひかわデジタルマップ　－旭川市公開型ＧＩＳ－,6,地番参考図,https://www2.wagmap.jp/asahikawa-city/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-16T07:45:49.318Z,2026-04-16T07:45:49.318Z
+12041,あさひかわデジタルマップ　－旭川市公開型ＧＩＳ－,7,洪水ハザードマップ,https://www2.wagmap.jp/asahikawa-city/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-16T07:46:20.964Z,2026-04-16T07:46:20.964Z
