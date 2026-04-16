@@ -1668,3 +1668,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 422096,つしまっぷ,2,航空写真,https://www.sonicweb-asp.jp/tsushima/map?theme=th_23#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T06:53:32.509Z,2026-04-16T06:53:32.509Z
 422096,つしまっぷ,3,都市計画,https://www.sonicweb-asp.jp/tsushima/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T06:53:49.448Z,2026-04-16T06:53:49.448Z
 422096,つしまっぷ,4,市道情報,https://www.sonicweb-asp.jp/tsushima/map?theme=th_13#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T06:54:21.774Z,2026-04-16T06:54:21.774Z
+422096,つしまっぷ,7,防災情報,https://www.sonicweb-asp.jp/tsushima/map?theme=th_17#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T06:54:43.709Z,2026-04-16T06:54:43.709Z
