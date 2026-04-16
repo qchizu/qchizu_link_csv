@@ -1673,3 +1673,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 424111,新上五島町デジタルマップ,3,都市計画,https://www.sonicweb-asp.jp/shinkamigoto/map?theme=th_24#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:01:59.352Z,2026-04-16T07:01:59.352Z
 424111,新上五島町デジタルマップ,4,道路関連情報,https://www.sonicweb-asp.jp/shinkamigoto/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:02:24.279Z,2026-04-16T07:02:24.279Z
 424111,新上五島町デジタルマップ,6,地番参考図,https://www.sonicweb-asp.jp/shinkamigoto/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-16T07:02:50.063Z,2026-04-16T07:02:50.063Z
+370002,香川県 公開型ＧＩＳ －ＢＲＩＤＧＥＳ－,4,道路,https://map.pref.kagawa.lg.jp/#/?center={lng}%2F{lat}&zoom={z}&layers=Sq2,2026-04-16T07:06:45.302Z,2026-04-16T07:06:45.302Z
