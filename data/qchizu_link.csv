@@ -1612,3 +1612,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 32107,陸前高田市 道路台帳Ｗｅｂ公開システム,4,道路情報基盤 Ｒ７年度 （公開）,https://rikuzentakata-city.dx.genavis.jp/map.html?scale={sonicwebZ}&coords={lng}%2C{lat},2026-04-16T04:19:06.049Z,2026-04-16T04:19:06.049Z
 32115,かまいしｅ－マップ,3,都市計画マップ,https://www2.wagmap.jp/kamaishi/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:20:41.238Z,2026-04-16T04:20:41.238Z
 32115,かまいしｅ－マップ,4,道路関連マップ,https://www2.wagmap.jp/kamaishi/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:21:01.349Z,2026-04-16T04:21:01.349Z
+32115,かまいしｅ－マップ,5,下水道マップ,https://www2.wagmap.jp/kamaishi/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:21:30.273Z,2026-04-16T04:21:30.273Z
