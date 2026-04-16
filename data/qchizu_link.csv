@@ -1632,3 +1632,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 23817,板柳町 あぷりんマップ,4,道路台帳図,https://www2.wagmap.jp/itayanagi/Map?mid=31&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T04:56:38.627Z,2026-04-16T04:56:38.627Z
 24023,しちのへ便利マップ,3,都市計画図,https://www2.wagmap.jp/shichinohe/Map?mid=20&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T05:01:12.405Z,2026-04-16T05:01:12.405Z
 24023,しちのへ便利マップ,4,道路台帳マップ,https://www2.wagmap.jp/shichinohe/Map?mid=30&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T05:01:47.957Z,2026-04-16T05:01:47.957Z
+24023,しちのへ便利マップ,5,上下水道,https://www2.wagmap.jp/shichinohe/Map?mid=40&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-16T05:02:31.936Z,2026-04-16T05:02:31.936Z
