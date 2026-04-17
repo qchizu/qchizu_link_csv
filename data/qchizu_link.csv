@@ -1834,3 +1834,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 412091,嬉野ゆっつらＷｅｂマップ,5,下水道網図,https://www2.wagmap.jp/ureshino/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:42:55.087Z,2026-04-17T05:42:55.087Z
 412091,嬉野ゆっつらＷｅｂマップ,7,ハザードマップ,https://www2.wagmap.jp/ureshino/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:43:26.355Z,2026-04-17T05:43:26.355Z
 412104,かんざきマップ,4,道路情報マップ,https://www2.wagmap.jp/kanzaki/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:45:05.969Z,2026-04-17T05:45:05.969Z
+412104,かんざきマップ,5,下水道マップ,https://www2.wagmap.jp/kanzaki/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:45:27.041Z,2026-04-17T05:45:27.041Z
