@@ -1768,3 +1768,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 432105,きくちまっぷ,3,都市計画情報,https://www.sonicweb-asp.jp/kikuchi/map?theme=th_13#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:39:30.795Z,2026-04-17T02:39:30.795Z
 432105,きくちまっぷ,4,道路台帳,https://www.sonicweb-asp.jp/kikuchi/map?theme=th_19#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:39:45.358Z,2026-04-17T02:39:45.358Z
 432105,きくちまっぷ,5,下水道情報,https://www.sonicweb-asp.jp/kikuchi/map?theme=th_27#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:40:00.264Z,2026-04-17T02:40:00.264Z
+432105,きくちまっぷ,6,地番参考図,https://www.sonicweb-asp.jp/kikuchi/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:40:19.133Z,2026-04-17T02:40:19.133Z
