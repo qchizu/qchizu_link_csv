@@ -1747,3 +1747,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 432024,やつしろデジタルマップ,1,背景（地形図）,https://www.sonicweb-asp.jp/yatsushiro/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=dm,2026-04-17T02:18:10.681Z,2026-04-17T02:18:10.681Z
 432024,やつしろデジタルマップ,2,背景（航空写真）,https://www.sonicweb-asp.jp/yatsushiro/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=ortho,2026-04-17T02:18:25.281Z,2026-04-17T02:18:25.281Z
 432024,やつしろデジタルマップ,3,都市計画,https://www.sonicweb-asp.jp/yatsushiro/map?theme=th_4#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:18:42.517Z,2026-04-17T02:18:42.517Z
+432024,やつしろデジタルマップ,4,指定道路,https://www.sonicweb-asp.jp/yatsushiro/map?theme=th_12#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:19:02.517Z,2026-04-17T02:19:02.517Z
