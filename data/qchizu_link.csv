@@ -1790,3 +1790,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 434248,おぐにわがまちガイド,5,下水道施設管理台帳図,https://www2.wagmap.jp/ogunitown/Map?mid=52&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T02:56:41.082Z,2026-04-17T02:56:41.082Z
 434248,おぐにわがまちガイド,7,防災情報マップ,https://www2.wagmap.jp/ogunitown/Map?mid=42&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T02:57:10.684Z,2026-04-17T02:57:10.684Z
 434434,ましきマップ,3,都市計画情報,https://www2.wagmap.jp/mashiki/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T04:06:59.041Z,2026-04-17T04:06:59.041Z
+434434,ましきマップ,4,道路情報,https://www2.wagmap.jp/mashiki/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T04:07:26.424Z,2026-04-17T04:07:26.424Z
