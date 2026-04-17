@@ -1814,3 +1814,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 412058,いまりんマップ,4,道路情報マップ,https://www2.wagmap.jp/imari/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:30:16.497Z,2026-04-17T05:30:16.497Z
 412058,いまりんマップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/imari/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:30:48.494Z,2026-04-17T05:30:48.494Z
 412066,たけおデジタルマップ,2,航空写真（現在）,https://www.sonicweb-asp.jp/takeo/map?theme=th_ortho#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:31:48.520Z,2026-04-17T05:31:48.520Z
+412066,たけおデジタルマップ,3,都市計画図,https://www.sonicweb-asp.jp/takeo/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:32:09.800Z,2026-04-17T05:32:09.800Z
