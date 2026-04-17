@@ -1802,3 +1802,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 410004,ぐるっとさがナビ,3,都市計画マップ,https://www2.wagmap.jp/saga/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:12:08.256Z,2026-04-17T05:12:08.256Z
 410004,ぐるっとさがナビ,4,路線網図,https://www2.wagmap.jp/saga/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:12:41.791Z,2026-04-17T05:12:41.791Z
 410004,ぐるっとさがナビ,5,下水道台帳図,https://www2.wagmap.jp/saga/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:13:11.536Z,2026-04-17T05:13:11.536Z
+410004,ぐるっとさがナビ,7,防災・防犯マップ,https://www2.wagmap.jp/saga/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:17:39.454Z,2026-04-17T05:17:39.454Z
