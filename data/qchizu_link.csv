@@ -1795,3 +1795,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 434434,ましきマップ,7,土砂災害区域,https://www2.wagmap.jp/mashiki/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T04:08:38.705Z,2026-04-17T04:08:38.705Z
 435074,水上村公開型ＧＩＳ,7,ハザードマップ,https://apps01.chklab.com/Map/cielForPublic/?citycd=435074&mapIndex=0&zoom={z}&lat={lat}&lng={lng},2026-04-17T04:12:05.376Z,2026-04-17T04:12:05.376Z
 435317,れいほくよかマップ,1,地形図,https://www2.wagmap.jp/reihoku/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=dm,2026-04-17T04:15:01.807Z,2026-04-17T04:15:01.807Z
+435317,れいほくよかマップ,2,航空写真,https://www2.wagmap.jp/reihoku/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=ortho,2026-04-17T04:15:39.444Z,2026-04-17T04:15:39.444Z
