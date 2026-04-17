@@ -1737,3 +1737,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 16438,幕別デジタルまっぷ,7,幕別町ハザードマップ,https://www2.wagmap.jp/makubetsu/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T02:04:04.878Z,2026-04-17T02:04:04.878Z
 16438,幕別デジタルまっぷ,8,森林計画図,https://www2.wagmap.jp/makubetsu/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T02:04:29.865Z,2026-04-17T02:04:29.865Z
 16446,池田町公開型ＧＩＳ － 公開型地理情報システム,3,都市計画情報,https://ikeda-map.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=10,2026-04-17T02:05:27.990Z,2026-04-17T02:05:27.990Z
+16446,池田町公開型ＧＩＳ － 公開型地理情報システム,4,道路情報,https://ikeda-map.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=18,2026-04-17T02:05:51.840Z,2026-04-17T02:05:51.840Z
