@@ -1770,3 +1770,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 432105,きくちまっぷ,5,下水道情報,https://www.sonicweb-asp.jp/kikuchi/map?theme=th_27#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:40:00.264Z,2026-04-17T02:40:00.264Z
 432105,きくちまっぷ,6,地番参考図,https://www.sonicweb-asp.jp/kikuchi/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:40:19.133Z,2026-04-17T02:40:19.133Z
 432105,きくちまっぷ,8,森林簿,https://www.sonicweb-asp.jp/kikuchi/map?theme=th_24#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:40:46.006Z,2026-04-17T02:40:46.006Z
+432113,うとまっぷ,3,都市計画情報,https://webgis.alandis.jp/uto43/webgis/index.php/autologin_jswebgis?u=guest&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-04-17T02:41:57.913Z,2026-04-17T02:41:57.913Z
