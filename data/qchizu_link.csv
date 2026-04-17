@@ -1763,3 +1763,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 432083,やまがデジタルマップ,3,都市計画図,https://www.sonicweb-asp.jp/yamaga/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:34:16.612Z,2026-04-17T02:34:16.612Z
 432083,やまがデジタルマップ,5,下水道施設,https://www.sonicweb-asp.jp/yamaga/map?theme=th_6#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:34:46.459Z,2026-04-17T02:34:46.459Z
 432083,やまがデジタルマップ,6,地番参考図,https://www.sonicweb-asp.jp/yamaga/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:35:02.794Z,2026-04-17T02:35:02.794Z
+432083,やまがデジタルマップ,7,防災,https://www.sonicweb-asp.jp/yamaga/map?theme=th_17#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:35:21.629Z,2026-04-17T02:35:21.629Z
