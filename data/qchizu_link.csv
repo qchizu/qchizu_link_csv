@@ -1720,3 +1720,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 12319,恵庭市都市計画情報閲覧サービス,3,都市計画情報,https://cityeniwa.maps.arcgis.com/apps/webappviewer/index.html?id=b0c8e287bc814bbdbdbc817e1a72f22d&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-04-17T01:25:33.178Z,2026-04-17T01:25:33.178Z
 12343,北広島市オープンマップ,5,下水道台帳図,https://city.kitahiroshima.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=800,2026-04-17T01:28:22.940Z,2026-04-17T01:28:22.940Z
 12360,北斗市都市計画情報閲覧サービス,3,都市計画情報,https://hokuto-toshikei.maps.arcgis.com/apps/webappviewer/index.html?id=73058f1c9ae546e19df2994288c9666e&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-04-17T01:30:15.442Z,2026-04-17T01:30:15.442Z
+14001,ＫＵＴＣＨＡＮ Ｇｅｏ Ｎａｖｉ,3,都市計画情報,https://town.kutchan.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=200,2026-04-17T01:36:40.337Z,2026-04-17T01:36:40.337Z
