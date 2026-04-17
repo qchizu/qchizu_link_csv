@@ -1812,3 +1812,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 412040,さがもりマップ,8,森林計画図マップ,https://www2.wagmap.jp/pref-saga-morimap/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T05:28:34.343Z,2026-04-17T05:28:34.343Z
 412058,いまりんマップ,3,都市計画図,https://www2.wagmap.jp/imari/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:29:41.674Z,2026-04-17T05:29:41.674Z
 412058,いまりんマップ,4,道路情報マップ,https://www2.wagmap.jp/imari/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:30:16.497Z,2026-04-17T05:30:16.497Z
+412058,いまりんマップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/imari/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:30:48.494Z,2026-04-17T05:30:48.494Z
