@@ -1823,3 +1823,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 412074,かしまっぷ,3,都市計画,https://www.sonicweb-asp.jp/saga-kashima/map?theme=th_8#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:35:20.099Z,2026-04-17T05:35:20.099Z
 412074,かしまっぷ,4,道路関係,https://www.sonicweb-asp.jp/saga-kashima/map?theme=th_26#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:35:42.116Z,2026-04-17T05:35:42.116Z
 412074,かしまっぷ,5,下水道,https://www.sonicweb-asp.jp/saga-kashima/map?theme=th_19#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:35:59.242Z,2026-04-17T05:35:59.242Z
+412074,かしまっぷ,6,地番参考図,https://www.sonicweb-asp.jp/saga-kashima/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:36:17.676Z,2026-04-17T05:36:17.676Z
