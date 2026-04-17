@@ -1734,3 +1734,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 16438,幕別デジタルまっぷ,3,都市計画図,https://www2.wagmap.jp/makubetsu/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T02:02:31.928Z,2026-04-17T02:02:31.928Z
 16438,幕別デジタルまっぷ,4,道路台帳図,https://www2.wagmap.jp/makubetsu/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T02:03:07.937Z,2026-04-17T02:03:07.937Z
 16438,幕別デジタルまっぷ,6,地番マップ,https://www2.wagmap.jp/makubetsu/Map?mid=6&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T02:03:42.906Z,2026-04-17T02:03:42.906Z
+16438,幕別デジタルまっぷ,7,幕別町ハザードマップ,https://www2.wagmap.jp/makubetsu/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T02:04:04.878Z,2026-04-17T02:04:04.878Z
