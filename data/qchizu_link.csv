@@ -1761,3 +1761,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 432067,玉名市地図情報サービス,5,下水道マップ,https://www.sonicweb-asp.jp/tamana/map?theme=th_4#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:33:11.246Z,2026-04-17T02:33:11.246Z
 432067,玉名市地図情報サービス,7,ハザードマップ,https://www.sonicweb-asp.jp/tamana/map?theme=th_18#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:33:31.084Z,2026-04-17T02:33:31.084Z
 432083,やまがデジタルマップ,3,都市計画図,https://www.sonicweb-asp.jp/yamaga/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:34:16.612Z,2026-04-17T02:34:16.612Z
+432083,やまがデジタルマップ,5,下水道施設,https://www.sonicweb-asp.jp/yamaga/map?theme=th_6#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:34:46.459Z,2026-04-17T02:34:46.459Z
