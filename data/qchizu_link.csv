@@ -1819,3 +1819,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 412066,たけおデジタルマップ,6,地番参考図,https://www.sonicweb-asp.jp/takeo/map?theme=th_4#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:32:56.293Z,2026-04-17T05:32:56.293Z
 412066,たけおデジタルマップ,7,ハザードマップ,https://www.sonicweb-asp.jp/takeo/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:33:38.492Z,2026-04-17T05:33:38.492Z
 412066,たけおデジタルマップ,8,森林情報,https://www.sonicweb-asp.jp/takeo/map?theme=th_5#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:34:01.770Z,2026-04-17T05:34:01.770Z
+412074,かしまっぷ,2,航空写真（２０２２年（令和４年）撮影）,https://www.sonicweb-asp.jp/saga-kashima/map?theme=th_51#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:35:02.830Z,2026-04-17T05:35:02.830Z
