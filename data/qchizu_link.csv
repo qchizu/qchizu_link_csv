@@ -1753,3 +1753,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 432032,人吉市Ｗｅｂマップ,3,都市計画情報,https://www.sonicweb-asp.jp/hitoyoshi/map?theme=th_15#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:25:26.465Z,2026-04-17T02:25:26.465Z
 432032,人吉市Ｗｅｂマップ,4,道路台帳,https://www.sonicweb-asp.jp/hitoyoshi/map?theme=th_29#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:25:43.672Z,2026-04-17T02:25:43.672Z
 432032,人吉市Ｗｅｂマップ,5,下水道台帳,https://www.sonicweb-asp.jp/hitoyoshi/map?theme=th_13#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:26:02.797Z,2026-04-17T02:26:02.797Z
+432032,人吉市Ｗｅｂマップ,7,防災マップ,https://www.sonicweb-asp.jp/hitoyoshi/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:26:25.370Z,2026-04-17T02:26:25.370Z
