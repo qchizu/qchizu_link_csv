@@ -1778,3 +1778,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 432121,上天草市道路台帳公開型ＧＩＳ,1,地形図,https://www2.wagmap.jp/kamiamakusa/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T02:46:28.130Z,2026-04-17T02:46:28.130Z
 432121,上天草市道路台帳公開型ＧＩＳ,2,航空写真,https://www2.wagmap.jp/kamiamakusa/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T02:46:44.688Z,2026-04-17T02:46:44.688Z
 432121,上天草市道路台帳公開型ＧＩＳ,4,道路網図,https://www2.wagmap.jp/kamiamakusa/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T02:47:10.806Z,2026-04-17T02:47:10.806Z
+432121,上天草市道路台帳公開型ＧＩＳ,5,下水道情報（阿村・合津地区）,https://www2.wagmap.jp/kamiamakusa/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T02:47:39.981Z,2026-04-17T02:47:39.981Z
