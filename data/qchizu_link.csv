@@ -1826,3 +1826,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 412074,かしまっぷ,6,地番参考図,https://www.sonicweb-asp.jp/saga-kashima/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:36:17.676Z,2026-04-17T05:36:17.676Z
 412074,かしまっぷ,7,防災マップ,https://www.sonicweb-asp.jp/saga-kashima/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:36:36.697Z,2026-04-17T05:36:36.697Z
 412082,おぎまっぷ,3,都市計画情報マップ,https://www2.wagmap.jp/ogi/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:38:09.940Z,2026-04-17T05:38:09.940Z
+412082,おぎまっぷ,4,道路・河川網図,https://www2.wagmap.jp/ogi/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:38:58.039Z,2026-04-17T05:38:58.039Z
