@@ -1808,3 +1808,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 412023,唐津デジタルマップ,4,道路関連情報,https://www.sonicweb-asp.jp/karatsu/map?theme=th_46#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:23:42.416Z,2026-04-17T05:23:42.416Z
 412023,唐津デジタルマップ,5,下水道管路図,https://www.sonicweb-asp.jp/karatsu/map?theme=th_26#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:24:11.385Z,2026-04-17T05:24:11.385Z
 412031,鳥栖市Ｗｅｂマップ,4,道路台帳,https://www2.wagmap.jp/tosu/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:26:29.400Z,2026-04-17T05:26:29.400Z
+412031,鳥栖市Ｗｅｂマップ,7,洪水・土砂災害ハザードマップ,https://www2.wagmap.jp/tosu/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:26:58.704Z,2026-04-17T05:26:58.704Z
