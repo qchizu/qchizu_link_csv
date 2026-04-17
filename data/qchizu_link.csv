@@ -1788,3 +1788,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 434043,きくようまっぷ,5,下水道,https://www.sonicweb-asp.jp/kikuyo/map?theme=th_16#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:54:13.242Z,2026-04-17T02:54:13.242Z
 434043,きくようまっぷ,8,林地境界,https://www.sonicweb-asp.jp/kikuyo/map?theme=th_12#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:54:34.711Z,2026-04-17T02:54:34.711Z
 434248,おぐにわがまちガイド,5,下水道施設管理台帳図,https://www2.wagmap.jp/ogunitown/Map?mid=52&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T02:56:41.082Z,2026-04-17T02:56:41.082Z
+434248,おぐにわがまちガイド,7,防災情報マップ,https://www2.wagmap.jp/ogunitown/Map?mid=42&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T02:57:10.684Z,2026-04-17T02:57:10.684Z
