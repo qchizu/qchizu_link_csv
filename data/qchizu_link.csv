@@ -1729,3 +1729,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 14532,東神楽町わが街ガイド,3,都市計画情報,https://www2.wagmap.jp/higashikagura/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T01:49:42.186Z,2026-04-17T01:49:42.186Z
 14532,東神楽町わが街ガイド,4,認定路線網図,https://www2.wagmap.jp/higashikagura/Map?mid=8&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T01:50:23.207Z,2026-04-17T01:50:23.207Z
 14532,東神楽町わが街ガイド,5,下水道台帳,https://www2.wagmap.jp/higashikagura/Map?mid=12&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T01:50:58.832Z,2026-04-17T01:50:58.832Z
+14532,東神楽町わが街ガイド,7,土砂災害ハザードマップ,https://www2.wagmap.jp/higashikagura/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T01:51:26.409Z,2026-04-17T01:51:26.409Z
