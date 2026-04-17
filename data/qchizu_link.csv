@@ -1831,3 +1831,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 412082,おぎまっぷ,7,ハザードマップ,https://www2.wagmap.jp/ogi/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:41:15.705Z,2026-04-17T05:41:15.705Z
 412091,嬉野ゆっつらＷｅｂマップ,3,都市計画マップ,https://www2.wagmap.jp/ureshino/Map?mid=14&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:42:03.594Z,2026-04-17T05:42:03.594Z
 412091,嬉野ゆっつらＷｅｂマップ,4,道路情報マップ,https://www2.wagmap.jp/ureshino/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:42:33.537Z,2026-04-17T05:42:33.537Z
+412091,嬉野ゆっつらＷｅｂマップ,5,下水道網図,https://www2.wagmap.jp/ureshino/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:42:55.087Z,2026-04-17T05:42:55.087Z
