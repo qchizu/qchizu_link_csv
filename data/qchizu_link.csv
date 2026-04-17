@@ -1740,3 +1740,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 16446,池田町公開型ＧＩＳ － 公開型地理情報システム,4,道路情報,https://ikeda-map.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=18,2026-04-17T02:05:51.840Z,2026-04-17T02:05:51.840Z
 16446,池田町公開型ＧＩＳ － 公開型地理情報システム,7,防災情報（避難所情報・土砂災害（特別）警戒区域）,https://ikeda-map.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=19&vlf=000011,2026-04-17T02:06:52.479Z,2026-04-17T02:06:52.479Z
 16926,中標津町公開型ＧＩＳ「なかしべつマップ」,6,中標津町地番図,https://nakashibetsu.maps.arcgis.com/apps/webappviewer/index.html?id=c13096f9bc654e2fb712ceed18ed48a2&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-04-17T02:09:48.864Z,2026-04-17T02:09:48.864Z
+16926,中標津町公開型ＧＩＳ「なかしべつマップ」,7,中標津町ハザードマップ,https://nakashibetsu.maps.arcgis.com/apps/webappviewer/index.html?id=3971cceb9191493da156d22fba700522&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-04-17T02:10:43.353Z,2026-04-17T02:10:43.353Z
