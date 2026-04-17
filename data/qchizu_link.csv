@@ -1846,3 +1846,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 413461,みやきＭＡＰ,5,下水道台帳,https://www2.wagmap.jp/miyaki/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:52:19.644Z,2026-04-17T05:52:19.644Z
 413461,みやきＭＡＰ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/miyaki/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:52:50.904Z,2026-04-17T05:52:50.904Z
 413879,玄海町 玄海町くらしマップ,7,防災情報（土砂災害危険箇所）,https://www2.wagmap.jp/genkai/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mcl=17%2C300%2C300%2C300;18%2C310%2C310%2C310;27%2C400%2C400%2C400;28%2C410%2C410%2C410;29%2C420%2C420%2C420,2026-04-17T05:55:18.814Z,2026-04-17T05:55:18.814Z
+414239,大町まちマップ,4,道路情報マップ,https://www2.wagmap.jp/omachi/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:56:47.140Z,2026-04-17T05:56:47.140Z
