@@ -1724,3 +1724,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 14001,ＫＵＴＣＨＡＮ Ｇｅｏ Ｎａｖｉ,4,道路台帳図,https://town.kutchan.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=100,2026-04-17T01:37:07.323Z,2026-04-17T01:37:07.323Z
 14001,ＫＵＴＣＨＡＮ Ｇｅｏ Ｎａｖｉ,5,下水道,https://town.kutchan.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=401,2026-04-17T01:37:35.583Z,2026-04-17T01:37:35.583Z
 14001,ＫＵＴＣＨＡＮ Ｇｅｏ Ｎａｖｉ,6,地番図,https://town.kutchan.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=600,2026-04-17T01:38:00.205Z,2026-04-17T01:38:00.205Z
+14001,ＫＵＴＣＨＡＮ Ｇｅｏ Ｎａｖｉ,7,ハザードマップ,https://town.kutchan.geocloud.jp/webgis/?z={z}&ll={lat}%2C{lng}&mp=300,2026-04-17T01:38:24.864Z,2026-04-17T01:38:24.864Z
