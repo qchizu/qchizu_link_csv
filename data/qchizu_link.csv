@@ -1841,3 +1841,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 413275,よしのがりマップ,7,洪水・土砂ハザードマップ,https://www2.wagmap.jp/yoshinogari/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:48:17.535Z,2026-04-17T05:48:17.535Z
 413411,きやまっぷ,3,都市計画情報,https://www2.wagmap.jp/kiyama/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:49:40.600Z,2026-04-17T05:49:40.600Z
 413411,きやまっぷ,4,道路台帳図,https://www2.wagmap.jp/kiyama/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:49:59.073Z,2026-04-17T05:49:59.073Z
+413411,きやまっぷ,7,ハザードマップ,https://www2.wagmap.jp/kiyama/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:50:28.931Z,2026-04-17T05:50:28.931Z
