@@ -1792,3 +1792,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 434434,ましきマップ,3,都市計画情報,https://www2.wagmap.jp/mashiki/Map?mid=2&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T04:06:59.041Z,2026-04-17T04:06:59.041Z
 434434,ましきマップ,4,道路情報,https://www2.wagmap.jp/mashiki/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T04:07:26.424Z,2026-04-17T04:07:26.424Z
 434434,ましきマップ,5,下水道情報,https://www2.wagmap.jp/mashiki/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T04:07:51.005Z,2026-04-17T04:07:51.005Z
+434434,ましきマップ,7,土砂災害区域,https://www2.wagmap.jp/mashiki/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-17T04:08:38.705Z,2026-04-17T04:08:38.705Z
