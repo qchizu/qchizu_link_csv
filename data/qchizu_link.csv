@@ -1797,3 +1797,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 435317,れいほくよかマップ,1,地形図,https://www2.wagmap.jp/reihoku/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=dm,2026-04-17T04:15:01.807Z,2026-04-17T04:15:01.807Z
 435317,れいほくよかマップ,2,航空写真,https://www2.wagmap.jp/reihoku/Map?mid=15&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3&mtp=ortho,2026-04-17T04:15:39.444Z,2026-04-17T04:15:39.444Z
 435317,れいほくよかマップ,4,道路台帳図,https://www2.wagmap.jp/reihoku/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T04:17:28.906Z,2026-04-17T04:17:28.906Z
+435317,れいほくよかマップ,6,地籍図マップ,https://www2.wagmap.jp/reihoku/Map?mid=16&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T04:18:02.891Z,2026-04-17T04:18:02.891Z
