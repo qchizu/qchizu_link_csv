@@ -1817,3 +1817,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 412066,たけおデジタルマップ,3,都市計画図,https://www.sonicweb-asp.jp/takeo/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:32:09.800Z,2026-04-17T05:32:09.800Z
 412066,たけおデジタルマップ,4,道路台帳図,https://www.sonicweb-asp.jp/takeo/map?theme=th_9#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:32:26.452Z,2026-04-17T05:32:26.452Z
 412066,たけおデジタルマップ,6,地番参考図,https://www.sonicweb-asp.jp/takeo/map?theme=th_4#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:32:56.293Z,2026-04-17T05:32:56.293Z
+412066,たけおデジタルマップ,7,ハザードマップ,https://www.sonicweb-asp.jp/takeo/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:33:38.492Z,2026-04-17T05:33:38.492Z
