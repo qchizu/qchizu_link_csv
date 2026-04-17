@@ -1843,3 +1843,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 413411,きやまっぷ,4,道路台帳図,https://www2.wagmap.jp/kiyama/Map?mid=1&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:49:59.073Z,2026-04-17T05:49:59.073Z
 413411,きやまっぷ,7,ハザードマップ,https://www2.wagmap.jp/kiyama/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:50:28.931Z,2026-04-17T05:50:28.931Z
 413461,みやきＭＡＰ,4,道路情報マップ,https://www2.wagmap.jp/miyaki/Map?mid=9&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:51:52.286Z,2026-04-17T05:51:52.286Z
+413461,みやきＭＡＰ,5,下水道台帳,https://www2.wagmap.jp/miyaki/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-17T05:52:19.644Z,2026-04-17T05:52:19.644Z
