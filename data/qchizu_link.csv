@@ -1783,3 +1783,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 432130,宇城市地図情報システム,4,路線情報,https://webgis.alandis.jp/uki43/webgis/index.php/autologin_jswebgis?u=guest&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=5&si=0,2026-04-17T02:49:13.036Z,2026-04-17T02:49:13.036Z
 432130,宇城市地図情報システム,5,下水道台帳,https://webgis.alandis.jp/uki43/webgis/index.php/autologin_jswebgis?u=guest&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=3&si=0,2026-04-17T02:49:40.602Z,2026-04-17T02:49:40.602Z
 432130,宇城市地図情報システム,7,ハザードマップ,https://webgis.alandis.jp/uki43/webgis/index.php/autologin_jswebgis?u=guest&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=7&si=0,2026-04-17T02:50:25.439Z,2026-04-17T02:50:25.439Z
+434043,きくようまっぷ,3,都市計画図,https://www.sonicweb-asp.jp/kikuyo/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:53:46.805Z,2026-04-17T02:53:46.805Z
