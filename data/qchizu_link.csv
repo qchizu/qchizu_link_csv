@@ -1757,3 +1757,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 432041,荒尾市地理情報システム,3,都市計画図,https://webgis.alandis.jp/arao43/webgis/index.php/autologin_jswebgis?u=guest&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=2,2026-04-17T02:29:54.290Z,2026-04-17T02:29:54.290Z
 432041,荒尾市地理情報システム,4,道路台帳図,https://webgis.alandis.jp/arao43/webgis/index.php/autologin_jswebgis?u=guest&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-04-17T02:30:28.805Z,2026-04-17T02:30:28.805Z
 432067,玉名市地図情報サービス,3,都市計画マップ,https://www.sonicweb-asp.jp/tamana/map?theme=th_17#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:32:29.095Z,2026-04-17T02:32:29.095Z
+432067,玉名市地図情報サービス,4,道路台帳図（市道）,https://www.sonicweb-asp.jp/tamana/map?theme=th_28#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:32:51.138Z,2026-04-17T02:32:51.138Z
