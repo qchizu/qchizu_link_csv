@@ -1806,3 +1806,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 412023,唐津デジタルマップ,2,航空写真（２０２２年（令和４年）撮影）,https://www.sonicweb-asp.jp/karatsu/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:22:48.050Z,2026-04-17T05:22:48.050Z
 412023,唐津デジタルマップ,3,都市計画情報,https://www.sonicweb-asp.jp/karatsu/map?theme=th_54#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:23:12.177Z,2026-04-17T05:23:12.177Z
 412023,唐津デジタルマップ,4,道路関連情報,https://www.sonicweb-asp.jp/karatsu/map?theme=th_46#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:23:42.416Z,2026-04-17T05:23:42.416Z
+412023,唐津デジタルマップ,5,下水道管路図,https://www.sonicweb-asp.jp/karatsu/map?theme=th_26#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T05:24:11.385Z,2026-04-17T05:24:11.385Z
