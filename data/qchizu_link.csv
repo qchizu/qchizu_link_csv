@@ -1755,3 +1755,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 432032,人吉市Ｗｅｂマップ,5,下水道台帳,https://www.sonicweb-asp.jp/hitoyoshi/map?theme=th_13#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:26:02.797Z,2026-04-17T02:26:02.797Z
 432032,人吉市Ｗｅｂマップ,7,防災マップ,https://www.sonicweb-asp.jp/hitoyoshi/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:26:25.370Z,2026-04-17T02:26:25.370Z
 432041,荒尾市地理情報システム,3,都市計画図,https://webgis.alandis.jp/arao43/webgis/index.php/autologin_jswebgis?u=guest&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=2,2026-04-17T02:29:54.290Z,2026-04-17T02:29:54.290Z
+432041,荒尾市地理情報システム,4,道路台帳図,https://webgis.alandis.jp/arao43/webgis/index.php/autologin_jswebgis?u=guest&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-04-17T02:30:28.805Z,2026-04-17T02:30:28.805Z
