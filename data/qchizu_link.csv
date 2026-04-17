@@ -1744,3 +1744,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 431001,熊本市地図情報サービス,4,土木（道路・河川）,https://www.sonicweb-asp.jp/kumamoto/map?theme=th_39#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:14:55.693Z,2026-04-17T02:14:55.693Z
 431001,熊本市地図情報サービス,5,下水道,https://www.sonicweb-asp.jp/kumamoto/map?theme=th_82#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:15:19.891Z,2026-04-17T02:15:19.891Z
 431001,熊本市地図情報サービス,8,森林,https://www.sonicweb-asp.jp/kumamoto/map?theme=th_73#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-17T02:16:26.404Z,2026-04-17T02:16:26.404Z
+432024,やつしろデジタルマップ,1,背景（地形図）,https://www.sonicweb-asp.jp/yatsushiro/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ}&layers=dm,2026-04-17T02:18:10.681Z,2026-04-17T02:18:10.681Z
