@@ -1867,3 +1867,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 462152,薩摩川内市地図サービス,5,下水道マップ,https://www.sonicweb-asp.jp/satsumasendai/map?theme=th_53#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:19:13.179Z,2026-04-30T08:19:13.179Z
 462152,薩摩川内市地図サービス,7,防災マップ,https://www.sonicweb-asp.jp/satsumasendai/map?theme=th_38#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:19:43.731Z,2026-04-30T08:19:43.731Z
 462187,霧島市地図情報システム,3,都市計画,https://www.sonicweb-asp.jp/kirishima/map?theme=th_14#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:26:32.380Z,2026-04-30T08:26:32.380Z
+462187,霧島市地図情報システム,4,市道,https://www.sonicweb-asp.jp/kirishima/map?theme=th_22#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:27:03.303Z,2026-04-30T08:27:03.303Z
