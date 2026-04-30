@@ -1869,3 +1869,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 462187,霧島市地図情報システム,3,都市計画,https://www.sonicweb-asp.jp/kirishima/map?theme=th_14#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:26:32.380Z,2026-04-30T08:26:32.380Z
 462187,霧島市地図情報システム,4,市道,https://www.sonicweb-asp.jp/kirishima/map?theme=th_22#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:27:03.303Z,2026-04-30T08:27:03.303Z
 462209,南さつま市情報マップ,3,都市計画マップ,https://www2.wagmap.jp/minamisatsuma/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-30T08:29:03.579Z,2026-04-30T08:29:03.579Z
+462209,南さつま市情報マップ,4,道路網マップ,https://www2.wagmap.jp/minamisatsuma/Map?mid=5&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-30T08:29:20.736Z,2026-04-30T08:29:20.736Z
