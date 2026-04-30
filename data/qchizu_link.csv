@@ -1854,3 +1854,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 462039,まっぷ ｄｅ かのや,4,道路情報マップ,https://www2.wagmap.jp/kanoya/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-30T08:07:05.520Z,2026-04-30T08:07:05.520Z
 462039,まっぷ ｄｅ かのや,5,下水道情報マップ,https://www2.wagmap.jp/kanoya/Map?mid=10&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-30T08:07:35.377Z,2026-04-30T08:07:35.377Z
 462039,まっぷ ｄｅ かのや,7,土砂災害ハザードマップ,https://www2.wagmap.jp/kanoya/Map?mid=7&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-30T08:08:04.193Z,2026-04-30T08:08:04.193Z
+462047,まくらざき情報マップ,3,都市計画情報マップ,https://www2.wagmap.jp/makurazaki/Map?mid=40&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-30T08:09:50.230Z,2026-04-30T08:09:50.230Z
