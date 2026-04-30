@@ -1851,3 +1851,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 92053,かぬまデジタルマップ,4,道路台帳図,https://www.sonicweb-asp.jp/kanuma/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T07:55:09.378Z,2026-04-30T07:55:09.378Z
 462012,かごしまｉマップ,7,防災マップ,https://www2.wagmap.jp/kagoshima/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-30T07:59:47.652Z,2026-04-30T07:59:47.652Z
 462039,まっぷ ｄｅ かのや,3,都市計画情報マップ,https://www2.wagmap.jp/kanoya/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-30T08:05:03.015Z,2026-04-30T08:05:03.015Z
+462039,まっぷ ｄｅ かのや,4,道路情報マップ,https://www2.wagmap.jp/kanoya/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-30T08:07:05.520Z,2026-04-30T08:07:05.520Z
