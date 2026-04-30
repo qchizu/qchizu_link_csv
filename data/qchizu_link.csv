@@ -1858,3 +1858,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 462047,まくらざき情報マップ,4,道路網図マップ,https://www2.wagmap.jp/makurazaki/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-30T08:10:12.996Z,2026-04-30T08:10:12.996Z
 462047,まくらざき情報マップ,5,下水道情報マップ,https://www2.wagmap.jp/makurazaki/Map?mid=35&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-30T08:10:33.895Z,2026-04-30T08:10:33.895Z
 462047,まくらざき情報マップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/makurazaki/Map?mid=4&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-04-30T08:11:13.961Z,2026-04-30T08:11:13.961Z
+462080,出水市デジタルマップ,3,都市計画情報,https://www.sonicweb-asp.jp/izumi/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:14:09.625Z,2026-04-30T08:14:09.625Z
