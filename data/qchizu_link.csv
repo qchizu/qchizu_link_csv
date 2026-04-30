@@ -1873,3 +1873,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 462209,南さつま市情報マップ,5,下水道台帳マップ,https://www2.wagmap.jp/minamisatsuma/Map?mid=11&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-30T08:29:35.836Z,2026-04-30T08:29:35.836Z
 462209,南さつま市情報マップ,7,土砂災害ハザードマップ,https://www2.wagmap.jp/minamisatsuma/Map?mid=3&mpx={lng}&mpy={lat}&mps={wagmapZ}&gprj=3,2026-04-30T08:29:58.203Z,2026-04-30T08:29:58.203Z
 462217,志布志市　地図情報サービス,3,都市計画区域マップ,https://www.sonicweb-asp.jp/shibushi_city/map?theme=th_15#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:30:49.163Z,2026-04-30T08:30:49.163Z
+462217,志布志市　地図情報サービス,4,市道網図,https://www.sonicweb-asp.jp/shibushi_city/map?theme=th_11#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:31:52.873Z,2026-04-30T08:31:52.873Z
