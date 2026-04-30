@@ -1861,3 +1861,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 462080,出水市デジタルマップ,3,都市計画情報,https://www.sonicweb-asp.jp/izumi/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:14:09.625Z,2026-04-30T08:14:09.625Z
 462080,出水市デジタルマップ,4,道路網図,https://www.sonicweb-asp.jp/izumi/map?theme=th_13#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:14:37.898Z,2026-04-30T08:14:37.898Z
 462080,出水市デジタルマップ,5,下水道管路,https://www.sonicweb-asp.jp/izumi/map?theme=th_15#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:15:01.106Z,2026-04-30T08:15:01.106Z
+462080,出水市デジタルマップ,7,ハザードマップ（洪水・土砂）,https://www.sonicweb-asp.jp/izumi/map?theme=th_28#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:15:24.079Z,2026-04-30T08:15:24.079Z
