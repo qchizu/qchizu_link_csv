@@ -1865,3 +1865,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 462152,薩摩川内市地図サービス,3,都市計画マップ,https://www.sonicweb-asp.jp/satsumasendai/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:17:22.085Z,2026-04-30T08:17:22.085Z
 462152,薩摩川内市地図サービス,4,道路・河川マップ,https://www.sonicweb-asp.jp/satsumasendai/map?theme=koji#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:18:45.588Z,2026-04-30T08:18:45.588Z
 462152,薩摩川内市地図サービス,5,下水道マップ,https://www.sonicweb-asp.jp/satsumasendai/map?theme=th_53#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:19:13.179Z,2026-04-30T08:19:13.179Z
+462152,薩摩川内市地図サービス,7,防災マップ,https://www.sonicweb-asp.jp/satsumasendai/map?theme=th_38#pos={lng}%2C{lat}&scale={sonicwebZ},2026-04-30T08:19:43.731Z,2026-04-30T08:19:43.731Z
