@@ -1910,3 +1910,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 472131,うるマップ,2,航空写真,https://gis.city.uruma.lg.jp/uruma/Map?mid=1016&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:23:32.570Z,2026-05-07T05:23:32.570Z
 472131,うるマップ,3,都市計画情報,https://gis.city.uruma.lg.jp/uruma/Map?mid=1010&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:23:56.609Z,2026-05-07T05:23:56.609Z
 472131,うるマップ,4,認定路線網図,https://gis.city.uruma.lg.jp/uruma/Map?mid=1013&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:24:23.099Z,2026-05-07T05:24:23.099Z
+472131,うるマップ,6,地番図,https://gis.city.uruma.lg.jp/uruma/Map?mid=1011&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:24:53.244Z,2026-05-07T05:24:53.244Z
