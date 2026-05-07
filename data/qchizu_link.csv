@@ -1889,3 +1889,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 470007,沖縄県地図情報システム,4,沖縄ぬ道,https://gis.pref.okinawa.jp/pref-okinawa/Map?mid=214&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:02:19.023Z,2026-05-07T05:02:19.023Z
 470007,沖縄県地図情報システム,7,土砂災害危険箇所,https://gis.pref.okinawa.jp/pref-okinawa/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:03:14.043Z,2026-05-07T05:03:14.043Z
 470007,沖縄県地図情報システム,8,森林地域,https://gis.pref.okinawa.jp/pref-okinawa/Map?mid=409&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:03:36.979Z,2026-05-07T05:03:36.979Z
+472018,なはＭＡＰ,3,都市計画,https://www.sonicweb-asp.jp/naha/map?theme=th_4#pos={lng}%2C{lat}&scale={sonicwebZ},2026-05-07T05:05:32.663Z,2026-05-07T05:05:32.663Z
