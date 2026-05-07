@@ -1887,3 +1887,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 132110,こだいら地図情報システム,7,防災,https://www.sonicweb-asp.jp/kodaira/map?theme=th_18#pos={lng}%2C{lat}&scale={sonicwebZ},2026-05-07T04:34:41.984Z,2026-05-07T04:34:41.984Z
 470007,沖縄県地図情報システム,3,都市計画区域,https://gis.pref.okinawa.jp/pref-okinawa/Map?mid=58&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:00:57.418Z,2026-05-07T05:00:57.418Z
 470007,沖縄県地図情報システム,4,沖縄ぬ道,https://gis.pref.okinawa.jp/pref-okinawa/Map?mid=214&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:02:19.023Z,2026-05-07T05:02:19.023Z
+470007,沖縄県地図情報システム,7,土砂災害危険箇所,https://gis.pref.okinawa.jp/pref-okinawa/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:03:14.043Z,2026-05-07T05:03:14.043Z
