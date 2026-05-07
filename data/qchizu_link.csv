@@ -1918,3 +1918,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 472158,南城市地図情報システム,6,地番参考図,https://www2.wagmap.jp/nanjo/Map?mid=2102&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:32:40.311Z,2026-05-07T05:32:40.311Z
 472158,南城市地図情報システム,7,土砂災害危険箇所,https://www2.wagmap.jp/nanjo/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:33:03.292Z,2026-05-07T05:33:03.292Z
 473294,西原町地図情報システム,3,都市計画図,https://www2.wagmap.jp/nishiharatown/Map?mid=3002&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:35:25.543Z,2026-05-07T05:35:25.543Z
+473294,西原町地図情報システム,6,地番図,https://www2.wagmap.jp/nishiharatown/Map?mid=3001&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:35:50.199Z,2026-05-07T05:35:50.199Z
