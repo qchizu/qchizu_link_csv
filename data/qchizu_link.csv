@@ -1907,3 +1907,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 472115,沖縄市シティマップ,3,都市計画情報,https://www2.wagmap.jp/okinawacity/Map?mid=1001&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:19:09.511Z,2026-05-07T05:19:09.511Z
 472115,沖縄市シティマップ,7,土砂災害危険箇所,https://www2.wagmap.jp/okinawacity/Map?mid=13&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:19:47.244Z,2026-05-07T05:19:47.244Z
 472123,とよとみマップ,3,都市計画図,https://www2.wagmap.jp/tomigusuku/Map?mid=300&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:20:54.896Z,2026-05-07T05:20:54.896Z
+472131,うるマップ,2,航空写真,https://gis.city.uruma.lg.jp/uruma/Map?mid=1016&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:23:32.570Z,2026-05-07T05:23:32.570Z
