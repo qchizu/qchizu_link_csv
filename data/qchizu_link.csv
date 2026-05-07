@@ -1884,3 +1884,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 284467,神河町地図情報システム,4,認定路線網図,https://webgis.alandis.jp/kamikawa28/webgis/index.php/autologin_jswebgis?u=rosen&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-05-07T04:24:04.600Z,2026-05-07T04:24:04.600Z
 284467,神河町地図情報システム,7,土砂災害,https://webgis.alandis.jp/kamikawa28/webgis/index.php/autologin_jswebgis?u=hazard&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-05-07T04:24:50.477Z,2026-05-07T04:24:50.477Z
 132110,こだいら地図情報システム,5,公共下水道台帳施設平面図,https://www.sonicweb-asp.jp/kodaira/map?theme=th_26#pos={lng}%2C{lat}&scale={sonicwebZ},2026-05-07T04:29:46.093Z,2026-05-07T04:29:46.093Z
+132110,こだいら地図情報システム,7,防災,https://www.sonicweb-asp.jp/kodaira/map?theme=th_18#pos={lng}%2C{lat}&scale={sonicwebZ},2026-05-07T04:34:41.984Z,2026-05-07T04:34:41.984Z
