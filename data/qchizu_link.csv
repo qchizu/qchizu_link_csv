@@ -1895,3 +1895,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 472051,宜野湾市統合型ＧＩＳ,3,都市計画情報,https://www.gis.city.ginowan.okinawa.jp/ginowan/Map?mid=511&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:07:42.942Z,2026-05-07T05:07:42.942Z
 472051,宜野湾市統合型ＧＩＳ,4,路線網図,https://www.gis.city.ginowan.okinawa.jp/ginowan/Map?mid=532&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:08:32.084Z,2026-05-07T05:08:32.084Z
 472051,宜野湾市統合型ＧＩＳ,6,地番情報,https://www.gis.city.ginowan.okinawa.jp/ginowan/Map?mid=521&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:09:01.897Z,2026-05-07T05:09:01.897Z
+472051,宜野湾市統合型ＧＩＳ,7,高潮・土砂災害ハザードマップ,https://www.gis.city.ginowan.okinawa.jp/ginowan/Map?mid=503&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:09:50.015Z,2026-05-07T05:09:50.015Z
