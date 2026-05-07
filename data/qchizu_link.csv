@@ -1881,3 +1881,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 272043,いけだデジタルマップ～地図情報提供サービス～,1,地形図,https://www.sonicweb-asp.jp/ikeda/map?theme=th_chikei#pos={lng}%2C{lat}&scale={sonicwebZ},2026-05-07T03:59:19.202Z,2026-05-07T03:59:19.202Z
 272183,大東市下水道マップ,5,下水道施設,https://webgis.alandis.jp/daito27/webgis/index.php/autologin_jswebgis?u=sewer&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-05-07T04:02:02.648Z,2026-05-07T04:02:02.648Z
 284467,神河町地図情報システム,1,地形図,https://webgis.alandis.jp/kamikawa28/webgis/index.php/autologin_jswebgis?u=tikei&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-05-07T04:23:11.958Z,2026-05-07T04:23:11.958Z
+284467,神河町地図情報システム,4,認定路線網図,https://webgis.alandis.jp/kamikawa28/webgis/index.php/autologin_jswebgis?u=rosen&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-05-07T04:24:04.600Z,2026-05-07T04:24:04.600Z
