@@ -1915,3 +1915,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 472131,うるマップ,8,森林地域,https://gis.city.uruma.lg.jp/uruma/Map?mid=2003&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:25:43.216Z,2026-05-07T05:25:43.216Z
 472158,南城市地図情報システム,3,都市計画図,https://www2.wagmap.jp/nanjo/Map?mid=2001&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:26:27.935Z,2026-05-07T05:26:27.935Z
 472158,南城市地図情報システム,5,下水道台帳図,https://www2.wagmap.jp/nanjo/Map?mid=2100&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:32:23.659Z,2026-05-07T05:32:23.659Z
+472158,南城市地図情報システム,6,地番参考図,https://www2.wagmap.jp/nanjo/Map?mid=2102&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:32:40.311Z,2026-05-07T05:32:40.311Z
