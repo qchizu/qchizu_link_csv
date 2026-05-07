@@ -1898,3 +1898,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 472051,宜野湾市統合型ＧＩＳ,7,高潮・土砂災害ハザードマップ,https://www.gis.city.ginowan.okinawa.jp/ginowan/Map?mid=503&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:09:50.015Z,2026-05-07T05:09:50.015Z
 472077,いしがき島っぷ,3,都市計画情報,https://www2.wagmap.jp/ishigakicity/Map?mid=202&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:11:47.110Z,2026-05-07T05:11:47.110Z
 472077,いしがき島っぷ,4,市道認定路線網図,https://www2.wagmap.jp/ishigakicity/Map?mid=235&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:12:06.939Z,2026-05-07T05:12:06.939Z
+472085,うらそえマップ,1,浦添市地形図（Ｈ３１．０２）,https://www2.wagmap.jp/urasoe/Map?mid=830&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:14:07.098Z,2026-05-07T05:14:07.098Z
