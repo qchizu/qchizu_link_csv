@@ -1903,3 +1903,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 472085,うらそえマップ,3,都市計画情報,https://www2.wagmap.jp/urasoe/Map?mid=820&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:15:12.971Z,2026-05-07T05:15:12.971Z
 472085,うらそえマップ,4,路線網図・道路台帳平面図,https://www2.wagmap.jp/urasoe/Map?mid=3501&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:15:49.630Z,2026-05-07T05:15:49.630Z
 472085,うらそえマップ,7,土砂災害危険個所,https://www2.wagmap.jp/urasoe/Map?mid=842&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:16:17.292Z,2026-05-07T05:16:17.292Z
+472115,沖縄市シティマップ,1,沖縄市白図・案内地図（沖縄市地形図）,https://www2.wagmap.jp/okinawacity/Map?mid=1015&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-05-07T05:18:48.080Z,2026-05-07T05:18:48.080Z
