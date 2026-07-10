@@ -1944,3 +1944,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 382027,いまバリィまっぷ,7,開発許可,https://www.sonicweb-asp.jp/imabari/map?theme=th_10#pos={lng}%2C{lat}&scale={sonicwebZ},2026-07-10T05:49:50.208Z,2026-07-10T05:49:50.208Z
 382141,西予市公開マップ,7,土砂災害マップ,https://apps02.chklab.com/LG382141/ciel_public/?citycd=382141&ismapinfofromdb=true&mapindex=90244615&zoom={z}&lat={lat}&lng={lng},2026-07-10T05:53:08.700Z,2026-07-10T05:53:08.700Z
 383864,久万高原町公開マップ,3,都市計画,https://apps01.chklab.com/Lg383864/ciel/?citycd=383864&mapIndex=3&zoom={z}&lat={lat}&lng={lng},2026-07-10T05:55:44.173Z,2026-07-10T05:55:44.173Z
+383864,久万高原町公開マップ,4,路線,https://apps01.chklab.com/Lg383864/ciel/?citycd=383864&mapIndex=2&zoom={z}&lat={lat}&lng={lng},2026-07-10T05:56:00.503Z,2026-07-10T05:56:00.503Z
