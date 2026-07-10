@@ -1928,3 +1928,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 372056,かんおんじマップ,7,防災マップ,https://webgis.alandis.jp/kanonji37/webgis/index.php/autologin_jswebgis?u=guest4&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-07-10T05:08:59.841Z,2026-07-10T05:08:59.841Z
 360007,徳島県総合地図提供システム,3,都市計画マップ,https://maps.pref.tokushima.lg.jp/toshikeikaku/?zoom={z}&lon={lng}&lat={lat},2026-07-10T05:14:03.643Z,2026-07-10T05:14:03.643Z
 360007,徳島県総合地図提供システム,7,土砂災害警戒区域等マップ～土砂災害から命を守るために～,https://maps.pref.tokushima.lg.jp/landslide/?zoom={z}&lon={lng}&lat={lat},2026-07-10T05:16:11.635Z,2026-07-10T05:16:11.635Z
+362034,小松島市道路情報マップ,4,道路情報,https://map-komatsushima.jp/#@{z}%2C{lat}%2C{lng},2026-07-10T05:20:21.943Z,2026-07-10T05:20:21.943Z
