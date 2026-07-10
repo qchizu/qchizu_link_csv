@@ -46,7 +46,7 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 372030,さかいでオンラインＭＡＰ,3,都市計画情報,https://www.city.sakaide.lg.jp/opendata/#{z}/{lat}/{lng}/&ls=id_100%7Cid_101%7Cid_107%7Cid_102%7Cid_103%7Cid_113%7Cid_104%7Cid_114%7Cid_105%7Cid_106%7Cid_108%7Cid_109%7Cid_110%7Cid_111%7Cid_112%7Cid_115%7Cid_116&disp=11111111111111111&lcd=id_116&vs=c1j0h0k0l0u0t0z0r0s0m0f1&d=m,2026-04-16T07:21:21.054Z,2026-04-16T07:21:21.054Z
 372056,かんおんじマップ,3,都市計画,https://webgis.alandis.jp/kanonji37/webgis/index.php/autologin_jswebgis?u=guest2&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-07-10T05:06:51.821Z,2026-07-10T05:06:51.821Z
 220001,静岡県地理情報システム,3,都市計画情報,https://www.gis.pref.shizuoka.jp/?z={z}&ll={lat}%2C{lng}&t=gsi&mp=301&op=70&vlf=00000f,2025-02-05T08:02:38.858Z,2025-02-05T08:02:38.858Z
-382027,いまバリィまっぷ,3,都市計画情報,https://www.sonicweb-asp.jp/imabari/map?pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_2,2025-06-07T06:00:40.912Z,2025-06-07T06:00:40.912Z
+382027,いまバリィまっぷ,3,都市計画情報,https://www.sonicweb-asp.jp/imabari/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-07-10T05:48:54.406Z,2026-07-10T05:48:54.406Z
 382027,いまバリィまっぷ,5,下水道,https://www.sonicweb-asp.jp/imabari/map?pos={lng}%2C{lat}&scale={sonicwebZ}&theme=th_27,2025-06-07T06:02:16.187Z,2025-06-07T06:02:16.187Z
 382060,Ｇｏｏｇｌｅマイマップ,4,西条市道路網図,https://www.google.com/maps/d/viewer?mid=1a62A_SEoViDbgtTx0MSTRRXGqHWZ4-8&femb=1&ll={lat}%2C{lng}&z={z},2025-06-07T06:07:49.172Z,2025-06-07T06:07:49.172Z
 234478,武豊町 たけとよマップ,6,地番参考図,https://www2.wagmap.jp/taketoyotown/Map?mid=90&mpx={lng}&mpy={lat}&mps={wagmapZ},2026-03-27T01:27:25.007Z,2026-03-27T01:27:25.007Z
