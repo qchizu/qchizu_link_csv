@@ -1930,3 +1930,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 360007,徳島県総合地図提供システム,7,土砂災害警戒区域等マップ～土砂災害から命を守るために～,https://maps.pref.tokushima.lg.jp/landslide/?zoom={z}&lon={lng}&lat={lat},2026-07-10T05:16:11.635Z,2026-07-10T05:16:11.635Z
 362034,小松島市道路情報マップ,4,道路情報,https://map-komatsushima.jp/#@{z}%2C{lat}%2C{lng},2026-07-10T05:20:21.943Z,2026-07-10T05:20:21.943Z
 362042,阿南市公開マップ,7,土砂災害マップ,https://apps02.chklab.com/LG362042/ciel_public/?citycd=362042&mapindex=32&ismapinfofromdb=true&zoom={z}&lat={lat}&lng={lng},2026-07-10T05:25:02.602Z,2026-07-10T05:25:02.602Z
+362085,三好市デジタルマップ,2,航空写真,https://www.sonicweb-asp.jp/tokushima-miyoshi/map?theme=default#pos={lng}%2C{lat}&scale={sonicwebZ},2026-07-10T05:27:05.985Z,2026-07-10T05:27:05.985Z
