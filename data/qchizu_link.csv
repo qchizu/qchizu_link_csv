@@ -1925,3 +1925,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 231002,名古屋市道路認定情報サービス,4,道路台帳図,https://www.sonicweb-asp.jp/nagoya/map?theme=th_3#pos={lng}%2C{lat}&scale={sonicwebZ},2026-06-05T02:51:14.939Z,2026-06-05T02:51:14.939Z
 372056,かんおんじマップ,4,路線情報,https://webgis.alandis.jp/kanonji37/webgis/index.php/autologin_jswebgis?u=guest3&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-07-10T05:07:34.300Z,2026-07-10T05:07:34.300Z
 372056,かんおんじマップ,5,下水道情報,https://webgis.alandis.jp/kanonji37/webgis/index.php/autologin_jswebgis?u=guest6&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-07-10T05:08:36.222Z,2026-07-10T05:08:36.222Z
+372056,かんおんじマップ,7,防災マップ,https://webgis.alandis.jp/kanonji37/webgis/index.php/autologin_jswebgis?u=guest4&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-07-10T05:08:59.841Z,2026-07-10T05:08:59.841Z
