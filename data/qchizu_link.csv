@@ -1935,3 +1935,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 362085,三好市デジタルマップ,7,土砂災害マップ,https://www.sonicweb-asp.jp/tokushima-miyoshi/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-07-10T05:28:38.517Z,2026-07-10T05:28:38.517Z
 363871,美波町ＧＩＳ,3,美波町都市計画,https://www.town.minami.lg.jp/gsimaps-gh-pages-minami/#{z}/{lat}/{lng}/&base=std&ls=std%7C210%7C220%7C230&disp=1111&lcd=230&vs=c1j0h0k0l0u0t0z0r0s0m0f1&d=m,2026-07-10T05:33:08.599Z,2026-07-10T05:33:08.599Z
 363871,美波町ＧＩＳ,4,美波町道路,https://www.town.minami.lg.jp/gsimaps-gh-pages-minami/#{z}/{lat}/{lng}/&base=std&ls=std%7C110%7C120%7C130&disp=1111&lcd=130&vs=c1j0h0k0l0u0t0z0r0s0m0f1&d=m,2026-07-10T05:33:39.638Z,2026-07-10T05:33:39.638Z
+364029,北島町地図情報システム,1,地形図,https://webgis.alandis.jp/kitajima36/webgis/index.php/autologin_jswebgis?u=chikeizu&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-07-10T05:36:48.608Z,2026-07-10T05:36:48.608Z
