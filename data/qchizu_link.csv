@@ -1949,3 +1949,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 384844,松野町公開型ＧＩＳ防災ハザードマップ,7,土砂,https://apps01.chklab.com/Map/cielForPublic/?citycd=384844&mapIndex=1&zoom={z}&lat={lat}&lng={lng},2026-07-10T05:58:50.030Z,2026-07-10T05:58:50.030Z
 392031,安芸市デジタルマップ,3,都市計画,https://www.sonicweb-asp.jp/aki/map?theme=th_1#pos={lng}%2C{lat}&scale={sonicwebZ},2026-07-10T06:03:21.237Z,2026-07-10T06:03:21.237Z
 392031,安芸市デジタルマップ,4,道路台帳,https://www.sonicweb-asp.jp/aki/map?theme=th_25#pos={lng}%2C{lat}&scale={sonicwebZ},2026-07-10T06:03:52.775Z,2026-07-10T06:03:52.775Z
+392031,安芸市デジタルマップ,7,土砂災害危険区域,https://www.sonicweb-asp.jp/aki/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-07-10T06:04:20.431Z,2026-07-10T06:04:20.431Z
