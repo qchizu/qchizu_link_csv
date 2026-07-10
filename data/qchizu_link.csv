@@ -1946,3 +1946,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 383864,久万高原町公開マップ,3,都市計画,https://apps01.chklab.com/Lg383864/ciel/?citycd=383864&mapIndex=3&zoom={z}&lat={lat}&lng={lng},2026-07-10T05:55:44.173Z,2026-07-10T05:55:44.173Z
 383864,久万高原町公開マップ,4,路線,https://apps01.chklab.com/Lg383864/ciel/?citycd=383864&mapIndex=2&zoom={z}&lat={lat}&lng={lng},2026-07-10T05:56:00.503Z,2026-07-10T05:56:00.503Z
 383864,久万高原町公開マップ,7,土砂,https://apps01.chklab.com/Lg383864/ciel/?citycd=383864&mapIndex=0&zoom={z}&lat={lat}&lng={lng},2026-07-10T05:56:15.405Z,2026-07-10T05:56:15.405Z
+384844,松野町公開型ＧＩＳ防災ハザードマップ,7,土砂,https://apps01.chklab.com/Map/cielForPublic/?citycd=384844&mapIndex=1&zoom={z}&lat={lat}&lng={lng},2026-07-10T05:58:50.030Z,2026-07-10T05:58:50.030Z
