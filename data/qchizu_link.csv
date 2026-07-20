@@ -1955,3 +1955,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 393011,東洋町地図情報システム,4,道路台帳,https://webgis.alandis.jp/toyo39/webgis/index.php/autologin_jswebgis?ap=jsWebGIS&m=2&u=guest01&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=1&si=0,2026-07-10T06:08:41.259Z,2026-07-10T06:08:41.259Z
 394106,日高村Ｗｅｂマップ,4,道路台帳図,https://www.sonicweb-asp.jp/hidaka_vill/map?theme=th_2#pos={lng}%2C{lat}&scale={sonicwebZ},2026-07-10T06:24:18.965Z,2026-07-10T06:24:18.965Z
 394106,日高村Ｗｅｂマップ,7,ハザードマップ,https://www.sonicweb-asp.jp/hidaka_vill/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-07-10T06:25:02.952Z,2026-07-10T06:25:02.952Z
+12114,網走市用途地域図,3,網走市用途地域図,https://abashiri.maps.arcgis.com/apps/webappviewer/index.html?id=47747be0107940dab326bb03c5b62ad4&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-07-20T14:29:09.421Z,2026-07-20T14:29:09.421Z
