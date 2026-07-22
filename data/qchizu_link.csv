@@ -1957,3 +1957,4 @@ municipality_code,site_name,theme_code,layer_name,url_template,updated_at,verifi
 394106,日高村Ｗｅｂマップ,7,ハザードマップ,https://www.sonicweb-asp.jp/hidaka_vill/map?theme=th_7#pos={lng}%2C{lat}&scale={sonicwebZ},2026-07-10T06:25:02.952Z,2026-07-10T06:25:02.952Z
 12114,網走市用途地域図,3,網走市用途地域図,https://abashiri.maps.arcgis.com/apps/webappviewer/index.html?id=47747be0107940dab326bb03c5b62ad4&center={arcgisX}%2C{arcgisY}%2C102100&level={z},2026-07-20T14:29:09.421Z,2026-07-20T14:29:09.421Z
 252131,東近江市公開型ＧＩＳ,6,地番参考図,https://webgis.alandis.jp/higashiomi25/webgis_dr/index.php/autologin_jswebgis?u=chiban&ap=jsWebGIS&m=2&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857,2026-07-22T07:56:51.938Z,2026-07-22T07:56:51.938Z
+252131,東近江市公開型ＧＩＳ,4,道路台帳図,https://webgis.alandis.jp/higashiomi25/webgis_dr/index.php/autologin_jswebgis?u=guest1&ap=jsWebGIS&m=2&ca=jsWebGIS&x={webMercatorX}&y={webMercatorY}&s={alandisZ}&rs=3857&li=2,2026-07-22T07:59:44.742Z,2026-07-22T07:59:44.742Z
